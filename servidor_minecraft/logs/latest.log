@@ -9220,3 +9220,59 @@ ModdedBiomeSource (7501c6c)
 [02Mar2025 08:48:32.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zlashh: Set own game mode to Creative Mode]
 [02Mar2025 08:51:21.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [Mother of Dragons]
 [02Mar2025 08:52:44.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Mother of Dragons]
+[02Mar2025 08:54:12.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull has made the advancement [Gravedigger]
+[02Mar2025 08:55:26.895] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"create:large_cogwheel"}
+[02Mar2025 08:55:26.898] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id create:seat
+[02Mar2025 08:55:26.898] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Mar2025 08:55:26.924] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id create:seat
+[02Mar2025 08:55:26.924] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Mar2025 08:55:27.551] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id create:seat
+[02Mar2025 08:55:27.552] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Mar2025 08:55:27.558] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"create:large_cogwheel"}
+[02Mar2025 08:55:30.181] [Worker-Main-3/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=316, y=70, z=685}
+[02Mar2025 08:55:30.199] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id create:seat
+[02Mar2025 08:55:30.199] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Mar2025 08:55:36.288] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[02Mar2025 08:55:36.288] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[02Mar2025 08:55:36.288] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 the_leviathan_spawn_egg
+[02Mar2025 08:55:36.289] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[02Mar2025 08:55:36.289] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 4
+[02Mar2025 08:55:36.893] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[02Mar2025 08:55:36.893] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[02Mar2025 08:55:36.893] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 the_leviathan_spawn_egg
+[02Mar2025 08:55:36.893] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[02Mar2025 08:55:36.893] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 4
+[02Mar2025 08:55:37.438] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[02Mar2025 08:55:37.438] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[02Mar2025 08:55:37.438] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 the_leviathan_spawn_egg
+[02Mar2025 08:55:37.438] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[02Mar2025 08:55:37.438] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 4
+[02Mar2025 08:55:37.990] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[02Mar2025 08:55:37.990] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[02Mar2025 08:55:37.990] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 the_leviathan_spawn_egg
+[02Mar2025 08:55:37.991] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[02Mar2025 08:55:37.991] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 4
+[02Mar2025 08:55:38.238] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[02Mar2025 08:55:38.238] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[02Mar2025 08:55:38.238] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 the_leviathan_spawn_egg
+[02Mar2025 08:55:38.238] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[02Mar2025 08:55:38.238] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 4
+[02Mar2025 08:55:38.738] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[02Mar2025 08:55:38.738] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[02Mar2025 08:55:38.738] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 the_leviathan_spawn_egg
+[02Mar2025 08:55:38.738] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[02Mar2025 08:55:38.738] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 4
+[02Mar2025 08:55:38.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: skull moved too quickly! -8.99558346445292,0.0,5.396835959057967
+[02Mar2025 08:55:38.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4794ms or 95 ticks behind
+[02Mar2025 08:55:39.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh has made the advancement [Monster Hunter]
+[02Mar2025 08:55:46.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zlashh: Teleported Zlashh to skull]
+[02Mar2025 08:55:48.186] [pool-8-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / atmospheric:village_scrubland], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=315, y=74, z=747}
+[02Mar2025 08:56:04.312] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Korey'/8728, l='ServerLevel[world]', x=341.30, y=69.00, z=682.78] died, message: 'Korey was slain by Kobold Warrior'
+[02Mar2025 08:56:04.314] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Korey'/8728, l='ServerLevel[world]', x=341.30, y=69.00, z=682.78] died: Korey was slain by Kobold Warrior
+[02Mar2025 08:57:24.652] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Arid Sand'/10312, l='ServerLevel[world]', x=274.50, y=42.00, z=557.50]
+[02Mar2025 08:59:31.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: skull lost connection: Disconnected
+[02Mar2025 08:59:31.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull left the game
+[02Mar2025 08:59:31.215] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client skull
+[02Mar2025 09:00:23.613] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zlashh lost connection: Disconnected
+[02Mar2025 09:00:23.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh left the game
+[02Mar2025 09:00:23.615] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Zlashh
