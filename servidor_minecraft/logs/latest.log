@@ -51,3 +51,9 @@
 [02Mar2025 07:12:49.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: skull lost connection: Disconnected
 [02Mar2025 07:12:49.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull left the game
 [02Mar2025 07:14:00.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh was slain by Zombie
+[02Mar2025 07:16:34.315] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: skull[/127.62.5.236:40425] logged in with entity id 1094 at (-57.5, 63.0, 98.5)
+[02Mar2025 07:16:34.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull joined the game
+[02Mar2025 07:17:14.208] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zlashh lost connection: Disconnected
+[02Mar2025 07:17:14.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zlashh left the game
+[02Mar2025 07:17:19.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: skull lost connection: Disconnected
+[02Mar2025 07:17:19.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skull left the game
