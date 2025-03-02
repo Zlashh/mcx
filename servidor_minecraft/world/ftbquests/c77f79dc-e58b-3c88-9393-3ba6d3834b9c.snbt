@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "c77f79dce58b3c8893933ba6d3834b9c"
+	name: "skull#c77f79dc"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
