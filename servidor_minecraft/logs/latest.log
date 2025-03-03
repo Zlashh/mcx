@@ -2430,3 +2430,30 @@ BCLib - Nether BiomeSource (1b3c0fac)
 [20:58:39] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
 [20:58:40] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
 [21:02:39] [Server thread/INFO]: Zlashh has made the advancement [Forbidden Fruit]
+[21:05:08] [Server thread/INFO]: [Handshake] Sending channel query
+[21:05:08] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[21:05:08] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[21:05:08] [Server thread/INFO]: skull[/127.62.5.236:40649] logged in with entity id 2085 at (-133.26008885339184, 74.0, -40.53930695748829)
+[21:05:08] [Server thread/INFO]: Sending server config values to client
+[21:05:08] [Server thread/INFO]: Syncing config to skull (c77f79dc-e58b-3c88-9393-3ba6d3834b9c)
+[21:05:08] [Server thread/INFO]: Loading config from file...
+[21:05:08] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:05:08] [Server thread/INFO]: skull joined the game
+[21:05:08] [Server thread/INFO]: Loading Configs for Sortilege
+[21:05:08] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[21:05:08] [Server thread/INFO]: Updating all forceload tickets for c77f79dc-e58b-3c88-9393-3ba6d3834b9c
+[21:05:08] [Server thread/INFO]: PLAYER_JOIN
+[21:05:08] [Server thread/INFO]: add_player wand
+[21:05:08] [Server thread/INFO]: config sent
+[21:05:10] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[21:05:10] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: skull -> Global
+[21:05:10] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player skull. Claiming: GRAVE / Robbing: INVENTORY
+[21:05:10] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of skull accepted server config.
+[21:05:13] [Server thread/WARN]: UUID of added entity already exists: Butterfly['Butterfly'/2204, l='ServerLevel[world]', x=-161.74, y=69.67, z=-192.00]
+[21:05:13] [Server thread/WARN]: UUID of added entity already exists: Butterfly['Butterfly'/2245, l='ServerLevel[world]', x=-159.70, y=71.35, z=-192.08]
+[21:05:14] [Server thread/WARN]: UUID of added entity already exists: Butterfly['Butterfly'/2253, l='ServerLevel[world]', x=-268.96, y=64.01, z=-192.04]
+[21:13:33] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=71, y=-40, z=242}
+[21:13:33] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=71, y=-40, z=243}
+[21:13:47] [Server thread/INFO]: skull has made the advancement [Smoke On The Water]
+[21:13:53] [Server thread/INFO]: skull was slain by Skeleton
+[21:13:55] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of skull accepted server config.
