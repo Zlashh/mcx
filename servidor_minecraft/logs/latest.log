@@ -2490,3 +2490,23 @@ BCLib - Nether BiomeSource (1b3c0fac)
 [20:20:44] [Server thread/INFO]: Zlashh left the game
 [20:20:44] [Server thread/INFO]: remove player wand
 [20:20:44] [Server thread/INFO]: Updating all forceload tickets for 9f1e9bcc-daec-3ebc-8364-c21c9b865916
+[20:31:17] [Server thread/INFO]: [Handshake] Sending channel query
+[20:31:17] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[20:31:17] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[20:31:17] [Server thread/INFO]: Zlashh[/127.206.177.213:37301] logged in with entity id 4324 at (-257.69999998807907, 72.0, 43.30000001192093)
+[20:31:17] [Server thread/INFO]: Sending server config values to client
+[20:31:17] [Server thread/INFO]: Syncing config to Zlashh (9f1e9bcc-daec-3ebc-8364-c21c9b865916)
+[20:31:17] [Server thread/INFO]: Loading config from file...
+[20:31:17] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:31:17] [Server thread/INFO]: Zlashh joined the game
+[20:31:17] [Server thread/INFO]: Loading Configs for Sortilege
+[20:31:17] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[20:31:17] [Server thread/INFO]: Updating all forceload tickets for 9f1e9bcc-daec-3ebc-8364-c21c9b865916
+[20:31:17] [Server thread/INFO]: PLAYER_JOIN
+[20:31:17] [Server thread/INFO]: add_player wand
+[20:31:17] [Server thread/INFO]: config sent
+[20:31:19] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[20:31:22] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: Zlashh -> Global
+[20:31:22] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Zlashh. Claiming: GRAVE / Robbing: INVENTORY
+[20:31:24] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Zlashh accepted server config.
+[20:37:03] [Server thread/INFO]: Zlashh has made the advancement [Stone Age]
