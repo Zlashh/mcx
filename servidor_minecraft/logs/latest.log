@@ -2527,3 +2527,18 @@ BCLib - Nether BiomeSource (1b3c0fac)
 [21:33:28] [Server thread/INFO]: skull has made the advancement [Gravedigger]
 [21:33:46] [Server thread/INFO]: Villager class_1646['Jeffery'/16705, l='ServerLevel[world]', x=-674.70, y=60.05, z=258.30] died, message: 'Jeffery drowned'
 [21:33:46] [Server thread/INFO]: Named entity class_1646['Jeffery'/16705, l='ServerLevel[world]', x=-674.70, y=60.05, z=258.30] died: Jeffery drowned
+[21:36:43] [Server thread/INFO]: skull has made the advancement [Diamonds!]
+[21:36:46] [Server thread/INFO]: skull has made the advancement [Suit Up]
+[21:36:50] [Server thread/INFO]: skull has made the advancement [Ice Bucket Challenge]
+[21:36:57] [Server thread/INFO]: skull has made the advancement [Acquire Hardware]
+[21:38:34] [Server thread/INFO]: Zlashh has made the advancement [Disme A Dozen]
+[21:38:55] [Server thread/INFO]: Zlashh has made the advancement [Refined Iron]
+[21:40:27] [Server thread/INFO]: skull has made the advancement [Cover Me In Emeralds]
+[21:40:27] [Server thread/INFO]: skull has made the advancement [The Beginning of An Adventure]
+[21:40:53] [Server thread/WARN]: @Redirect conflict. Skipping mixins.redirected_fabric_1.20.1.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirected->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[21:41:47] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[21:41:47] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[21:43:13] [Server thread/INFO]: skull lost connection: Disconnected
+[21:43:13] [Server thread/INFO]: skull left the game
+[21:43:13] [Server thread/INFO]: remove player wand
+[21:43:13] [Server thread/INFO]: Updating all forceload tickets for c77f79dc-e58b-3c88-9393-3ba6d3834b9c
