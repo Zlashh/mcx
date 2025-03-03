@@ -2518,3 +2518,12 @@ BCLib - Nether BiomeSource (1b3c0fac)
 [21:24:38] [Netty Epoll Server IO #2/INFO]: Receiving client config
 [21:24:38] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: skull -> Global
 [21:24:38] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player skull. Claiming: GRAVE / Robbing: INVENTORY
+[21:24:39] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of skull accepted server config.
+[21:30:48] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-472, y=19, z=230}
+[21:30:48] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-472, y=19, z=228}
+[21:31:15] [Server thread/INFO]: Zlashh has made the advancement [Fruits of the Field]
+[21:31:17] [Server thread/INFO]: skull has made the advancement [Fruits of the Field]
+[21:31:23] [Server thread/INFO]: Zlashh has made the advancement ['X' Marks the Spot]
+[21:33:28] [Server thread/INFO]: skull has made the advancement [Gravedigger]
+[21:33:46] [Server thread/INFO]: Villager class_1646['Jeffery'/16705, l='ServerLevel[world]', x=-674.70, y=60.05, z=258.30] died, message: 'Jeffery drowned'
+[21:33:46] [Server thread/INFO]: Named entity class_1646['Jeffery'/16705, l='ServerLevel[world]', x=-674.70, y=60.05, z=258.30] died: Jeffery drowned

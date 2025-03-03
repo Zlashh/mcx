@@ -1060,6 +1060,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-03-03 21:30:43 +0000",
       "bread": "2025-03-03 21:10:53 +0000",
       "rotten_flesh": "2025-03-03 20:18:46 +0000"
     },
@@ -2128,6 +2129,42 @@
   "croptopia:recipes/fruit_salad": {
     "criteria": {
       "has_apple": "2025-03-03 21:17:29 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/guards_armor_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-03-03 21:28:46 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-03-03 21:28:46 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-03-03 21:28:46 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-03-03 21:28:46 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-03-03 21:28:46 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_chestplate": {
+    "criteria": {
+      "has_leather_chestplate": "2025-03-03 21:28:46 +0000"
     },
     "done": true
   },
