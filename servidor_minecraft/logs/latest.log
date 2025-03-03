@@ -2458,3 +2458,35 @@ BCLib - Nether BiomeSource (1b3c0fac)
 [20:08:39] [Server thread/INFO]: Zlashh left the game
 [20:08:39] [Server thread/INFO]: remove player wand
 [20:08:39] [Server thread/INFO]: Updating all forceload tickets for 9f1e9bcc-daec-3ebc-8364-c21c9b865916
+[20:13:27] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
+[20:13:27] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[20:17:52] [Server thread/INFO]: [Handshake] Sending channel query
+[20:17:53] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[20:17:53] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[20:17:53] [Server thread/INFO]: Zlashh[/127.206.177.213:40601] logged in with entity id 3134 at (-82.62433928348764, 68.0, 32.20098584560814)
+[20:17:53] [Server thread/INFO]: Sending server config values to client
+[20:17:53] [Server thread/INFO]: Syncing config to Zlashh (9f1e9bcc-daec-3ebc-8364-c21c9b865916)
+[20:17:53] [Server thread/INFO]: Loading config from file...
+[20:17:53] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:17:53] [Server thread/INFO]: Zlashh joined the game
+[20:17:53] [Server thread/INFO]: Loading Configs for Sortilege
+[20:17:53] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[20:17:53] [Server thread/INFO]: Updating all forceload tickets for 9f1e9bcc-daec-3ebc-8364-c21c9b865916
+[20:17:53] [Server thread/INFO]: PLAYER_JOIN
+[20:17:53] [Server thread/INFO]: add_player wand
+[20:17:53] [Server thread/INFO]: config sent
+[20:17:54] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[20:17:55] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: Zlashh -> Global
+[20:17:55] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Zlashh. Claiming: GRAVE / Robbing: INVENTORY
+[20:17:56] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Zlashh accepted server config.
+[20:18:18] [Server thread/INFO]: skull has made the advancement [Monster Hunter]
+[20:19:22] [Server thread/INFO]: skull lost connection: Disconnected
+[20:19:22] [Server thread/INFO]: skull left the game
+[20:19:22] [Server thread/INFO]: remove player wand
+[20:19:22] [Server thread/INFO]: Updating all forceload tickets for c77f79dc-e58b-3c88-9393-3ba6d3834b9c
+[20:19:55] [Server thread/INFO]: Zlashh has made the advancement [Mine Cells]
+[20:20:27] [Server thread/INFO]: Zlashh has made the advancement [Monster Hunter]
+[20:20:44] [Server thread/INFO]: Zlashh lost connection: Disconnected
+[20:20:44] [Server thread/INFO]: Zlashh left the game
+[20:20:44] [Server thread/INFO]: remove player wand
+[20:20:44] [Server thread/INFO]: Updating all forceload tickets for 9f1e9bcc-daec-3ebc-8364-c21c9b865916
