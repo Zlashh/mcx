@@ -2457,3 +2457,64 @@ BCLib - Nether BiomeSource (1b3c0fac)
 [21:13:47] [Server thread/INFO]: skull has made the advancement [Smoke On The Water]
 [21:13:53] [Server thread/INFO]: skull was slain by Skeleton
 [21:13:55] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of skull accepted server config.
+[21:14:39] [Server thread/INFO]: skull claimed a grave belonging to skull at 79, 61, 72, minecraft:overworld
+[21:15:37] [Server thread/INFO]: skull was slain by Skeleton
+[21:15:39] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of skull accepted server config.
+[21:16:45] [Server thread/INFO]: skull claimed a grave belonging to skull at 174, 61, 17, minecraft:overworld
+[21:17:20] [Server thread/INFO]: skull has made the advancement [Barrel Booty]
+[21:17:21] [Server thread/INFO]: skull has made the advancement ['X' Marks the Spot]
+[21:17:29] [Server thread/INFO]: skull has made the advancement [Forbidden Fruit]
+[21:18:43] [Server thread/INFO]: skull was slain by Zombie
+[21:18:56] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of skull accepted server config.
+[21:18:59] [Server thread/INFO]: skull lost connection: Disconnected
+[21:18:59] [Server thread/INFO]: skull left the game
+[21:18:59] [Server thread/INFO]: remove player wand
+[21:18:59] [Server thread/INFO]: Updating all forceload tickets for c77f79dc-e58b-3c88-9393-3ba6d3834b9c
+[21:18:59] [Server thread/WARN]: handleDisconnection() called twice
+[21:22:31] [Worker-Main-3/WARN]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[21:22:32] [Worker-Main-3/WARN]: Empty or non-existent pool: kaisyn:village/meadow_swiss/villagers
+[21:23:09] [Server thread/INFO]: Zlashh has made the advancement [Barrel Booty]
+[21:23:23] [Server thread/INFO]: Zlashh has made the advancement [Suit Up]
+[21:23:24] [Server thread/INFO]: Zlashh has made the advancement [Acquire Hardware]
+[21:24:00] [Server thread/INFO]: [Handshake] Sending channel query
+[21:24:00] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[21:24:00] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[21:24:00] [Server thread/INFO]: skull[/127.62.5.236:59221] logged in with entity id 11659 at (-63.24655457937312, 68.0, 16.223461919732603)
+[21:24:00] [Server thread/INFO]: Sending server config values to client
+[21:24:00] [Server thread/INFO]: Syncing config to skull (c77f79dc-e58b-3c88-9393-3ba6d3834b9c)
+[21:24:00] [Server thread/INFO]: Loading config from file...
+[21:24:00] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:24:00] [Server thread/INFO]: skull joined the game
+[21:24:00] [Server thread/INFO]: Loading Configs for Sortilege
+[21:24:00] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[21:24:00] [Server thread/INFO]: Updating all forceload tickets for c77f79dc-e58b-3c88-9393-3ba6d3834b9c
+[21:24:00] [Server thread/INFO]: PLAYER_JOIN
+[21:24:00] [Server thread/INFO]: add_player wand
+[21:24:00] [Server thread/INFO]: config sent
+[21:24:02] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[21:24:02] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: skull -> Global
+[21:24:02] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player skull. Claiming: GRAVE / Robbing: INVENTORY
+[21:24:03] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of skull accepted server config.
+[21:24:18] [Server thread/INFO]: skull claimed a grave belonging to skull at -84, 69, 27, minecraft:overworld
+[21:24:26] [Server thread/INFO]: skull lost connection: Disconnected
+[21:24:26] [Server thread/INFO]: skull left the game
+[21:24:26] [Server thread/INFO]: remove player wand
+[21:24:26] [Server thread/INFO]: Updating all forceload tickets for c77f79dc-e58b-3c88-9393-3ba6d3834b9c
+[21:24:36] [Server thread/INFO]: [Handshake] Sending channel query
+[21:24:36] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[21:24:36] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[21:24:36] [Server thread/INFO]: skull[/127.62.5.236:40127] logged in with entity id 12346 at (-109.88767687857317, 72.0, 21.30000001192093)
+[21:24:36] [Server thread/INFO]: Sending server config values to client
+[21:24:36] [Server thread/INFO]: Syncing config to skull (c77f79dc-e58b-3c88-9393-3ba6d3834b9c)
+[21:24:36] [Server thread/INFO]: Loading config from file...
+[21:24:37] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:24:37] [Server thread/INFO]: skull joined the game
+[21:24:37] [Server thread/INFO]: Loading Configs for Sortilege
+[21:24:37] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[21:24:37] [Server thread/INFO]: Updating all forceload tickets for c77f79dc-e58b-3c88-9393-3ba6d3834b9c
+[21:24:37] [Server thread/INFO]: PLAYER_JOIN
+[21:24:37] [Server thread/INFO]: add_player wand
+[21:24:37] [Server thread/INFO]: config sent
+[21:24:38] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[21:24:38] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: skull -> Global
+[21:24:38] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player skull. Claiming: GRAVE / Robbing: INVENTORY
