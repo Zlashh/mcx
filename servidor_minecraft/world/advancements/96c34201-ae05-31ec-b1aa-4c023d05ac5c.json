@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/axes/axe_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-03-04 04:16:23 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/acacia_cog": {
     "criteria": {
       "in_water": "2025-03-04 02:29:51 +0000"
@@ -158,6 +164,12 @@
   "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2025-03-04 02:40:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-03-04 04:16:23 +0000"
     },
     "done": true
   },
@@ -879,6 +891,12 @@
   "croptopia:recipes/misc/knife": {
     "criteria": {
       "has_iron": "2025-03-04 03:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-03-04 04:11:39 +0000"
     },
     "done": true
   },
@@ -2137,6 +2155,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_lantern": "2025-03-04 04:07:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_nightstand": {
     "criteria": {
       "has_oak_nightstand": "2025-03-04 03:25:58 +0000"
@@ -3218,6 +3242,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-03-04 04:11:39 +0000"
+    },
+    "done": true
+  },
   "herbalbrews:recipes/copper_tea_kettle": {
     "criteria": {
       "has_copper_ingot": "2025-03-04 03:45:02 +0000"
@@ -3374,6 +3404,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2025-03-04 04:11:39 +0000"
+    },
+    "done": true
+  },
   "beachparty:bikini": {
     "criteria": {
       "has_string": "2025-03-04 03:12:45 +0000"
@@ -3491,6 +3527,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-03-04 02:40:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2025-03-04 04:11:39 +0000"
     },
     "done": true
   },
@@ -3632,6 +3674,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 04:11:39 +0000"
+    },
+    "done": true
+  },
   "beachparty:palm_torch": {
     "criteria": {
       "has_bamboo": "2025-03-04 02:41:20 +0000"
@@ -3653,6 +3701,12 @@
   "mcda:recipes/base_armors/shulker_armor_chestplate": {
     "criteria": {
       "has_leather": "2025-03-04 03:25:56 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-03-04 04:11:39 +0000"
     },
     "done": true
   },
@@ -4481,6 +4535,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_pork": "2025-03-04 04:11:39 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_slayer": {
     "criteria": {
       "has_string": "2025-03-04 03:12:45 +0000"
@@ -5036,6 +5096,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-03-04 03:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-03-04 04:11:39 +0000"
     },
     "done": true
   },
@@ -5789,6 +5855,12 @@
   "create:recipes/misc/crafting/materials/copper_nugget": {
     "criteria": {
       "has_item": "2025-03-04 03:45:02 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-03-04 04:07:31 +0000"
     },
     "done": true
   },
@@ -6645,9 +6717,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-03-04 04:03:57 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/iron_scale": {
     "criteria": {
       "has_iron_ingot": "2025-03-04 03:23:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_meat": {
+    "criteria": {
+      "has_raw_meat": "2025-03-04 04:11:39 +0000"
     },
     "done": true
   },
@@ -6690,6 +6774,12 @@
   "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
     "criteria": {
       "has_planks": "2025-03-04 02:32:05 +0000"
+    },
+    "done": true
+  },
+  "more_rpg_content:bow_way": {
+    "criteria": {
+      "items": "2025-03-04 04:07:41 +0000"
     },
     "done": true
   },
@@ -6780,6 +6870,12 @@
   "betterend:recipes/misc/charcoal_block": {
     "criteria": {
       "has_charcoal": "2025-03-04 02:40:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "has_cobblestone_slab": "2025-03-04 04:07:50 +0000"
     },
     "done": true
   },
@@ -7190,6 +7286,12 @@
   "betternether:recipes/decorations/wart_sign": {
     "criteria": {
       "has_stick": "2025-03-04 02:31:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-03-04 04:11:39 +0000"
     },
     "done": true
   },
@@ -7912,6 +8014,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-03-04 04:03:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-03-04 02:42:51 +0000"
@@ -8144,6 +8252,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-04 04:11:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-03-04 02:30:34 +0000"
@@ -8262,6 +8376,12 @@
   "croptopia:recipes/misc/peach_sapling": {
     "criteria": {
       "has_peach": "2025-03-04 03:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-04 04:11:39 +0000"
     },
     "done": true
   },
