@@ -3650,3 +3650,35 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [03:50:19] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Pavks accepted server config.
 [03:52:34] [Server thread/INFO]: <Zlashh> -678,51
 [03:52:35] [Server thread/INFO]: Pavks has made the advancement [Monster Hunter]
+[03:53:34] [Server thread/INFO]: Pavks has made the advancement [Fruits of the Field]
+[03:55:40] [Server thread/INFO]: Joapapiriko has made the advancement [Refined Iron]
+[03:57:31] [Server thread/INFO]: Pavks has made the advancement [Stone Age]
+[03:57:50] [Server thread/INFO]: Pavks has made the advancement [Getting an Upgrade]
+[03:58:39] [Server thread/INFO]: [Handshake] Sending channel query
+[03:58:39] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[03:58:39] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[03:58:40] [Server thread/INFO]: IFrankieuwu[/127.102.52.92:54405] logged in with entity id 30915 at (-61.5, 66.0, 12.5)
+[03:58:40] [Server thread/INFO]: Sending server config values to client
+[03:58:40] [Server thread/INFO]: Syncing config to IFrankieuwu (20e22081-83de-34fc-a4f3-de4f0363e293)
+[03:58:40] [Server thread/INFO]: Loading config from file...
+[03:58:40] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:58:40] [Server thread/INFO]: IFrankieuwu joined the game
+[03:58:40] [Server thread/INFO]: Loading Configs for Sortilege
+[03:58:40] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[03:58:40] [Server thread/INFO]: Updating all forceload tickets for 20e22081-83de-34fc-a4f3-de4f0363e293
+[03:58:40] [Server thread/INFO]: PLAYER_JOIN
+[03:58:40] [Server thread/INFO]: add_player wand
+[03:58:40] [Server thread/INFO]: config sent
+[03:58:40] [Server thread/INFO]: IFrankieuwu has made the advancement [Mythic Mobs]
+[03:58:43] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[03:58:47] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: IFrankieuwu -> Global
+[03:58:47] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player IFrankieuwu. Claiming: GRAVE / Robbing: INVENTORY
+[03:58:50] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of IFrankieuwu accepted server config.
+[04:00:47] [Server thread/INFO]: Villager class_1646['Marjory'/29, l='ServerLevel[world]', x=50.94, y=62.28, z=23.41] died, message: 'Marjory was impaled by Drowned'
+[04:00:47] [Server thread/INFO]: Named entity class_1646['Marjory'/29, l='ServerLevel[world]', x=50.94, y=62.28, z=23.41] died: Marjory was impaled by Drowned
+[04:01:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[04:01:27] [Server thread/INFO]: IFrankieuwu has made the advancement [Monster Hunter]
+[04:01:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4176ms or 83 ticks behind
+[04:02:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3330ms or 66 ticks behind
+[04:02:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04:02:33] [Server thread/INFO]: Pavks has made the advancement [Barrel Booty]

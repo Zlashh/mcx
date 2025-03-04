@@ -678,6 +678,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/oat_seed": {
+    "criteria": {
+      "has_oat": "2025-03-04 04:00:37 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/ruby_storage_block": {
     "criteria": {
       "has_ruby_gem": "2025-03-04 03:28:05 +0000"
@@ -1107,6 +1113,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-03-04 02:37:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/alarm": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-03-04 03:55:40 +0000"
     },
     "done": true
   },
@@ -2264,6 +2276,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron_and_carbon": {
+    "criteria": {
+      "has_refined_iron": "2025-03-04 03:55:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-03-04 03:45:02 +0000"
@@ -2315,6 +2333,12 @@
   "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-03-04 03:27:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron": {
+    "criteria": {
+      "has_refined_iron": "2025-03-04 03:55:40 +0000"
     },
     "done": true
   },
@@ -2603,6 +2627,12 @@
   "betterend:recipes/decorations/helix_tree_bar_stool": {
     "criteria": {
       "has_stick": "2025-03-04 02:31:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/wire_mill/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-03-04 03:55:40 +0000"
     },
     "done": true
   },
@@ -3068,6 +3098,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/manual": {
+    "criteria": {
+      "has_ingot": "2025-03-04 03:55:40 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_call_of_the_void": {
     "criteria": {
       "has_string": "2025-03-04 03:12:45 +0000"
@@ -3362,6 +3398,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/electronic_circuit": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-03-04 03:55:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mangrove_chair": {
     "criteria": {
       "has_stick": "2025-03-04 02:31:46 +0000"
@@ -3629,6 +3671,12 @@
   "dummmmmmy:recipes/dummy_crafting": {
     "criteria": {
       "has_hay_block": "2025-03-04 02:37:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
+    "criteria": {
+      "has_refined_iron": "2025-03-04 03:55:40 +0000"
     },
     "done": true
   },
@@ -4553,6 +4601,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_storage_block": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-03-04 03:55:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/rubeus_taburet": {
     "criteria": {
       "has_stick": "2025-03-04 02:31:46 +0000"
@@ -4844,6 +4898,12 @@
   "seasonsextras:recipes/tinted_greenhouse_glass": {
     "criteria": {
       "has_glass": "2025-03-04 02:20:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/oatmeal": {
+    "criteria": {
+      "has_oats": "2025-03-04 04:00:37 +0000"
     },
     "done": true
   },
@@ -5175,7 +5235,8 @@
   "croptopia:gather_all": {
     "criteria": {
       "pepper_seed": "2025-03-04 03:06:30 +0000",
-      "broccoli_seed": "2025-03-04 02:44:19 +0000"
+      "broccoli_seed": "2025-03-04 02:44:19 +0000",
+      "oat_seed": "2025-03-04 04:00:37 +0000"
     },
     "done": false
   },
@@ -5503,6 +5564,12 @@
     },
     "done": true
   },
+  "techreborn:refinediron": {
+    "criteria": {
+      "crit_0": "2025-03-04 03:55:40 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
     "criteria": {
       "has_item": "2025-03-04 03:08:15 +0000"
@@ -5674,6 +5741,12 @@
   "supplementaries:recipes/flags/flag_gray": {
     "criteria": {
       "has_stick": "2025-03-04 02:31:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-03-04 03:55:40 +0000"
     },
     "done": true
   },
@@ -6740,6 +6813,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-03-04 03:55:40 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
       "has_iron_ingot": "2025-03-04 03:23:49 +0000"
@@ -7797,6 +7876,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/refined_iron_nugget": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-03-04 03:55:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/potato": {
     "criteria": {
       "has_potato": "2025-03-04 02:37:35 +0000"
@@ -8071,6 +8156,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/insulated_hv_cable": {
+    "criteria": {
+      "has_refined_iron": "2025-03-04 03:55:40 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/vanguard_armor_leggings": {
     "criteria": {
       "has_leather": "2025-03-04 03:25:56 +0000"
@@ -8165,6 +8256,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-03-04 03:23:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_sapling": {
+    "criteria": {
+      "has_peach": "2025-03-04 03:56:05 +0000"
     },
     "done": true
   },
@@ -8294,6 +8391,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/peach_jam": {
+    "criteria": {
+      "has_peach": "2025-03-04 03:56:05 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-03-04 02:29:51 +0000"
@@ -8303,6 +8406,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-04 03:06:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/refined_iron_plate": {
+    "criteria": {
+      "has_tag_c_refined_iron_ingots": "2025-03-04 03:55:40 +0000"
     },
     "done": true
   },
@@ -8675,7 +8784,8 @@
   "croptopia:gather_plains": {
     "criteria": {
       "pepper_seed": "2025-03-04 03:06:30 +0000",
-      "broccoli_seed": "2025-03-04 02:44:19 +0000"
+      "broccoli_seed": "2025-03-04 02:44:19 +0000",
+      "oat_seed": "2025-03-04 04:00:37 +0000"
     },
     "done": false
   },

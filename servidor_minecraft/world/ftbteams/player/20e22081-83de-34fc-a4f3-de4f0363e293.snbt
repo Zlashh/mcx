@@ -1,0 +1,17 @@
+{
+	id: "20e22081-83de-34fc-a4f3-de4f0363e293"
+	type: "player"
+	player_name: "IFrankieuwu"
+	ranks: {
+		20e22081-83de-34fc-a4f3-de4f0363e293: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "IFrankieuwu"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFE059"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
