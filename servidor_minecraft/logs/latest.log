@@ -4208,3 +4208,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	... 29 more
 [04:52:11] [Server thread/INFO]: IFrankieuwu has made the advancement [Forbidden Fruit]
 [04:53:07] [Server thread/INFO]: Pavks has made the advancement [Disme A Dozen]
+[04:56:58] [Server thread/INFO]: Pavks has made the advancement [Not Today, Thank You]
+[05:03:12] [Server thread/WARN]: @Redirect conflict. Skipping mixins.redirected_fabric_1.20.1.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirected->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
