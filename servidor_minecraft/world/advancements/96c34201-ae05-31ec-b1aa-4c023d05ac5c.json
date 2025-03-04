@@ -12927,6 +12927,8 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "cashew_chicken": "2025-03-04 22:02:55 +0000",
+      "pineapple_pepperoni_pizza": "2025-03-04 22:03:01 +0000",
       "glowing_calamari": "2025-03-04 06:56:57 +0000"
     },
     "done": false
@@ -13532,9 +13534,21 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-04 21:50:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-03-04 21:52:17 +0000"
     },
     "done": true
   },
@@ -13568,6 +13582,12 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_hive": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mana_fluxfield": {
     "criteria": {
       "has_alt_item": "2025-03-04 21:18:17 +0000"
@@ -13579,6 +13599,12 @@
       "has_item": "2025-03-04 21:18:17 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_tree_plains": {
+    "criteria": {
+      "apple_sapling": "2025-03-04 22:02:05 +0000"
+    },
+    "done": false
   },
   "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
     "criteria": {
@@ -13640,6 +13666,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-03-04 21:52:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-03-04 21:19:49 +0000"
@@ -13676,6 +13708,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/mourner_pottery_sherd": {
+    "criteria": {
+      "has_recovery_compass": "2025-03-04 21:49:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
@@ -13688,9 +13726,27 @@
     },
     "done": true
   },
+  "croptopia:gather_tree_all": {
+    "criteria": {
+      "apple_sapling": "2025-03-04 22:02:05 +0000"
+    },
+    "done": false
+  },
   "botania:recipes/tools/magnet_ring": {
     "criteria": {
       "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_highland": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-03-04 21:52:17 +0000"
     },
     "done": true
   },
@@ -13712,6 +13768,12 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_magicked": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
@@ -13721,6 +13783,24 @@
   "botania:recipes/tools/manasteel_shovel": {
     "criteria": {
       "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_wither": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-03-04 21:49:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-03-04 21:49:33 +0000"
     },
     "done": true
   },
@@ -13748,6 +13828,13 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_metal": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000",
+      "has_the_recipe": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/forest_eye": {
     "criteria": {
       "has_item": "2025-03-04 21:18:17 +0000"
@@ -13760,9 +13847,27 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_glut": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_soul": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_shadows": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
     },
     "done": true
   },
@@ -13781,6 +13886,12 @@
   "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_ember": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
     },
     "done": true
   },
@@ -13808,6 +13919,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/golden_piglin_armor_chestplate": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:55:08 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_shears": {
     "criteria": {
       "has_item": "2025-03-04 21:18:17 +0000"
@@ -13823,6 +13940,12 @@
   "botania:recipes/decorations/mana_distributor": {
     "criteria": {
       "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/golden_piglin_armor_helmet": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:55:08 +0000"
     },
     "done": true
   },
@@ -13892,15 +14015,33 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_metal_var": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_void": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/glass_pickaxe": {
     "criteria": {
       "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/golden_piglin_armor_leggings": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:55:08 +0000"
     },
     "done": true
   },
@@ -13940,6 +14081,18 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/golden_piglin_armor_boots": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:55:08 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_wolf": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/breathalyzer": {
     "criteria": {
       "has_iron_nugget": "2025-03-04 21:05:34 +0000"
@@ -13949,6 +14102,18 @@
   "botania:recipes/tools/mining_ring": {
     "criteria": {
       "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:getsapling": {
+    "criteria": {
+      "has_sapling": "2025-03-04 22:02:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_fox": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
     },
     "done": true
   },
@@ -13970,9 +14135,27 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_frost": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_freezing_foil": {
     "criteria": {
       "has_iron_nugget": "2025-03-04 21:05:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/bucket_from_lava_bucket": {
+    "criteria": {
+      "has_lava_bucket": "2025-03-04 21:50:09 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_golden": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
     },
     "done": true
   },

@@ -588,7 +588,8 @@
       "ochard": "2025-03-03 21:24:14 +0000",
       "flower_fields": "2025-03-03 20:18:28 +0000",
       "highland_fields": "2025-03-04 20:33:36 +0000",
-      "temperate_grove": "2025-03-03 21:33:20 +0000"
+      "temperate_grove": "2025-03-03 21:33:20 +0000",
+      "pine_slopes": "2025-03-04 21:51:00 +0000"
     },
     "done": false
   },
@@ -602,7 +603,8 @@
       "ochard": "2025-03-03 21:24:14 +0000",
       "flower_fields": "2025-03-03 20:18:28 +0000",
       "highland_fields": "2025-03-04 20:33:36 +0000",
-      "temperate_grove": "2025-03-03 21:33:20 +0000"
+      "temperate_grove": "2025-03-03 21:33:20 +0000",
+      "pine_slopes": "2025-03-04 21:51:00 +0000"
     },
     "done": false
   },
@@ -9872,6 +9874,48 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_white": {
+    "criteria": {
+      "has_dyes/black": "2025-03-04 21:53:51 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2025-03-04 21:53:51 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2025-03-04 21:53:51 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2025-03-04 21:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-04 21:53:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/white_dye_from_bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2025-03-04 21:53:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-03-04 21:53:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2025-03-04 21:44:23 +0000"
@@ -9884,15 +9928,63 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2025-03-04 21:53:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2025-03-04 21:44:23 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-03-04 21:53:51 +0000"
+    },
+    "done": true
+  },
   "croptopia:knife": {
     "criteria": {
       "knife": "2025-03-04 21:44:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_white": {
+    "criteria": {
+      "has_dyes/black": "2025-03-04 21:53:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_bone_meal": "2025-03-04 21:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-04 21:53:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_white": {
+    "criteria": {
+      "has_dyes/black": "2025-03-04 21:53:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2025-03-04 21:53:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_white": {
+    "criteria": {
+      "has_dyes/black": "2025-03-04 21:53:51 +0000"
     },
     "done": true
   },
