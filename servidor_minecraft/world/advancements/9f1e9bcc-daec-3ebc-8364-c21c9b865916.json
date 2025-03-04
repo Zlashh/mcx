@@ -587,6 +587,7 @@
       "rocky_meadow": "2025-03-03 20:07:24 +0000",
       "ochard": "2025-03-03 21:24:14 +0000",
       "flower_fields": "2025-03-03 20:18:28 +0000",
+      "highland_fields": "2025-03-04 20:33:36 +0000",
       "temperate_grove": "2025-03-03 21:33:20 +0000"
     },
     "done": false
@@ -600,6 +601,7 @@
       "rocky_meadow": "2025-03-03 20:07:24 +0000",
       "ochard": "2025-03-03 21:24:14 +0000",
       "flower_fields": "2025-03-03 20:18:28 +0000",
+      "highland_fields": "2025-03-04 20:33:36 +0000",
       "temperate_grove": "2025-03-03 21:33:20 +0000"
     },
     "done": false
@@ -3273,6 +3275,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-03-03 21:40:48 +0000",
+      "minecraft:cherry_grove": "2025-03-04 20:29:20 +0000",
       "minecraft:beach": "2025-03-03 21:39:35 +0000",
       "minecraft:river": "2025-03-03 21:05:21 +0000",
       "minecraft:stony_shore": "2025-03-03 21:22:00 +0000",
@@ -9303,6 +9306,48 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_doors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_doors": "2025-03-04 20:09:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_doors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_doors": "2025-03-04 20:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-03-04 20:09:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_mercury": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-03-04 20:09:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_water": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-03-04 20:09:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-04 20:21:28 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-03-04 20:22:33 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/blade_pottery_sherd": {
     "criteria": {
       "has_iron_sword": "2025-03-04 20:22:36 +0000"
@@ -9312,6 +9357,42 @@
   "mcdw:recipes/soul_daggers/soul_dagger_truthseeker": {
     "criteria": {
       "has_the_recipe": "2025-03-04 20:22:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_nugget_from_sword": {
+    "criteria": {
+      "has_iron_sword": "2025-03-04 20:22:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/kirkhammer": {
+    "criteria": {
+      "has_item": "2025-03-04 20:22:36 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_glaive": {
+    "criteria": {
+      "has_the_recipe": "2025-03-04 20:22:36 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_glaive_vanilla_sword": {
+    "criteria": {
+      "has_iron_sword": "2025-03-04 20:22:36 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_truthseeker_vanilla_sword": {
+    "criteria": {
+      "has_base": "2025-03-04 20:22:36 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_iron_sword_var": {
+    "criteria": {
+      "has_iron_sword": "2025-03-04 20:22:36 +0000"
     },
     "done": true
   },
@@ -9333,39 +9414,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/iron_nugget_from_sword": {
-    "criteria": {
-      "has_iron_sword": "2025-03-04 20:22:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-03-04 20:23:07 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/kirkhammer": {
-    "criteria": {
-      "has_item": "2025-03-04 20:22:36 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/glaives/spear_glaive": {
-    "criteria": {
-      "has_the_recipe": "2025-03-04 20:22:36 +0000"
-    },
-    "done": true
-  },
-  "lootr:25loot": {
-    "criteria": {
-      "loot_stat": "2025-03-04 20:22:33 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/glaives/spear_glaive_vanilla_sword": {
-    "criteria": {
-      "has_iron_sword": "2025-03-04 20:22:36 +0000"
     },
     "done": true
   },
@@ -9381,48 +9432,6 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-03-04 20:21:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-03-04 20:09:46 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/soul_daggers/soul_dagger_truthseeker_vanilla_sword": {
-    "criteria": {
-      "has_base": "2025-03-04 20:22:36 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_doors": {
-    "criteria": {
-      "has_tag_minecraft_wooden_doors": "2025-03-04 20:09:29 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_mercury": {
-    "criteria": {
-      "has_diamond_chestplate": "2025-03-04 20:09:46 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_water": {
-    "criteria": {
-      "has_diamond_chestplate": "2025-03-04 20:09:46 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/swords/sword_iron_sword_var": {
-    "criteria": {
-      "has_iron_sword": "2025-03-04 20:22:36 +0000"
-    },
-    "done": true
-  },
   "oxidized:recipes/vertical_oxidized_cut_copper": {
     "criteria": {
       "has_copper_block": "2025-03-04 20:23:07 +0000"
@@ -9435,9 +9444,138 @@
     },
     "done": true
   },
-  "techreborn:recipes/grinder/saw_small_dust_from_wooden_doors": {
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
     "criteria": {
-      "has_tag_minecraft_wooden_doors": "2025-03-04 20:09:29 +0000"
+      "has_sky_stone_block": "2025-03-04 20:31:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-04 20:31:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-04 20:31:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-04 20:31:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-04 20:31:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-04 20:31:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-04 20:31:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-04 20:31:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-04 20:31:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-03-04 20:31:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-03-04 20:31:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-03-04 20:31:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-03-04 20:31:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-03-04 20:31:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-03-04 20:31:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
+    "criteria": {
+      "has_quartz_block": "2025-03-04 20:31:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-03-04 20:31:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-03-04 20:31:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-03-04 20:31:49 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-03-04 20:31:49 +0000",
+      "silicon": "2025-03-04 20:31:52 +0000",
+      "engineering": "2025-03-04 20:31:50 +0000",
+      "logic": "2025-03-04 20:31:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-03-04 20:36:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-03-04 20:36:52 +0000"
     },
     "done": true
   },
