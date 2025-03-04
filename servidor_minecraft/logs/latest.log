@@ -3580,3 +3580,73 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [03:24:07] [Server thread/INFO]: Joapapiriko has made the advancement [Isn't It Iron Pick]
 [03:31:09] [Server thread/INFO]: Zlashh has made the advancement [Isn't It Iron Pick]
 [03:34:18] [Server thread/INFO]: Joapapiriko has made the advancement [False Water]
+[03:45:25] [Server thread/INFO]: Joapapiriko has made the advancement [Suit Up]
+[03:45:27] [Server thread/INFO]: [Handshake] Sending channel query
+[03:45:27] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[03:45:27] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[03:45:27] [Server thread/INFO]: Zlashh lost connection: You logged in from another location
+[03:45:27] [Server thread/INFO]: Zlashh left the game
+[03:45:27] [Server thread/INFO]: remove player wand
+[03:45:27] [Server thread/INFO]: Updating all forceload tickets for 9f1e9bcc-daec-3ebc-8364-c21c9b865916
+[03:45:27] [Server thread/INFO]: Zlashh[/127.206.177.213:54089] logged in with entity id 27005 at (-676.9323707554676, 69.0, 58.023666080488795)
+[03:45:27] [Server thread/INFO]: Sending server config values to client
+[03:45:27] [Server thread/INFO]: Syncing config to Zlashh (9f1e9bcc-daec-3ebc-8364-c21c9b865916)
+[03:45:27] [Server thread/INFO]: Loading config from file...
+[03:45:28] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:45:28] [Server thread/INFO]: Zlashh joined the game
+[03:45:28] [Server thread/INFO]: Loading Configs for Sortilege
+[03:45:28] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[03:45:28] [Server thread/INFO]: Updating all forceload tickets for 9f1e9bcc-daec-3ebc-8364-c21c9b865916
+[03:45:28] [Server thread/INFO]: PLAYER_JOIN
+[03:45:28] [Server thread/INFO]: add_player wand
+[03:45:28] [Server thread/INFO]: config sent
+[03:45:29] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[03:45:29] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: Zlashh -> Global
+[03:45:29] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player Zlashh. Claiming: GRAVE / Robbing: INVENTORY
+[03:45:30] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Zlashh accepted server config.
+[03:46:52] [Server thread/INFO]: Zlashh lost connection: Disconnected
+[03:46:52] [Server thread/INFO]: Zlashh left the game
+[03:46:52] [Server thread/INFO]: remove player wand
+[03:46:52] [Server thread/INFO]: Updating all forceload tickets for 9f1e9bcc-daec-3ebc-8364-c21c9b865916
+[03:46:56] [Server thread/INFO]: [Handshake] Sending channel query
+[03:46:56] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[03:46:56] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[03:46:56] [Server thread/INFO]: Zlashh[/127.206.177.213:60863] logged in with entity id 27119 at (-680.2138708554143, 67.875, 55.86718640789646)
+[03:46:56] [Server thread/INFO]: Sending server config values to client
+[03:46:56] [Server thread/INFO]: Syncing config to Zlashh (9f1e9bcc-daec-3ebc-8364-c21c9b865916)
+[03:46:56] [Server thread/INFO]: Loading config from file...
+[03:46:56] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:46:56] [Server thread/INFO]: Zlashh joined the game
+[03:46:56] [Server thread/INFO]: Loading Configs for Sortilege
+[03:46:56] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[03:46:56] [Server thread/INFO]: Updating all forceload tickets for 9f1e9bcc-daec-3ebc-8364-c21c9b865916
+[03:46:57] [Server thread/INFO]: PLAYER_JOIN
+[03:46:57] [Server thread/INFO]: add_player wand
+[03:46:57] [Server thread/INFO]: config sent
+[03:46:58] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[03:46:58] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: Zlashh -> Global
+[03:46:58] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Zlashh. Claiming: GRAVE / Robbing: INVENTORY
+[03:46:59] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Zlashh accepted server config.
+[03:49:47] [Server thread/INFO]: Joapapiriko has made the advancement [Voluntary Exile]
+[03:50:09] [Server thread/INFO]: [Handshake] Sending channel query
+[03:50:09] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[03:50:09] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[03:50:09] [Server thread/INFO]: Pavks[/127.30.8.25:59525] logged in with entity id 27362 at (-62.5, 68.0, 17.5)
+[03:50:09] [Server thread/INFO]: Sending server config values to client
+[03:50:09] [Server thread/INFO]: Syncing config to Pavks (e3923452-0a60-3d6f-bb90-108e6d2661ab)
+[03:50:09] [Server thread/INFO]: Loading config from file...
+[03:50:09] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:50:09] [Server thread/INFO]: Pavks joined the game
+[03:50:09] [Server thread/INFO]: Loading Configs for Sortilege
+[03:50:09] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[03:50:10] [Server thread/INFO]: Updating all forceload tickets for e3923452-0a60-3d6f-bb90-108e6d2661ab
+[03:50:10] [Server thread/INFO]: PLAYER_JOIN
+[03:50:10] [Server thread/INFO]: add_player wand
+[03:50:10] [Server thread/INFO]: config sent
+[03:50:10] [Server thread/INFO]: Pavks has made the advancement [Mythic Mobs]
+[03:50:11] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[03:50:14] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: Pavks -> Global
+[03:50:14] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Pavks. Claiming: GRAVE / Robbing: INVENTORY
+[03:50:19] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Pavks accepted server config.
+[03:52:34] [Server thread/INFO]: <Zlashh> -678,51
+[03:52:35] [Server thread/INFO]: Pavks has made the advancement [Monster Hunter]
