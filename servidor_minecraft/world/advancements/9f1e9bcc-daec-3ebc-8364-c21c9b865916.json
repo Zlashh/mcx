@@ -648,6 +648,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-03-04 03:34:52 +0000",
       "minecraft:spider": "2025-03-03 20:20:27 +0000",
       "minecraft:phantom": "2025-03-04 03:15:54 +0000",
       "minecraft:cave_spider": "2025-03-04 02:58:04 +0000",
@@ -6180,6 +6181,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/miner_pottery_sherd": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-03-04 03:31:09 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-04 03:20:33 +0000"
@@ -6252,9 +6259,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-03-04 03:34:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/granite_corner_trim": {
     "criteria": {
       "has_granite_corner_trim": "2025-03-04 03:20:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_pickaxe": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-03-04 03:31:09 +0000"
     },
     "done": true
   },
@@ -6330,6 +6349,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2025-03-04 03:32:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-04 03:11:03 +0000"
@@ -6345,6 +6370,12 @@
   "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-04 03:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-04 03:31:09 +0000"
     },
     "done": true
   },
@@ -6426,6 +6457,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/building_blocks/salt_block": {
+    "criteria": {
+      "has_item": "2025-03-04 03:40:32 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/food/mushroom_stew": {
     "criteria": {
       "has_orig_recipe": "2025-03-04 03:06:23 +0000"
@@ -6435,6 +6472,12 @@
   "stoneworks:recipes/building_blocks/diorite_shingle_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-04 03:20:33 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_archer": {
+    "criteria": {
+      "has_core_specification_item": "2025-03-04 03:34:53 +0000"
     },
     "done": true
   },
@@ -6702,6 +6745,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_lead": {
+    "criteria": {
+      "has_raw_lead_ores": "2025-03-04 03:40:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-03-04 03:20:33 +0000"
@@ -6888,6 +6937,12 @@
     },
     "done": true
   },
+  "twigs:recipes/lamps/lamp": {
+    "criteria": {
+      "has_item": "2025-03-04 03:33:41 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/grim_armor_chestplate": {
     "criteria": {
       "has_bone": "2025-03-04 02:56:24 +0000"
@@ -6933,6 +6988,12 @@
   "stoneworks:recipes/building_blocks/granite_paver_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-04 03:20:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/lantern": {
+    "criteria": {
+      "has_torch": "2025-03-04 03:33:41 +0000"
     },
     "done": true
   },
@@ -6999,6 +7060,12 @@
   "betternether:recipes/transportation/warped_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-03-04 03:09:38 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
+    "criteria": {
+      "has_torch": "2025-03-04 03:33:41 +0000"
     },
     "done": true
   },
@@ -7332,6 +7399,12 @@
     },
     "done": true
   },
+  "oxidized:recipes/copper_lantern": {
+    "criteria": {
+      "has_copper_block": "2025-03-04 03:33:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-04 03:20:33 +0000"
@@ -7365,6 +7438,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-04 03:21:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2025-03-04 03:40:11 +0000"
     },
     "done": true
   },
@@ -7494,6 +7573,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-03-04 03:33:41 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-04 03:21:06 +0000"
@@ -7620,6 +7705,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2025-03-04 03:33:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-04 03:20:57 +0000"
@@ -7690,6 +7781,12 @@
   "stoneworks:recipes/building_blocks/cobbled_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-04 03:21:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2025-03-04 03:40:11 +0000"
     },
     "done": true
   },
@@ -7975,6 +8072,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-03-04 03:33:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-03-04 03:20:57 +0000"
@@ -8026,6 +8129,12 @@
   "techreborn:recipes/blast_furnace/plenty_pottery_sherd": {
     "criteria": {
       "has_chest": "2025-03-04 03:09:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_lead_storage_block": {
+    "criteria": {
+      "has_raw_lead": "2025-03-04 03:40:11 +0000"
     },
     "done": true
   },
