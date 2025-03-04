@@ -12143,9 +12143,21 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-03-04 06:54:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/paper_from_enchanted_book": {
     "criteria": {
       "has_enchanted_book": "2025-03-04 06:45:34 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-03-04 06:54:36 +0000"
     },
     "done": true
   },
@@ -12164,6 +12176,12 @@
   "mcdw:recipes/swords/sword_heartstealer": {
     "criteria": {
       "has_diamond": "2025-03-04 06:24:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-03-04 06:56:57 +0000"
     },
     "done": true
   },
@@ -12232,6 +12250,12 @@
       "has_raw_gold": "2025-03-04 06:02:29 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "glowing_calamari": "2025-03-04 06:56:57 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -12341,6 +12365,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_sword_with_water": {
+    "criteria": {
+      "has_diamond_sword": "2025-03-04 06:52:02 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/sweet_tooth_helmet": {
     "criteria": {
       "has_diamond": "2025-03-04 06:24:31 +0000"
@@ -12437,6 +12467,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-04 06:59:53 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/moonstone_hoe_left": {
     "criteria": {
       "has_item": "2025-03-04 06:15:00 +0000"
@@ -12485,6 +12521,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/diamond_plate_from_block": {
+    "criteria": {
+      "has_diamond_block": "2025-03-04 06:54:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-03-04 05:55:48 +0000"
@@ -12524,6 +12566,12 @@
   "magnumtorch:recipes/decorations/diamond_magnum_torch": {
     "criteria": {
       "has_diamond": "2025-03-04 06:24:31 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_depth": {
+    "criteria": {
+      "has_core_specification_item": "2025-03-04 06:54:36 +0000"
     },
     "done": true
   },
@@ -12683,6 +12731,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_sword_with_mercury": {
+    "criteria": {
+      "has_diamond_sword": "2025-03-04 06:52:02 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
     "criteria": {
       "has_amethyst_shard": "2025-03-04 06:37:59 +0000"
@@ -12725,6 +12779,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-03-04 06:54:36 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/boss_compass": {
     "criteria": {
       "has_item": "2025-03-04 06:15:00 +0000"
@@ -12746,6 +12806,18 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-04 05:57:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-03-04 06:54:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-03-04 06:56:57 +0000"
     },
     "done": true
   },
@@ -12818,6 +12890,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-04 05:57:34 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-03-04 06:54:36 +0000"
     },
     "done": true
   },
