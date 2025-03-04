@@ -1230,6 +1230,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/voodoo_protection_poppet": {
+    "criteria": {
+      "has_item": "2025-03-04 05:27:13 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/green_painted_planks": {
     "criteria": {
       "has_planks": "2025-03-04 03:56:03 +0000"
@@ -1341,6 +1347,12 @@
   "croptopia:recipes/fruit_smoothie": {
     "criteria": {
       "has_fruit": "2025-03-04 04:37:53 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/voodoo_poppet": {
+    "criteria": {
+      "has_item": "2025-03-04 05:27:13 +0000"
     },
     "done": true
   },
@@ -1697,6 +1709,7 @@
       "shrubland": "2025-03-04 04:54:11 +0000",
       "pine_taiga": "2025-03-04 04:55:56 +0000",
       "autumnal_maple_forest": "2025-03-04 05:17:26 +0000",
+      "poppy_fields": "2025-03-04 05:32:32 +0000",
       "grassy_beach": "2025-03-04 04:08:02 +0000",
       "rocky_meadow": "2025-03-04 03:50:10 +0000",
       "ochard": "2025-03-04 04:06:01 +0000",
@@ -1908,6 +1921,7 @@
       "shrubland": "2025-03-04 04:54:11 +0000",
       "pine_taiga": "2025-03-04 04:55:56 +0000",
       "autumnal_maple_forest": "2025-03-04 05:17:26 +0000",
+      "poppy_fields": "2025-03-04 05:32:32 +0000",
       "grassy_beach": "2025-03-04 04:08:02 +0000",
       "rocky_meadow": "2025-03-04 03:50:10 +0000",
       "ochard": "2025-03-04 04:06:01 +0000",
@@ -2490,6 +2504,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/protection_poppet": {
+    "criteria": {
+      "has_item": "2025-03-04 05:27:13 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-03-04 04:02:46 +0000"
@@ -3009,6 +3029,12 @@
   "mcdw:recipes/crossbows/crossbow_heavy": {
     "criteria": {
       "has_string": "2025-03-04 03:52:35 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/curse_poppet": {
+    "criteria": {
+      "has_item": "2025-03-04 05:27:13 +0000"
     },
     "done": true
   },
@@ -3549,6 +3575,12 @@
   "travelersbackpack:recipes/misc/spider": {
     "criteria": {
       "has_string": "2025-03-04 03:52:35 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-03-04 05:27:13 +0000"
     },
     "done": true
   },
@@ -4599,6 +4631,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/vampiric_poppet": {
+    "criteria": {
+      "has_item": "2025-03-04 05:27:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-04 04:21:12 +0000"
@@ -4830,6 +4868,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-04 04:23:32 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/mending_poppet": {
+    "criteria": {
+      "has_item": "2025-03-04 05:27:13 +0000"
     },
     "done": true
   },
@@ -5644,6 +5688,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/fatigue_poppet": {
+    "criteria": {
+      "has_item": "2025-03-04 05:27:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-03-04 04:53:10 +0000"
@@ -6221,6 +6271,12 @@
     },
     "done": true
   },
+  "brewery:main/get_beer_hops": {
+    "criteria": {
+      "beer_hops": "2025-03-04 05:27:49 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/nitrogen_dioxide": {
     "criteria": {
       "has_nitrogen": "2025-03-04 03:50:10 +0000"
@@ -6320,6 +6376,12 @@
   "betternether:recipes/decorations/mangrove_taburet": {
     "criteria": {
       "has_stick": "2025-03-04 03:55:58 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/judgment_poppet": {
+    "criteria": {
+      "has_item": "2025-03-04 05:27:13 +0000"
     },
     "done": true
   },
@@ -6970,6 +7032,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-03-04 05:27:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/salmon_trophy": {
     "criteria": {
       "has_salmon_trophy": "2025-03-04 03:56:03 +0000"
@@ -6997,6 +7065,18 @@
   "mcda:recipes/base_armors/battle_robe_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-03-04 04:42:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-03-04 05:27:13 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_beer_barley": {
+    "criteria": {
+      "beer_barley": "2025-03-04 05:28:06 +0000"
     },
     "done": true
   },
@@ -8694,6 +8774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-03-04 05:27:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-03-04 04:18:55 +0000"
@@ -8770,6 +8856,12 @@
   "techreborn:recipes/crafting_table/parts/wood_plate": {
     "criteria": {
       "has_planks": "2025-03-04 03:56:03 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/death_protection_poppet": {
+    "criteria": {
+      "has_item": "2025-03-04 05:27:13 +0000"
     },
     "done": true
   },
