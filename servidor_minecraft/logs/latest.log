@@ -3097,3 +3097,6 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[06:24:09] [Server thread/INFO]: Joapapiriko has made the advancement [Close Quarters]
+[06:24:19] [Server thread/INFO]: Joapapiriko has made the advancement [Chest Slayer]
+[06:24:31] [Server thread/INFO]: Joapapiriko has made the advancement [Diamonds!]
