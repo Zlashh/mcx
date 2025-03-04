@@ -3027,3 +3027,9 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:02:05] [Server thread/INFO]: Joapapiriko has made the advancement [Forestree Territree]
 [22:07:57] [Server thread/INFO]: Zlashh has made the advancement [Network Aesthetics]
 [22:10:30] [Server thread/INFO]: Joapapiriko has made the advancement [The Great Sage, Heaven's Equal]
+[22:13:33] [Server thread/INFO]: Joapapiriko has reached the goal [Choose your path]
+[22:13:46] [Server thread/INFO]: Joapapiriko has made the advancement [Magic Attunement]
+[22:13:46] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: wizards:arcane isComplete: false
+[22:17:51] [Server thread/INFO]: Joapapiriko has made the advancement [Blast Protection Not Included]
+[22:18:39] [Server thread/INFO]: Joapapiriko has made the advancement [Ancient Technology]
+[22:20:36] [Server thread/INFO]: Joapapiriko has made the advancement [Upgrades!]

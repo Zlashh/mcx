@@ -9898,6 +9898,12 @@
     },
     "done": true
   },
+  "ae2:main/facade": {
+    "criteria": {
+      "facade": "2025-03-04 22:07:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-03-04 21:53:51 +0000"
@@ -9961,6 +9967,18 @@
   "betterend:recipes/misc/sulphur_gunpowder": {
     "criteria": {
       "has_bone_meal": "2025-03-04 21:53:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/painting_tool": {
+    "criteria": {
+      "has_wooden_plate": "2025-03-04 22:13:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/storage/storage_buffer": {
+    "criteria": {
+      "has_wood_plate": "2025-03-04 22:13:57 +0000"
     },
     "done": true
   },

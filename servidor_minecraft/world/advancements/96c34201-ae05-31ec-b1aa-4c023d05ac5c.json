@@ -13816,6 +13816,12 @@
     },
     "done": true
   },
+  "spellbladenext:spellblades/monkeyking": {
+    "criteria": {
+      "arcane": "2025-03-04 22:10:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-03-04 21:19:49 +0000"
@@ -14039,6 +14045,12 @@
     },
     "done": true
   },
+  "rpg_series:spell_novice_arcane": {
+    "criteria": {
+      "bind": "2025-03-04 22:13:46 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/golden_piglin_armor_leggings": {
     "criteria": {
       "has_upgrade_core": "2025-03-04 21:55:08 +0000"
@@ -14150,6 +14162,12 @@
   "techreborn:recipes/extractor/bucket_from_lava_bucket": {
     "criteria": {
       "has_lava_bucket": "2025-03-04 21:50:09 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:classes": {
+    "criteria": {
+      "book": "2025-03-04 22:13:33 +0000"
     },
     "done": true
   },
