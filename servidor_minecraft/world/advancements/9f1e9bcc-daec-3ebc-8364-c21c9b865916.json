@@ -656,7 +656,8 @@
       "minecraft:phantom": "2025-03-04 03:15:54 +0000",
       "minecraft:cave_spider": "2025-03-04 02:58:04 +0000",
       "minecraft:silverfish": "2025-03-04 03:03:45 +0000",
-      "minecraft:zombie": "2025-03-03 20:41:44 +0000"
+      "minecraft:zombie": "2025-03-03 20:41:44 +0000",
+      "minecraft:zombie_villager": "2025-03-04 20:53:18 +0000"
     },
     "done": false
   },
@@ -9576,6 +9577,80 @@
   "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
     "criteria": {
       "has_tag_minecraft_wooden_fences": "2025-03-04 20:36:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fajitas": {
+    "criteria": {
+      "has_bellpepper": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-03-04 20:49:26 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/oat_seed": {
+    "criteria": {
+      "has_oat": "2025-03-04 20:49:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2025-03-04 20:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-03-04 20:47:36 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/oatmeal": {
+    "criteria": {
+      "has_oats": "2025-03-04 20:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-03-04 20:47:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "bellpepper_seed": "2025-03-04 20:49:39 +0000",
+      "oat_seed": "2025-03-04 20:49:38 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/shaped_ajvar": {
+    "criteria": {
+      "has_bellpepper": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/bellpepper_seed": {
+    "criteria": {
+      "has_bellpepper": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "bellpepper_seed": "2025-03-04 20:49:39 +0000",
+      "oat_seed": "2025-03-04 20:49:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-04 20:49:26 +0000"
     },
     "done": true
   },

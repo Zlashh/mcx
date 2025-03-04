@@ -3106,6 +3106,7 @@
       "potato": "2025-03-04 20:46:26 +0000",
       "pumpkin_pie": "2025-03-04 05:21:07 +0000",
       "bread": "2025-03-04 02:33:19 +0000",
+      "rotten_flesh": "2025-03-04 20:50:22 +0000",
       "enchanted_golden_apple": "2025-03-04 07:09:03 +0000",
       "carrot": "2025-03-04 20:00:07 +0000"
     },
@@ -13511,9 +13512,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_dripstone_pillar_trim": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_axe": {
+    "criteria": {
+      "has_golden_axe": "2025-03-04 20:54:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/promenade/sign_post_sakura": {
     "criteria": {
       "has_planks": "2025-03-04 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
     },
     "done": true
   },
@@ -13535,9 +13560,45 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-03-04 20:49:01 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/sakura/fence_gate": {
     "criteria": {
       "has_planks": "2025-03-04 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
     },
     "done": true
   },
@@ -13547,9 +13608,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/sakura/pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-04 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
     },
     "done": true
   },
@@ -13559,9 +13644,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
   "beachparty:sand_bucket_block": {
     "criteria": {
       "has_wooden_shovel": "2025-03-04 20:42:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2025-03-04 20:49:40 +0000"
     },
     "done": true
   },
@@ -13571,15 +13674,57 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/compacted_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-03-04 20:49:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_shovel": {
     "criteria": {
       "has_wooden_shovel": "2025-03-04 20:42:25 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/sakura/stairs": {
     "criteria": {
       "has_planks": "2025-03-04 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
     },
     "done": true
   },
