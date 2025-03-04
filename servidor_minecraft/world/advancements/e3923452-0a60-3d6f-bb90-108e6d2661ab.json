@@ -750,6 +750,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-04 05:09:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-03-04 03:55:58 +0000"
@@ -1730,6 +1736,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-04 05:09:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-03-04 04:02:34 +0000"
@@ -2236,6 +2248,12 @@
   "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing": {
     "criteria": {
       "has_advanced_machine_frame": "2025-03-04 04:57:33 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-04 05:09:11 +0000"
     },
     "done": true
   },
@@ -3682,6 +3700,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-03-04 05:13:04 +0000",
       "minecraft:sunflower_plains": "2025-03-04 03:54:48 +0000",
       "minecraft:river": "2025-03-04 03:53:46 +0000",
       "minecraft:stony_shore": "2025-03-04 04:07:23 +0000",
@@ -3792,6 +3811,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-04 05:09:11 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/iron_candelabra": {
     "criteria": {
       "has_item": "2025-03-04 04:13:09 +0000"
@@ -3873,6 +3898,12 @@
   "mcda:recipes/base_armors/goat_gear_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-03-04 04:13:09 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-04 05:09:11 +0000"
     },
     "done": true
   },
@@ -4365,6 +4396,12 @@
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-03-04 04:38:09 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-04 05:09:11 +0000"
     },
     "done": true
   },
@@ -5997,6 +6034,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-04 05:09:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-03-04 04:21:12 +0000"
@@ -6662,6 +6705,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-04 03:52:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-04 05:09:11 +0000"
     },
     "done": true
   },
@@ -7734,6 +7783,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-04 04:01:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-04 05:09:11 +0000"
     },
     "done": true
   },
