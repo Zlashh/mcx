@@ -4279,3 +4279,44 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [05:34:39] [Worker-Main-9/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:1.0f,range:8,source:{pos:[I;-152,-53,-371],type:"minecraft:block"}}]
 [05:34:39] [Worker-Main-9/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:4.061569f,range:8,source:{pos:[I;-152,-53,-370],type:"minecraft:block"}}]
 [05:34:39] [Worker-Main-9/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:3.152014f,range:8,source:{pos:[I;-157,-51,-371],type:"minecraft:block"}}]
+[05:34:51] [pool-12-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain]] from pos class_2338{x=-2059, y=91, z=-1819}
+[05:34:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2833ms or 56 ticks behind
+[05:35:11] [Server thread/INFO]: Pavks lost connection: Disconnected
+[05:35:11] [Server thread/INFO]: Pavks left the game
+[05:35:11] [Server thread/INFO]: remove player wand
+[05:35:11] [Server thread/INFO]: Updating all forceload tickets for e3923452-0a60-3d6f-bb90-108e6d2661ab
+[05:35:25] [Server thread/INFO]: [Handshake] Sending channel query
+[05:35:25] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[05:35:25] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[05:35:25] [Server thread/INFO]: Pavks[/127.30.8.25:49207] logged in with entity id 71702 at (-1918.181298494984, 98.0, -1696.5375258497609)
+[05:35:25] [Server thread/INFO]: Sending server config values to client
+[05:35:25] [Server thread/INFO]: Syncing config to Pavks (e3923452-0a60-3d6f-bb90-108e6d2661ab)
+[05:35:25] [Server thread/INFO]: Loading config from file...
+[05:35:25] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:35:25] [Server thread/INFO]: Pavks joined the game
+[05:35:25] [Server thread/INFO]: Loading Configs for Sortilege
+[05:35:25] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[05:35:25] [Server thread/INFO]: Updating all forceload tickets for e3923452-0a60-3d6f-bb90-108e6d2661ab
+[05:35:25] [Server thread/INFO]: PLAYER_JOIN
+[05:35:25] [Server thread/INFO]: add_player wand
+[05:35:25] [Server thread/INFO]: config sent
+[05:35:26] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[05:35:27] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: Pavks -> Global
+[05:35:27] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Pavks. Claiming: GRAVE / Robbing: INVENTORY
+[05:35:28] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Pavks accepted server config.
+[05:35:29] [Server thread/INFO]: <Zlashh> tmr
+[05:35:35] [Server thread/INFO]: <Zlashh> pense que te ibas
+[05:36:02] [Server thread/INFO]: Pavks has made the advancement [Mine Cells]
+[05:37:49] [Server thread/INFO]: Pavks has made the advancement [Behind bars]
+[05:37:50] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Pavks accepted server config.
+[05:38:20] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Pavks accepted server config.
+[05:38:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2986ms or 59 ticks behind
+[05:38:26] [Server thread/INFO]: IFrankieuwu has made the advancement [Sweet Dreams]
+[05:38:34] [pool-12-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / ctov:large/village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:small/village_underground], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean]] from pos class_2338{x=-1755, y=81, z=-1787}
+[05:39:42] [Server thread/INFO]: Zlashh has made the advancement [Sweet Dreams]
+[05:42:43] [Server thread/INFO]: Zlashh has made the advancement [Wild Harvest]
+[05:42:59] [Server thread/INFO]: <Zlashh> donde esta maicol?
+[05:43:30] [Server thread/INFO]: Pavks lost connection: Disconnected
+[05:43:30] [Server thread/INFO]: Pavks left the game
+[05:43:30] [Server thread/INFO]: remove player wand
+[05:43:30] [Server thread/INFO]: Updating all forceload tickets for e3923452-0a60-3d6f-bb90-108e6d2661ab

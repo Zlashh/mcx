@@ -210,6 +210,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-04 05:38:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2025-03-04 04:07:43 +0000"
@@ -1582,9 +1588,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/light_gray_coffin": {
+    "criteria": {
+      "has_item": "2025-03-04 05:38:23 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/black_painted_planks": {
     "criteria": {
       "has_planks": "2025-03-04 04:20:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_thatch/bamboo_thatch": {
+    "criteria": {
+      "has_bamboo_leaves": "2025-03-04 05:35:03 +0000"
     },
     "done": true
   },
@@ -4019,6 +4037,12 @@
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2025-03-04 04:20:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_bed": {
+    "criteria": {
+      "has_bed": "2025-03-04 05:38:23 +0000"
     },
     "done": true
   },
