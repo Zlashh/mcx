@@ -2997,3 +2997,29 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [21:35:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [21:35:38] [Server thread/INFO]: <--[HERE]
 [21:35:49] [Server thread/INFO]: Set Zlashh's game mode to Survival Mode
+[21:41:45] [Server thread/INFO]: Zlashh lost connection: Disconnected
+[21:41:45] [Server thread/INFO]: Zlashh left the game
+[21:41:45] [Server thread/INFO]: remove player wand
+[21:41:45] [Server thread/INFO]: Updating all forceload tickets for 9f1e9bcc-daec-3ebc-8364-c21c9b865916
+[21:41:47] [Server thread/INFO]: [Handshake] Sending channel query
+[21:41:48] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[21:41:48] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[21:41:48] [Server thread/INFO]: Zlashh[/127.206.177.213:50677] logged in with entity id 13111 at (-701.3972662739093, 68.0, 53.41149476804257)
+[21:41:48] [Server thread/INFO]: Sending server config values to client
+[21:41:48] [Server thread/INFO]: Syncing config to Zlashh (9f1e9bcc-daec-3ebc-8364-c21c9b865916)
+[21:41:48] [Server thread/INFO]: Loading config from file...
+[21:41:48] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:41:48] [Server thread/INFO]: Zlashh joined the game
+[21:41:48] [Server thread/INFO]: Loading Configs for Sortilege
+[21:41:48] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[21:41:48] [Server thread/INFO]: Updating all forceload tickets for 9f1e9bcc-daec-3ebc-8364-c21c9b865916
+[21:41:48] [Server thread/INFO]: PLAYER_JOIN
+[21:41:48] [Server thread/INFO]: add_player wand
+[21:41:48] [Server thread/INFO]: config sent
+[21:41:49] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[21:41:50] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: Zlashh -> Global
+[21:41:50] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Zlashh. Claiming: GRAVE / Robbing: INVENTORY
+[21:41:51] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Zlashh accepted server config.
+[21:44:23] [Server thread/INFO]: Zlashh has made the advancement [Hunt and Gather]
+[21:44:23] [Server thread/INFO]: Zlashh has made the advancement [Iron Torch]
+[21:50:09] [Server thread/INFO]: Joapapiriko has made the advancement [Hot Stuff]
