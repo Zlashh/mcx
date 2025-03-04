@@ -1,0 +1,17 @@
+{
+	id: "96c34201-ae05-31ec-b1aa-4c023d05ac5c"
+	type: "player"
+	player_name: "Joapapiriko"
+	ranks: {
+		96c34201-ae05-31ec-b1aa-4c023d05ac5c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Joapapiriko"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF8959"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
