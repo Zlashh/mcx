@@ -2454,3 +2454,13 @@ BCLib - The End  BiomeSource (5198de5)
 [21:01:21] [Server thread/INFO]: zlashh ad<--[HERE]
 [21:01:36] [Server thread/INFO]: Set Zlashh's game mode to Spectator Mode
 [21:07:11] [Server thread/INFO]: Set Joapapiriko's game mode to Spectator Mode
+[21:11:33] [Server thread/INFO]: Incorrect argument for command
+[21:11:33] [Server thread/INFO]: effect Joapapiriko night_vision<--[HERE]
+[21:12:24] [Server thread/INFO]: Set Joapapiriko's game mode to Survival Mode
+[21:14:37] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:14:37] [Server thread/INFO]: <--[HERE]
+[21:14:48] [Server thread/INFO]: Set Joapapiriko's game mode to Creative Mode
+[21:15:58] [Server thread/INFO]: Set Zlashh's game mode to Creative Mode
+[21:17:59] [Server thread/INFO]: Joapapiriko has made the advancement [Quite the Renovation]
+[21:18:55] [Server thread/INFO]: Zlashh has made the advancement [Quite the Renovation]
+[21:19:03] [Server thread/INFO]: Zlashh has made the advancement [The Ire in Fire]
