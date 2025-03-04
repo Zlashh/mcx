@@ -13576,6 +13576,30 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_4": {
+    "criteria": {
+      "has_redstone": "2025-03-04 22:48:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_3": {
+    "criteria": {
+      "has_redstone": "2025-03-04 22:48:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/redstone_root": {
+    "criteria": {
+      "has_item": "2025-03-04 22:48:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2025-03-04 22:48:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
@@ -13612,9 +13636,21 @@
     },
     "done": false
   },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-03-04 22:48:45 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
     "criteria": {
       "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-04 22:48:45 +0000"
     },
     "done": true
   },
@@ -13636,9 +13672,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-03-04 22:48:45 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/sakura/trapdoor": {
     "criteria": {
       "has_planks": "2025-03-04 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/redstone_small_dust_from_dust": {
+    "criteria": {
+      "has_redstone": "2025-03-04 22:48:45 +0000"
     },
     "done": true
   },
@@ -13690,9 +13738,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-03-04 22:48:45 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_red": {
+    "criteria": {
+      "has_redstone": "2025-03-04 22:48:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-03-04 22:48:45 +0000"
     },
     "done": true
   },
@@ -13711,6 +13777,12 @@
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2025-03-04 21:17:59 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-03-04 22:48:45 +0000"
     },
     "done": true
   },
@@ -13774,6 +13846,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/raw_redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-03-04 22:48:45 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_leggings": {
     "criteria": {
       "has_item": "2025-03-04 21:18:17 +0000"
@@ -13789,6 +13867,12 @@
   "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_nugget_from_hoe": {
+    "criteria": {
+      "has_iron_hoe": "2025-03-04 22:48:43 +0000"
     },
     "done": true
   },
@@ -13949,9 +14033,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2025-03-04 22:48:45 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/sakura/slab": {
     "criteria": {
       "has_planks": "2025-03-04 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-03-04 22:48:45 +0000"
     },
     "done": true
   },
@@ -13982,6 +14078,12 @@
   "mcda:recipes/unique_armors/golden_piglin_armor_chestplate": {
     "criteria": {
       "has_upgrade_core": "2025-03-04 21:55:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/redstone": {
+    "criteria": {
+      "has_redstone": "2025-03-04 22:48:45 +0000"
     },
     "done": true
   },
@@ -14051,9 +14153,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-03-04 22:48:45 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_iron_leggings_smithing": {
     "criteria": {
       "has_ingredients": "2025-03-04 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-03-04 22:48:45 +0000"
     },
     "done": true
   },
@@ -14087,6 +14201,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_bud": {
+    "criteria": {
+      "has_redstone": "2025-03-04 22:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-03-04 22:48:45 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/combat/manasteel_helmet": {
     "criteria": {
       "has_item": "2025-03-04 21:18:17 +0000"
@@ -14102,6 +14228,12 @@
   "simplyswords:runic_weapon": {
     "criteria": {
       "requirement": "2025-03-04 22:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-03-04 22:48:45 +0000"
     },
     "done": true
   },
@@ -14123,9 +14255,21 @@
     },
     "done": true
   },
+  "beachparty:radio": {
+    "criteria": {
+      "has_redstone": "2025-03-04 22:48:45 +0000"
+    },
+    "done": true
+  },
   "rpg_series:spell_novice_arcane": {
     "criteria": {
       "bind": "2025-03-04 22:13:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-03-04 22:48:45 +0000"
     },
     "done": true
   },
@@ -14138,6 +14282,12 @@
   "twigs:recipes/compacted_dripstone": {
     "criteria": {
       "has_pointed_dripstone": "2025-03-04 20:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-03-04 22:48:45 +0000"
     },
     "done": true
   },
@@ -14159,6 +14309,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-03-04 22:48:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
@@ -14168,6 +14324,12 @@
   "promenade:recipes/crafting/sakura/stairs": {
     "criteria": {
       "has_planks": "2025-03-04 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-03-04 22:48:45 +0000"
     },
     "done": true
   },
@@ -14189,6 +14351,12 @@
     },
     "done": true
   },
+  "oxidized:recipes/copper_rail": {
+    "criteria": {
+      "has_copper_block": "2025-03-04 22:48:45 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/mining_ring": {
     "criteria": {
       "has_item": "2025-03-04 21:18:17 +0000"
@@ -14201,9 +14369,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-03-04 22:48:45 +0000"
+    },
+    "done": true
+  },
   "simplyswords:brimstone": {
     "criteria": {
       "requirement": "2025-03-04 22:17:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_horse_armor": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-03-04 22:50:59 +0000"
     },
     "done": true
   },
@@ -14222,6 +14402,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-03-04 22:32:30 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_pulsar": {
+    "criteria": {
+      "has_copper_block": "2025-03-04 22:48:45 +0000"
     },
     "done": true
   },
@@ -14255,9 +14441,33 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/computer_normal": {
+    "criteria": {
+      "has_redstone": "2025-03-04 22:48:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_redstone": "2025-03-04 22:48:45 +0000"
+    },
+    "done": true
+  },
   "rpg_series:classes": {
     "criteria": {
       "book": "2025-03-04 22:13:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-03-04 22:48:45 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_barometer": {
+    "criteria": {
+      "has_copper_block": "2025-03-04 22:48:45 +0000"
     },
     "done": true
   },
