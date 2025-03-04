@@ -3091,6 +3091,7 @@
       "minecraft:phantom": "2025-03-04 03:14:31 +0000",
       "minecraft:cave_spider": "2025-03-04 02:58:35 +0000",
       "minecraft:silverfish": "2025-03-04 03:03:28 +0000",
+      "minecraft:stray": "2025-03-04 07:03:25 +0000",
       "minecraft:zombie": "2025-03-04 02:33:12 +0000"
     },
     "done": false
@@ -3100,8 +3101,10 @@
       "cooked_porkchop": "2025-03-04 04:34:09 +0000",
       "cooked_beef": "2025-03-04 05:18:56 +0000",
       "baked_potato": "2025-03-04 03:52:35 +0000",
+      "apple": "2025-03-04 07:05:55 +0000",
       "pumpkin_pie": "2025-03-04 05:21:07 +0000",
-      "bread": "2025-03-04 02:33:19 +0000"
+      "bread": "2025-03-04 02:33:19 +0000",
+      "enchanted_golden_apple": "2025-03-04 07:09:03 +0000"
     },
     "done": false
   },
@@ -11957,6 +11960,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-03-04 07:02:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-03-04 06:24:31 +0000"
@@ -12065,6 +12074,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/glass_bottle_from_splash_potion": {
+    "criteria": {
+      "has_splash_potion": "2025-03-04 07:02:08 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/decorations/blackstone_pedestal": {
     "criteria": {
       "has_item": "2025-03-04 06:15:00 +0000"
@@ -12134,6 +12149,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-04 05:57:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/enchanted_golden_apple": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-03-04 07:02:58 +0000"
     },
     "done": true
   },
@@ -12638,6 +12659,12 @@
   "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
     "criteria": {
       "has_diamond": "2025-03-04 06:24:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-03-04 07:02:58 +0000"
     },
     "done": true
   },
