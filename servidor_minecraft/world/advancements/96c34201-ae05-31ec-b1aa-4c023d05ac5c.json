@@ -14219,6 +14219,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-04 22:32:30 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/lens_normal": {
     "criteria": {
       "has_item": "2025-03-04 21:18:17 +0000"
