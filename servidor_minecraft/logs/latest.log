@@ -2856,3 +2856,6 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [20:09:46] [Server thread/INFO]: Zlashh has made the advancement [Cover Me with Diamonds]
+[20:21:28] [Server thread/INFO]: Zlashh has made the advancement [Not Today, Thank You]
+[20:22:33] [Server thread/INFO]: Zlashh has made the advancement [Close Quarters]
+[20:26:55] [Server thread/INFO]: Joapapiriko has made the advancement [When in Rome]
