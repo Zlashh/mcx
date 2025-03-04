@@ -920,6 +920,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-03-04 03:01:16 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_taburet": {
     "criteria": {
       "has_stick": "2025-03-04 02:31:46 +0000"
@@ -1345,6 +1351,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_brick_slab": "2025-03-04 03:05:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/compressed_plantball_from_plantball": {
     "criteria": {
       "has_plantball": "2025-03-04 02:20:54 +0000"
@@ -1609,6 +1621,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/pepper_seed": {
+    "criteria": {
+      "has_pepper": "2025-03-04 03:06:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 03:06:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mangrove_chair": {
     "criteria": {
       "has_stick": "2025-03-04 02:31:46 +0000"
@@ -1684,6 +1708,12 @@
   "croptopia:recipes/misc/apple_pie": {
     "criteria": {
       "has_apple": "2025-03-04 02:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-03-04 03:06:37 +0000"
     },
     "done": true
   },
@@ -2224,9 +2254,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_roasted_asparagus": {
+    "criteria": {
+      "has_asparagus": "2025-03-04 03:02:45 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/warped_chair": {
     "criteria": {
       "has_stick": "2025-03-04 02:31:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-04 03:00:10 +0000"
     },
     "done": true
   },
@@ -2293,6 +2335,12 @@
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
     "criteria": {
       "has_wit": "2025-03-04 02:20:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_cheesy_asparagus": {
+    "criteria": {
+      "has_asparagus": "2025-03-04 03:02:45 +0000"
     },
     "done": true
   },
@@ -2489,6 +2537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 03:06:37 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/saw_small_dust_from_wooden_axe": {
     "criteria": {
       "has_wooden_axe": "2025-03-04 02:32:22 +0000"
@@ -2509,6 +2563,7 @@
   },
   "croptopia:gather_all": {
     "criteria": {
+      "pepper_seed": "2025-03-04 03:06:30 +0000",
       "broccoli_seed": "2025-03-04 02:44:19 +0000"
     },
     "done": false
@@ -2957,6 +3012,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 03:06:37 +0000"
+    },
+    "done": true
+  },
   "seasonsextras:recipes/seasonal_compendium": {
     "criteria": {
       "has_sapling": "2025-03-04 02:31:10 +0000"
@@ -3247,6 +3308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 03:06:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-03-04 02:32:11 +0000"
@@ -3287,6 +3354,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-04 02:56:23 +0000",
       "minecraft:spider": "2025-03-04 02:40:43 +0000",
+      "minecraft:cave_spider": "2025-03-04 02:58:35 +0000",
+      "minecraft:silverfish": "2025-03-04 03:03:28 +0000",
       "minecraft:zombie": "2025-03-04 02:33:12 +0000"
     },
     "done": false
@@ -3325,6 +3394,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_the_recipe": "2025-03-04 02:38:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_pepper": "2025-03-04 03:06:26 +0000"
     },
     "done": true
   },
@@ -3507,6 +3582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 03:06:37 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2025-03-04 02:31:10 +0000"
@@ -3663,6 +3744,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 03:06:37 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/pythadendron_taburet": {
     "criteria": {
       "has_stick": "2025-03-04 02:31:46 +0000"
@@ -3792,9 +3879,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 03:06:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-03-04 02:31:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 03:06:37 +0000"
     },
     "done": true
   },
@@ -3931,6 +4030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 03:06:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-03-04 02:42:13 +0000"
@@ -3946,6 +4051,12 @@
   "betterend:recipes/decorations/pythadendron_bar_stool": {
     "criteria": {
       "has_stick": "2025-03-04 02:31:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-03-04 03:01:16 +0000"
     },
     "done": true
   },
@@ -4095,6 +4206,7 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
+      "pepper_seed": "2025-03-04 03:06:30 +0000",
       "broccoli_seed": "2025-03-04 02:44:19 +0000"
     },
     "done": false
@@ -4108,6 +4220,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-03-04 02:37:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-04 03:06:37 +0000"
     },
     "done": true
   },
