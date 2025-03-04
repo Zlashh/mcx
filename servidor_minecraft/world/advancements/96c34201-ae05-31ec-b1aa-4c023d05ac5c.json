@@ -444,6 +444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-04 04:52:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/zinc_plate": {
     "criteria": {
       "has_tag_c_zinc_ingots": "2025-03-04 03:45:55 +0000"
@@ -1605,6 +1611,12 @@
   "betterend:recipes/decorations/lucernia_bar_stool": {
     "criteria": {
       "has_stick": "2025-03-04 02:31:46 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2025-03-04 04:53:15 +0000"
     },
     "done": true
   },
@@ -2787,6 +2799,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-04 04:52:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2025-03-04 04:23:01 +0000"
@@ -3156,6 +3174,12 @@
   "techreborn:recipes/compressor/tin_plate": {
     "criteria": {
       "has_tag_c_tin_ingots": "2025-03-04 03:41:48 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/oxeye_daisy": {
+    "criteria": {
+      "has_flower": "2025-03-04 04:52:26 +0000"
     },
     "done": true
   },
@@ -4110,6 +4134,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-03-04 03:12:45 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/sowing_the_future": {
+    "criteria": {
+      "use_grape_seed": "2025-03-04 04:48:59 +0000"
     },
     "done": true
   },
@@ -5826,6 +5856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-03-04 04:52:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-03-04 03:23:49 +0000"
@@ -6907,6 +6943,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_silver_storage_block": {
     "criteria": {
       "has_raw_silver": "2025-03-04 03:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-04 04:52:07 +0000"
     },
     "done": true
   },
@@ -8844,6 +8886,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/vanilla_piles/poppy": {
+    "criteria": {
+      "has_flower": "2025-03-04 04:52:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-04 03:08:15 +0000"
@@ -9448,6 +9496,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-04 04:52:28 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_red_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-03-04 03:23:49 +0000"
@@ -9520,9 +9574,21 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/vanilla_piles/dandelion": {
+    "criteria": {
+      "has_flower": "2025-03-04 04:52:07 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/white_painted_planks": {
     "criteria": {
       "has_planks": "2025-03-04 02:32:05 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2025-03-04 04:53:15 +0000"
     },
     "done": true
   },
@@ -9578,6 +9644,12 @@
   "regions_unexplored:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-03-04 02:29:51 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-03-04 04:53:15 +0000"
     },
     "done": true
   },
@@ -10286,9 +10358,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-03-04 04:52:26 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/chicken_and_noodles": {
     "criteria": {
       "has_chicken": "2025-03-04 04:25:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-03-04 04:52:07 +0000"
     },
     "done": true
   },
@@ -10338,6 +10422,12 @@
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-04 04:32:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-03-04 04:52:26 +0000"
     },
     "done": true
   },
