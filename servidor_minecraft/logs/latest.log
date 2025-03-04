@@ -3675,3 +3675,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	... 29 more
 [06:59:53] [Server thread/INFO]: Joapapiriko has made the advancement [Penteconter]
 [07:02:08] [Server thread/INFO]: Joapapiriko has made the advancement [Local Brewery]
+[07:22:47] [Server thread/INFO]: [STDOUT]: Finalizing fluid item registration
