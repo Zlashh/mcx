@@ -450,6 +450,12 @@
     },
     "done": true
   },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-03-04 05:18:47 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-04 04:27:27 +0000"
@@ -981,6 +987,12 @@
   "bewitchment:recipes/building_blocks/salt_block": {
     "criteria": {
       "has_item": "2025-03-04 05:10:39 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_helmet": {
+    "criteria": {
+      "has_phantom_bones": "2025-03-04 05:18:27 +0000"
     },
     "done": true
   },
@@ -1861,6 +1873,12 @@
   "techreborn:recipes/centrifuge/cooked_meat": {
     "criteria": {
       "has_cooked_meat": "2025-03-04 04:33:40 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_chestplate": {
+    "criteria": {
+      "has_phantom_bones": "2025-03-04 05:18:27 +0000"
     },
     "done": true
   },
@@ -4022,6 +4040,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-03-04 05:18:26 +0000"
+    },
+    "done": false
+  },
   "brewery:recipes/pretzel": {
     "criteria": {
       "has_wheat": "2025-03-04 04:30:55 +0000"
@@ -4345,6 +4369,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-04 04:01:27 +0000",
       "minecraft:spider": "2025-03-04 04:59:28 +0000",
+      "minecraft:phantom": "2025-03-04 05:18:26 +0000",
       "minecraft:zombie": "2025-03-04 04:36:04 +0000"
     },
     "done": false
