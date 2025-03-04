@@ -13522,6 +13522,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-04 22:30:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-03-04 21:19:49 +0000"
@@ -13645,6 +13651,12 @@
   "botania:recipes/tools/bauble_box": {
     "criteria": {
       "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_boots_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:36 +0000"
     },
     "done": true
   },
@@ -13786,6 +13798,12 @@
     },
     "done": true
   },
+  "zenith:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-03-04 22:29:54 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_wither": {
     "criteria": {
       "has_upgrade_core": "2025-03-04 21:54:41 +0000"
@@ -13828,6 +13846,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_iron_hoe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_axe": {
     "criteria": {
       "has_item": "2025-03-04 21:18:17 +0000"
@@ -13838,6 +13862,18 @@
     "criteria": {
       "has_upgrade_core": "2025-03-04 21:54:41 +0000",
       "has_the_recipe": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_helmet_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_pickaxe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:36 +0000"
     },
     "done": true
   },
@@ -13865,9 +13901,21 @@
     },
     "done": true
   },
+  "simplyswords:magiscythe": {
+    "criteria": {
+      "requirement": "2025-03-04 22:18:39 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_soul": {
     "criteria": {
       "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_chestplate_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:36 +0000"
     },
     "done": true
   },
@@ -13907,6 +13955,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_iron_axe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-03-04 21:19:49 +0000"
@@ -13943,6 +13997,12 @@
     },
     "done": true
   },
+  "advancednetherite:nether/obtain_netherite_iron_ingot": {
+    "criteria": {
+      "netherite_iron_ingot": "2025-03-04 22:20:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mana_distributor": {
     "criteria": {
       "has_item": "2025-03-04 21:18:17 +0000"
@@ -13958,6 +14018,12 @@
   "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_sword_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:36 +0000"
     },
     "done": true
   },
@@ -13982,6 +14048,12 @@
   "botania:recipes/tools/lava_pendant": {
     "criteria": {
       "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_leggings_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:36 +0000"
     },
     "done": true
   },
@@ -14024,6 +14096,12 @@
   "mcda:recipes/upgrade_cores/upgrade_core_metal_var": {
     "criteria": {
       "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:runic_weapon": {
+    "criteria": {
+      "requirement": "2025-03-04 22:18:16 +0000"
     },
     "done": true
   },
@@ -14123,6 +14201,12 @@
     },
     "done": true
   },
+  "simplyswords:brimstone": {
+    "criteria": {
+      "requirement": "2025-03-04 22:17:51 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_fox": {
     "criteria": {
       "has_upgrade_core": "2025-03-04 21:54:41 +0000"
@@ -14168,6 +14252,12 @@
   "rpg_series:classes": {
     "criteria": {
       "book": "2025-03-04 22:13:33 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_shovel_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:36 +0000"
     },
     "done": true
   },
