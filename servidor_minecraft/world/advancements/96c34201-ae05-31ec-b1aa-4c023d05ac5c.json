@@ -3100,6 +3100,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-04 04:34:09 +0000",
+      "cooked_mutton": "2025-03-05 04:45:12 +0000",
       "cooked_beef": "2025-03-04 05:18:56 +0000",
       "baked_potato": "2025-03-04 03:52:35 +0000",
       "apple": "2025-03-04 07:05:55 +0000",
@@ -13516,33 +13517,93 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/promenade/sign_post_sakura": {
+    "criteria": {
+      "has_planks": "2025-03-04 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/button": {
+    "criteria": {
+      "has_planks": "2025-03-04 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/door": {
+    "criteria": {
+      "has_planks": "2025-03-04 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-04 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-04 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/fence": {
+    "criteria": {
+      "has_planks": "2025-03-04 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-04 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/slab": {
+    "criteria": {
+      "has_planks": "2025-03-04 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/sign": {
+    "criteria": {
+      "has_planks": "2025-03-04 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/stairs": {
+    "criteria": {
+      "has_planks": "2025-03-04 20:42:15 +0000"
+    },
+    "done": true
+  },
+  "beachparty:sand_bucket_block": {
+    "criteria": {
+      "has_wooden_shovel": "2025-03-04 20:42:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_shovel": {
+    "criteria": {
+      "has_wooden_shovel": "2025-03-04 20:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-03-04 20:49:01 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/compacted_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-03-04 20:49:01 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dripstone_pillar_trim": {
     "criteria": {
       "has_dripstone_pillar_trim": "2025-03-04 20:49:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-03-04 22:30:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-03-04 21:19:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/manasteel_sword": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-03-04 21:50:09 +0000"
     },
     "done": true
   },
@@ -13552,9 +13613,117 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
-      "has_mutton": "2025-03-04 21:52:17 +0000"
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
     },
     "done": true
   },
@@ -13564,15 +13733,562 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-04 21:05:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-03-04 21:05:34 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/breathalyzer": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-04 21:05:34 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_freezing_foil": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-04 21:05:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-04 21:05:34 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-03-04 21:17:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_sword": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/obedience_stick": {
     "criteria": {
       "has_item": "2025-03-04 21:18:17 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/promenade/sign_post_sakura": {
+  "botania:recipes/decorations/mana_fluxfield": {
     "criteria": {
-      "has_planks": "2025-03-04 20:42:15 +0000"
+      "has_alt_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pump": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ice_pendant": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/bauble_box": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_hoe": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/knockback_belt": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/magnet_ring": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_leggings": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_shovel": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/manasteel_block": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_axe": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/forest_eye": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dodge_ring": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_shears": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_distributor": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/travel_belt": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/monocle": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lava_pendant": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/sextant": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_pick": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_helmet": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/glass_pickaxe": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/swap_ring": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/mining_ring": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_boots": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_normal": {
+    "criteria": {
+      "has_item": "2025-03-04 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/gunpowder_from_tnt": {
+    "criteria": {
+      "has_tnt": "2025-03-04 21:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-04 21:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-04 21:19:49 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/andesite_pedestal": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-04 21:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-04 21:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-04 21:19:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze_smithing": {
+    "criteria": {
+      "has_blaze": "2025-03-04 21:25:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-03-04 21:49:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-03-04 21:49:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/mourner_pottery_sherd": {
+    "criteria": {
+      "has_recovery_compass": "2025-03-04 21:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-04 21:50:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/bucket_from_lava_bucket": {
+    "criteria": {
+      "has_lava_bucket": "2025-03-04 21:50:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-03-04 21:52:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-03-04 21:52:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-03-04 21:52:17 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_hive": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_highland": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_magicked": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_wither": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_metal": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000",
+      "has_the_recipe": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_glut": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_soul": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_shadows": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_ember": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_metal_var": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_void": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_wolf": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_fox": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_frost": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_golden": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/golden_piglin_armor_chestplate": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:55:08 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/golden_piglin_armor_helmet": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:55:08 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/golden_piglin_armor_leggings": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:55:08 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/golden_piglin_armor_boots": {
+    "criteria": {
+      "has_upgrade_core": "2025-03-04 21:55:08 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_tree_plains": {
+    "criteria": {
+      "apple_sapling": "2025-03-04 22:02:05 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_tree_all": {
+    "criteria": {
+      "apple_sapling": "2025-03-04 22:02:05 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getsapling": {
+    "criteria": {
+      "has_sapling": "2025-03-04 22:02:05 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/monkeyking": {
+    "criteria": {
+      "arcane": "2025-03-04 22:10:30 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:classes": {
+    "criteria": {
+      "book": "2025-03-04 22:13:33 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_arcane": {
+    "criteria": {
+      "bind": "2025-03-04 22:13:46 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:brimstone": {
+    "criteria": {
+      "requirement": "2025-03-04 22:17:51 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:runic_weapon": {
+    "criteria": {
+      "requirement": "2025-03-04 22:18:16 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:magiscythe": {
+    "criteria": {
+      "requirement": "2025-03-04 22:18:39 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_boots_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_hoe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_helmet_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_pickaxe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_chestplate_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_axe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/obtain_netherite_iron_ingot": {
+    "criteria": {
+      "netherite_iron_ingot": "2025-03-04 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_sword_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_leggings_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_shovel_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:36 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-03-04 22:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-04 22:30:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-04 22:32:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_nugget_from_hoe": {
+    "criteria": {
+      "has_iron_hoe": "2025-03-04 22:48:43 +0000"
     },
     "done": true
   },
@@ -13600,51 +14316,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-03-04 21:05:34 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_hive": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mana_fluxfield": {
-    "criteria": {
-      "has_alt_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/pump": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "croptopia:gather_tree_plains": {
-    "criteria": {
-      "apple_sapling": "2025-03-04 22:02:05 +0000"
-    },
-    "done": false
-  },
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-03-04 22:48:45 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
     },
     "done": true
   },
@@ -13654,87 +14328,15 @@
     },
     "done": true
   },
-  "promenade:recipes/crafting/sakura/button": {
-    "criteria": {
-      "has_planks": "2025-03-04 20:42:15 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/ice_pendant": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/sakura/door": {
-    "criteria": {
-      "has_planks": "2025-03-04 20:42:15 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/redstone": {
     "criteria": {
       "has_redstone": "2025-03-04 22:48:45 +0000"
     },
     "done": true
   },
-  "promenade:recipes/crafting/sakura/trapdoor": {
-    "criteria": {
-      "has_planks": "2025-03-04 20:42:15 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/misc/crafting_table/small_dust/redstone_small_dust_from_dust": {
     "criteria": {
       "has_redstone": "2025-03-04 22:48:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/bauble_box": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_iron_boots_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-03-04 22:20:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-03-04 20:49:01 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/sakura/fence_gate": {
-    "criteria": {
-      "has_planks": "2025-03-04 20:42:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-03-04 21:52:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-03-04 21:19:49 +0000"
     },
     "done": true
   },
@@ -13750,33 +14352,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-03-04 22:48:45 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/manasteel_hoe": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/knockback_belt": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:small_dungeon": {
-    "criteria": {
-      "in_better_monster_room": "2025-03-04 21:17:59 +0000"
     },
     "done": true
   },
@@ -13786,250 +14364,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/mourner_pottery_sherd": {
-    "criteria": {
-      "has_recovery_compass": "2025-03-04 21:49:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/ornate_iron_window": {
-    "criteria": {
-      "has_ingredient": "2025-03-04 21:05:34 +0000"
-    },
-    "done": true
-  },
-  "croptopia:gather_tree_all": {
-    "criteria": {
-      "apple_sapling": "2025-03-04 22:02:05 +0000"
-    },
-    "done": false
-  },
-  "botania:recipes/tools/magnet_ring": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_highland": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-03-04 21:52:17 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/andesite_pedestal": {
-    "criteria": {
-      "has_polished_andesite": "2025-03-04 21:19:49 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/sakura/fence": {
-    "criteria": {
-      "has_planks": "2025-03-04 20:42:15 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/raw_redstone_block": {
     "criteria": {
       "has_redstone": "2025-03-04 22:48:45 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/manasteel_leggings": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_magicked": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/iron_nugget_from_hoe": {
-    "criteria": {
-      "has_iron_hoe": "2025-03-04 22:48:43 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/manasteel_shovel": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "zenith:enchanting/enchanter": {
-    "criteria": {
-      "enchanting_table": "2025-03-04 22:29:54 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_wither": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
-    "criteria": {
-      "has_diamond_pickaxe": "2025-03-04 21:49:33 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
-    "criteria": {
-      "has_diamond_pickaxe": "2025-03-04 21:49:33 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/building_blocks/manasteel_block": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/blaze_smithing": {
-    "criteria": {
-      "has_blaze": "2025-03-04 21:25:00 +0000"
-    },
-    "done": true
-  },
-  "spellbladenext:spellblades/monkeyking": {
-    "criteria": {
-      "arcane": "2025-03-04 22:10:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-03-04 21:19:49 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_iron_hoe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-03-04 22:20:36 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/manasteel_axe": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_metal": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-04 21:54:41 +0000",
-      "has_the_recipe": "2025-03-04 21:54:41 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_iron_helmet_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-03-04 22:20:36 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_iron_pickaxe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-03-04 22:20:36 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/redstone/forest_eye": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/sakura/pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-03-04 20:42:15 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_glut": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:magiscythe": {
-    "criteria": {
-      "requirement": "2025-03-04 22:18:39 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_soul": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_iron_chestplate_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-03-04 22:20:36 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_shadows": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/dodge_ring": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_ember": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
     },
     "done": true
   },
@@ -14039,45 +14376,9 @@
     },
     "done": true
   },
-  "promenade:recipes/crafting/sakura/slab": {
-    "criteria": {
-      "has_planks": "2025-03-04 20:42:15 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cells/item_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-03-04 22:48:45 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_iron_axe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-03-04 22:20:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-03-04 21:19:49 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/manasteel_chestplate": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/golden_piglin_armor_chestplate": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-04 21:55:08 +0000"
     },
     "done": true
   },
@@ -14087,117 +14388,15 @@
     },
     "done": true
   },
-  "botania:recipes/tools/manasteel_shears": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "beachparty:sand_bucket_block": {
-    "criteria": {
-      "has_wooden_shovel": "2025-03-04 20:42:25 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:nether/obtain_netherite_iron_ingot": {
-    "criteria": {
-      "netherite_iron_ingot": "2025-03-04 22:20:36 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/mana_distributor": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/golden_piglin_armor_helmet": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-04 21:55:08 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_iron_sword_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-03-04 22:20:36 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/travel_belt": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/dripstone_corner_trim": {
-    "criteria": {
-      "has_dripstone_corner_trim": "2025-03-04 20:49:40 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/monocle": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/lava_pendant": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/sconce_lever": {
     "criteria": {
       "has_redstone": "2025-03-04 22:48:45 +0000"
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_iron_leggings_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-03-04 22:20:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-03-04 22:48:45 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/sextant": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/gunpowder_from_tnt": {
-    "criteria": {
-      "has_tnt": "2025-03-04 21:18:52 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/manasteel_pick": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/sakura/sign": {
-    "criteria": {
-      "has_planks": "2025-03-04 20:42:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
     },
     "done": true
   },
@@ -14213,45 +14412,9 @@
     },
     "done": true
   },
-  "botania:recipes/combat/manasteel_helmet": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_metal_var": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:runic_weapon": {
-    "criteria": {
-      "requirement": "2025-03-04 22:18:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-03-04 22:48:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_void": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/glass_pickaxe": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
     },
     "done": true
   },
@@ -14261,27 +14424,9 @@
     },
     "done": true
   },
-  "rpg_series:spell_novice_arcane": {
-    "criteria": {
-      "bind": "2025-03-04 22:13:46 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2025-03-04 22:48:45 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/unique_armors/golden_piglin_armor_leggings": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-04 21:55:08 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/compacted_dripstone": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-03-04 20:49:01 +0000"
     },
     "done": true
   },
@@ -14291,39 +14436,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_shovel": {
-    "criteria": {
-      "has_wooden_shovel": "2025-03-04 20:42:25 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/swap_ring": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2025-03-04 22:48:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/sakura/stairs": {
-    "criteria": {
-      "has_planks": "2025-03-04 20:42:15 +0000"
     },
     "done": true
   },
@@ -14333,39 +14448,9 @@
     },
     "done": true
   },
-  "mcda:recipes/unique_armors/golden_piglin_armor_boots": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-04 21:55:08 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_wolf": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
-    },
-    "done": true
-  },
-  "brewery:recipes/breathalyzer": {
-    "criteria": {
-      "has_iron_nugget": "2025-03-04 21:05:34 +0000"
-    },
-    "done": true
-  },
   "oxidized:recipes/copper_rail": {
     "criteria": {
       "has_copper_block": "2025-03-04 22:48:45 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/mining_ring": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "croptopia:getsapling": {
-    "criteria": {
-      "has_sapling": "2025-03-04 22:02:05 +0000"
     },
     "done": true
   },
@@ -14375,69 +14460,9 @@
     },
     "done": true
   },
-  "simplyswords:brimstone": {
-    "criteria": {
-      "requirement": "2025-03-04 22:17:51 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/gold_ingot_from_horse_armor": {
-    "criteria": {
-      "has_golden_horse_armor": "2025-03-04 22:50:59 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_fox": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/combat/manasteel_boots": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-03-04 22:32:30 +0000"
-    },
-    "done": true
-  },
   "oxidized:recipes/copper_pulsar": {
     "criteria": {
       "has_copper_block": "2025-03-04 22:48:45 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/lens_normal": {
-    "criteria": {
-      "has_item": "2025-03-04 21:18:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_frost": {
-    "criteria": {
-      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/swords/sword_freezing_foil": {
-    "criteria": {
-      "has_iron_nugget": "2025-03-04 21:05:34 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/bucket_from_lava_bucket": {
-    "criteria": {
-      "has_lava_bucket": "2025-03-04 21:50:09 +0000"
     },
     "done": true
   },
@@ -14453,12 +14478,6 @@
     },
     "done": true
   },
-  "rpg_series:classes": {
-    "criteria": {
-      "book": "2025-03-04 22:13:33 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-03-04 22:48:45 +0000"
@@ -14471,27 +14490,219 @@
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_iron_shovel_smithing": {
+  "techreborn:recipes/blast_furnace/gold_ingot_from_horse_armor": {
     "criteria": {
-      "has_ingredients": "2025-03-04 22:20:36 +0000"
+      "has_golden_horse_armor": "2025-03-04 22:50:59 +0000"
     },
     "done": true
   },
-  "mcda:recipes/upgrade_cores/upgrade_core_golden": {
+  "regions_unexplored:recipes/redstone/pine_fence_gate": {
     "criteria": {
-      "has_upgrade_core": "2025-03-04 21:54:41 +0000"
+      "has_pine_planks": "2025-03-05 04:37:24 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/sconce_soul": {
+  "regions_unexplored:recipes/redstone/pine_trapdoor": {
     "criteria": {
-      "has_iron_nugget": "2025-03-04 21:05:34 +0000"
+      "has_pine_planks": "2025-03-05 04:37:24 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+  "regions_unexplored:recipes/decorations/pine_fence": {
     "criteria": {
-      "has_stone_types_dripstone": "2025-03-04 20:49:40 +0000"
+      "has_pine_planks": "2025-03-05 04:37:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2025-03-05 04:37:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2025-03-05 04:37:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_pine": {
+    "criteria": {
+      "has_planks": "2025-03-05 04:37:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2025-03-05 04:37:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2025-03-05 04:37:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_pine_planks": "2025-03-05 04:37:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2025-03-05 04:37:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/mead": {
+    "criteria": {
+      "has_honey": "2025-03-05 04:39:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-05 04:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-05 04:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-05 04:39:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-05 04:39:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-05 04:39:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-03-05 04:39:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/gray_coffin": {
+    "criteria": {
+      "has_item": "2025-03-05 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/specialblades": {
+    "criteria": {
+      "arcane": "2025-03-05 04:41:08 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/computer_advanced": {
+    "criteria": {
+      "has_components": "2025-03-05 04:41:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
+    "criteria": {
+      "has_golden_leggings": "2025-03-05 04:41:20 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/brazier": {
+    "criteria": {
+      "has_bar": "2025-03-05 04:43:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/drain": {
+    "criteria": {
+      "has_iron_bars": "2025-03-05 04:43:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-03-05 04:43:44 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/soul_brazier": {
+    "criteria": {
+      "has_bar": "2025-03-05 04:43:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-03-05 04:43:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot": {
+    "criteria": {
+      "has_iron_bars": "2025-03-05 04:43:44 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-03-05 04:51:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lsu_storage": {
+    "criteria": {
+      "has_lapis_block": "2025-03-05 04:51:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/lapis_plate": {
+    "criteria": {
+      "has_lapis_block": "2025-03-05 04:51:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-03-05 04:51:40 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_beer_barley": {
+    "criteria": {
+      "beer_barley": "2025-03-05 04:52:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-03-05 04:53:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-03-05 04:53:54 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_shear_dagger": {
+    "criteria": {
+      "has_shears": "2025-03-05 05:09:30 +0000"
     },
     "done": true
   },
