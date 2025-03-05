@@ -585,6 +585,7 @@
       "rocky_meadow": "2025-03-04 02:25:09 +0000",
       "flower_fields": "2025-03-04 02:29:16 +0000",
       "magnolia_highlands": "2025-03-04 06:17:18 +0000",
+      "glistering_meadow": "2025-03-05 06:26:02 +0000",
       "temperate_grove": "2025-03-04 05:22:33 +0000"
     },
     "done": false
@@ -3087,6 +3088,7 @@
     "criteria": {
       "minecraft:pillager": "2025-03-04 03:49:47 +0000",
       "minecraft:skeleton": "2025-03-04 02:56:23 +0000",
+      "minecraft:ghast": "2025-03-05 06:26:41 +0000",
       "minecraft:spider": "2025-03-04 02:40:43 +0000",
       "minecraft:creeper": "2025-03-04 05:20:12 +0000",
       "minecraft:phantom": "2025-03-04 03:14:31 +0000",
@@ -14728,7 +14730,8 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:bone_reef": "2025-03-05 06:20:50 +0000",
-      "betternether:flooded_deltas": "2025-03-05 06:18:36 +0000"
+      "betternether:flooded_deltas": "2025-03-05 06:18:36 +0000",
+      "betternether:sulfuric_bone_reef": "2025-03-05 06:31:29 +0000"
     },
     "done": false
   },
@@ -14744,9 +14747,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "glistering_meadow": "2025-03-05 06:26:02 +0000"
+    },
+    "done": false
+  },
   "stoneworks:recipes/building_blocks/blackstone_shingle_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-03-05 06:17:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lamp_led": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-05 06:28:50 +0000"
     },
     "done": true
   },
@@ -15074,6 +15095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-05 06:28:50 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bloodstone/polished_bloodstone_stonecutting": {
     "criteria": {
       "has_item": "2025-03-05 06:15:41 +0000"
@@ -15170,6 +15197,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/netherrack_stalactite_netherrack": {
+    "criteria": {
+      "has_netherrack_stalactite": "2025-03-05 06:23:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-03-05 06:17:43 +0000"
@@ -15179,6 +15212,12 @@
   "mcda:recipes/unique_armors/archers_leggings": {
     "criteria": {
       "has_leather_leggings": "2025-03-05 06:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-05 06:28:50 +0000"
     },
     "done": true
   },
@@ -15215,6 +15254,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-03-05 05:56:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-05 06:28:17 +0000"
     },
     "done": true
   },
@@ -15263,6 +15308,12 @@
   "betternether:recipes/redstone/bone_block_bone_plate": {
     "criteria": {
       "has_bone_block": "2025-03-05 06:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-05 06:28:17 +0000"
     },
     "done": true
   },
@@ -15428,6 +15479,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/glowstone_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-05 06:28:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/auto_crafting_table": {
     "criteria": {
       "has_advanced_circuit": "2025-03-05 05:56:18 +0000"
@@ -15491,6 +15548,18 @@
   "regions_unexplored:recipes/building_blocks/blackstone_cluster": {
     "criteria": {
       "has_blackstone": "2025-03-05 06:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-03-05 06:26:41 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_bone_cudgel": {
+    "criteria": {
+      "has_bone_block": "2025-03-05 06:28:17 +0000"
     },
     "done": true
   },
@@ -15788,6 +15857,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-05 06:28:17 +0000"
+    },
+    "done": true
+  },
   "transmog:recipes/misc/transmogrification_table": {
     "criteria": {
       "has_item": "2025-03-05 05:53:39 +0000"
@@ -15799,6 +15874,12 @@
       "has_snowball": "2025-03-05 05:56:30 +0000"
     },
     "done": false
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-05 06:28:17 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

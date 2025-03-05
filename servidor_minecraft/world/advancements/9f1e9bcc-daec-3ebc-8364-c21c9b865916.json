@@ -10150,9 +10150,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/mercenary_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-05 06:28:13 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/stalagnate_hanging_sign": {
     "criteria": {
       "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecells:promenade": {
+    "criteria": {
+      "requirement": "2025-03-05 06:23:24 +0000"
     },
     "done": true
   },
@@ -10222,6 +10234,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
+    "criteria": {
+      "has_diamond_boots": "2025-03-05 06:28:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
+    "criteria": {
+      "has_diamond_boots": "2025-03-05 06:28:04 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_hanging_sign": {
     "criteria": {
       "has_chain": "2025-03-05 05:50:02 +0000"
@@ -10231,6 +10255,12 @@
   "mcdw:recipes/hammers/hammer_flail": {
     "criteria": {
       "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-03-05 06:28:01 +0000"
     },
     "done": true
   },
@@ -10258,9 +10288,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-03-05 06:29:54 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
     "criteria": {
       "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/runner": {
+    "criteria": {
+      "requirement": "2025-03-05 06:29:40 +0000"
     },
     "done": true
   },
@@ -10354,6 +10396,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/snow_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-05 06:28:13 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
     "criteria": {
       "has_diamond": "2025-03-05 05:41:03 +0000"
@@ -10366,15 +10414,39 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/minecells/sign_post_putrid": {
+    "criteria": {
+      "has_planks": "2025-03-05 06:24:42 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/protector": {
+    "criteria": {
+      "requirement": "2025-03-05 06:31:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-03-05 05:41:03 +0000"
     },
     "done": true
   },
+  "minecells:book/mobs/mutated_bat": {
+    "criteria": {
+      "requirement": "2025-03-05 06:31:10 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
     "criteria": {
       "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-05 06:28:13 +0000"
     },
     "done": true
   },
@@ -10432,6 +10504,12 @@
     },
     "done": true
   },
+  "minecells:unlock/run_in_the_promenade": {
+    "criteria": {
+      "run": "2025-03-05 06:23:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-03-05 05:41:03 +0000"
@@ -10447,6 +10525,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-03-05 05:41:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-03-05 06:28:13 +0000"
     },
     "done": true
   },
@@ -10495,6 +10579,12 @@
   "betterend:recipes/decorations/jellyshroom_hanging_sign": {
     "criteria": {
       "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-03-05 06:28:01 +0000"
     },
     "done": true
   },
