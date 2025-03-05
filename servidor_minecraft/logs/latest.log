@@ -3439,3 +3439,10 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [06:44:15] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player Zlashh. Claiming: GRAVE / Robbing: INVENTORY
 [06:44:16] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Zlashh accepted server config.
 [06:45:50] [Server thread/INFO]: Zlashh has made the advancement [Elite enemy!]
+[06:48:01] [Server thread/INFO]: Zlashh has made the advancement [Jack and the beanstalk]
+[06:49:20] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Zlashh accepted server config.
+[06:51:47] [Server thread/INFO]: Zlashh lost connection: Disconnected
+[06:51:47] [Server thread/INFO]: Zlashh left the game
+[06:51:47] [Server thread/INFO]: remove player wand
+[06:51:47] [Server thread/INFO]: Updating all forceload tickets for 9f1e9bcc-daec-3ebc-8364-c21c9b865916
+[06:56:09] [Server thread/WARN]: Couldn't set damage of loot item 1 iron_horse_armor

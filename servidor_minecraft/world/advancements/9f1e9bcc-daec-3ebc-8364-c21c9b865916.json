@@ -1121,6 +1121,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2025-03-05 06:50:32 +0000",
       "apple": "2025-03-03 21:02:46 +0000",
       "bread": "2025-03-03 20:31:55 +0000"
     },
@@ -10663,6 +10664,12 @@
   "simplyswords:flamewind": {
     "criteria": {
       "requirement": "2025-03-05 06:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecells:vine_rune": {
+    "criteria": {
+      "vine_rune": "2025-03-05 06:48:01 +0000"
     },
     "done": true
   },
