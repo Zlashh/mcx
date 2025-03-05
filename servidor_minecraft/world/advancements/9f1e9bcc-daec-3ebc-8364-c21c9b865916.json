@@ -10132,9 +10132,45 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lucernia_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-03-05 05:41:03 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
     },
     "done": true
   },
@@ -10168,6 +10204,36 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/dragon_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_flail": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/paper_from_enchanted_book": {
+    "criteria": {
+      "has_enchanted_book": "2025-03-05 05:42:18 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_diamond_sword_var": {
     "criteria": {
       "has_diamond": "2025-03-05 05:41:03 +0000"
@@ -10183,6 +10249,12 @@
   "techreborn:recipes/blast_furnace/prize_pottery_sherd": {
     "criteria": {
       "has_diamond": "2025-03-05 05:41:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
     },
     "done": true
   },
@@ -10210,6 +10282,12 @@
     },
     "done": true
   },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-03-05 05:41:03 +0000"
@@ -10234,9 +10312,33 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-03-05 05:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/grenadier": {
+    "criteria": {
+      "requirement": "2025-03-05 05:45:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_shovel_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-03-05 05:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/shieldbearer": {
+    "criteria": {
+      "requirement": "2025-03-05 05:48:41 +0000"
     },
     "done": true
   },
@@ -10252,9 +10354,33 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-05 05:47:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-03-05 05:41:03 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
     },
     "done": true
   },
@@ -10312,9 +10438,21 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/wart_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2025-03-05 05:41:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
     },
     "done": true
   },
@@ -10336,6 +10474,18 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/tenanea_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/sweet_tooth_leggings": {
     "criteria": {
       "has_diamond": "2025-03-05 05:41:03 +0000"
@@ -10354,9 +10504,21 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/pythadendron_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-03-05 05:41:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-05 05:50:02 +0000"
     },
     "done": true
   },

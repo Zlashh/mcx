@@ -9532,6 +9532,12 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_a_leaping_zombie": {
+    "criteria": {
+      "leaping_zombie_killed": "2025-03-05 05:42:01 +0000"
+    },
+    "done": true
+  },
   "beachparty:palm_tall_torch": {
     "criteria": {
       "has_coal": "2025-03-05 05:24:05 +0000"
@@ -9604,6 +9610,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-03-05 05:49:57 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/grapevine_stem": {
     "criteria": {
       "has_oak_log": "2025-03-05 05:35:57 +0000"
@@ -9640,6 +9652,18 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-05 05:46:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-05 05:50:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-03-05 05:35:57 +0000"
@@ -9658,6 +9682,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_bow": {
+    "criteria": {
+      "has_bow": "2025-03-05 05:50:50 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2025-03-05 05:31:34 +0000"
@@ -9667,6 +9697,18 @@
   "betterend:recipes/misc/enchanted_membrane": {
     "criteria": {
       "has_item.minecraft.phantom_membrane": "2025-03-05 05:31:34 +0000"
+    },
+    "done": true
+  },
+  "more_rpg_content:bow_way": {
+    "criteria": {
+      "items": "2025-03-05 05:50:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
+    "criteria": {
+      "has_bow": "2025-03-05 05:50:50 +0000"
     },
     "done": true
   },
@@ -9697,6 +9739,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-03-05 05:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/leaping_zombie": {
+    "criteria": {
+      "requirement": "2025-03-05 05:42:01 +0000"
     },
     "done": true
   },
