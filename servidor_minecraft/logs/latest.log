@@ -3384,3 +3384,12 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [06:03:37] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: Pavks -> Global
 [06:03:37] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Pavks. Claiming: GRAVE / Robbing: INVENTORY
 [06:03:40] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Pavks accepted server config.
+[06:09:55] [Server thread/INFO]: Zlashh has made the advancement [A crafter that runs on cells...]
+[06:10:26] [Server thread/INFO]: Pavks has completed the challenge [Centennial]
+[06:13:32] [Server thread/INFO]: Zlashh has completed the challenge [Centennial]
+[06:14:56] [Server thread/INFO]: No return portal found
+[06:14:56] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Joapapiriko accepted server config.
+[06:15:01] [Server thread/INFO]: Joapapiriko has made the advancement [We Need to Go Deeper]
+[06:15:01] [Server thread/INFO]: Joapapiriko has made the advancement [Time for a Sweat]
+[06:15:01] [Server thread/INFO]: Joapapiriko has made the advancement [Nether Depths Upgrade]
+[06:15:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10102ms or 202 ticks behind
