@@ -3393,3 +3393,11 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [06:15:01] [Server thread/INFO]: Joapapiriko has made the advancement [Time for a Sweat]
 [06:15:01] [Server thread/INFO]: Joapapiriko has made the advancement [Nether Depths Upgrade]
 [06:15:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10102ms or 202 ticks behind
+[06:23:24] [Server thread/INFO]: Zlashh has made the advancement [Love the serenity...]
+[06:23:24] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Zlashh accepted server config.
+[06:23:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3735ms or 74 ticks behind
+[06:23:43] [Server thread/INFO]: Pavks has made the advancement [Love the serenity...]
+[06:23:43] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Pavks accepted server config.
+[06:24:05] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Pavks accepted server config.
+[06:24:20] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Zlashh accepted server config.
+[06:26:41] [Server thread/INFO]: Joapapiriko has completed the challenge [Return to Sender]
