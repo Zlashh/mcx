@@ -2736,3 +2736,21 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [05:19:04] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: Zlashh -> Global
 [05:19:04] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Zlashh. Claiming: GRAVE / Robbing: INVENTORY
 [05:19:06] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Zlashh accepted server config.
+[05:26:00] [Server thread/INFO]: Joapapiriko has made the advancement [The Ire in Fire]
+[05:28:44] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell spellbladenext:monkeyreflect Entity not found: 3529
+[05:28:44] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell spellbladenext:monkeyreflect Entity not found: 3529
+[05:28:44] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell spellbladenext:monkeyreflect Entity not found: 3529
+[05:28:45] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell spellbladenext:monkeyreflect Entity not found: 3529
+[05:28:45] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell spellbladenext:monkeyreflect Entity not found: 3529
+[05:28:45] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell spellbladenext:monkeyreflect Entity not found: 3529
+[05:28:45] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell spellbladenext:monkeyreflect Entity not found: 3529
+[05:28:46] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell spellbladenext:monkeyreflect Entity not found: 3529
+[05:28:46] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell spellbladenext:monkeyreflect Entity not found: 3529
+[05:28:46] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell spellbladenext:monkeyreflect Entity not found: 3529
+[05:28:46] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell spellbladenext:monkeyreflect Entity not found: 3529
+[05:31:01] [Server thread/INFO]: Zlashh lost connection: Disconnected
+[05:31:01] [Server thread/INFO]: Zlashh left the game
+[05:31:01] [Server thread/INFO]: remove player wand
+[05:31:01] [Server thread/INFO]: Updating all forceload tickets for 9f1e9bcc-daec-3ebc-8364-c21c9b865916
+[05:32:44] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Pavks accepted server config.
+[05:33:23] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Pavks accepted server config.
