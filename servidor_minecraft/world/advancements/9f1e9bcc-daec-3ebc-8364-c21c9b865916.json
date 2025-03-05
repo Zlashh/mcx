@@ -9874,6 +9874,30 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-03-04 21:44:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-03-04 21:44:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-03-04 21:44:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2025-03-04 21:44:23 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_white": {
     "criteria": {
       "has_dyes/black": "2025-03-04 21:53:51 +0000"
@@ -9883,30 +9907,6 @@
   "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
     "criteria": {
       "has_dye": "2025-03-04 21:53:51 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_leggings_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-03-04 22:20:48 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_axe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-03-04 22:20:48 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_sword_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-03-04 22:20:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-03-04 22:17:30 +0000"
     },
     "done": true
   },
@@ -9922,27 +9922,9 @@
     },
     "done": true
   },
-  "ae2:main/facade": {
-    "criteria": {
-      "facade": "2025-03-04 22:07:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-03-04 21:53:51 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_shovel_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-03-04 22:20:48 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_chestplate_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-03-04 22:20:48 +0000"
     },
     "done": true
   },
@@ -9952,27 +9934,9 @@
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_emerald_boots_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-03-04 22:20:48 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/planter_rich": {
     "criteria": {
       "has_bone_meal": "2025-03-04 21:53:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "iron_knife": "2025-03-04 21:44:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-03-04 21:44:23 +0000"
     },
     "done": true
   },
@@ -9982,27 +9946,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-03-04 21:44:23 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-03-04 21:53:51 +0000"
-    },
-    "done": true
-  },
-  "croptopia:knife": {
-    "criteria": {
-      "knife": "2025-03-04 21:44:23 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_emerald_helmet_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-03-04 22:20:48 +0000"
     },
     "done": true
   },
@@ -10012,45 +9958,9 @@
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_emerald_pickaxe_smithing": {
-    "criteria": {
-      "has_ingredients": "2025-03-04 22:20:48 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/creeper": {
-    "criteria": {
-      "has_gunpowder": "2025-03-04 22:17:30 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/misc/tiny_tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-03-04 22:17:30 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/sulphur_gunpowder": {
     "criteria": {
       "has_bone_meal": "2025-03-04 21:53:51 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_gunpowder": "2025-03-04 22:17:30 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/tool/painting_tool": {
-    "criteria": {
-      "has_wooden_plate": "2025-03-04 22:13:57 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/unit/storage/storage_buffer": {
-    "criteria": {
-      "has_wood_plate": "2025-03-04 22:13:57 +0000"
     },
     "done": true
   },
@@ -10078,21 +9988,111 @@
     },
     "done": true
   },
+  "ae2:main/facade": {
+    "criteria": {
+      "facade": "2025-03-04 22:07:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/painting_tool": {
+    "criteria": {
+      "has_wooden_plate": "2025-03-04 22:13:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/storage/storage_buffer": {
+    "criteria": {
+      "has_wood_plate": "2025-03-04 22:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-04 22:17:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-03-04 22:17:30 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-04 22:17:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-03-04 22:17:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/danger_pottery_sherd": {
     "criteria": {
       "has_gunpowder": "2025-03-04 22:17:30 +0000"
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/netherite_emerald_hoe_smithing": {
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-04 22:17:30 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_leggings_smithing": {
     "criteria": {
       "has_ingredients": "2025-03-04 22:20:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "advancednetherite:recipes/misc/netherite_emerald_axe_smithing": {
     "criteria": {
-      "has_gunpowder": "2025-03-04 22:17:30 +0000"
+      "has_ingredients": "2025-03-04 22:20:48 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_sword_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:48 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_shovel_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:48 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_chestplate_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:48 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_boots_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:48 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_helmet_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:48 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_pickaxe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:48 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_hoe_smithing": {
+    "criteria": {
+      "has_ingredients": "2025-03-04 22:20:48 +0000"
     },
     "done": true
   },

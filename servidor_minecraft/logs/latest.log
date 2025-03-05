@@ -2690,3 +2690,49 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [05:13:10] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: Zlashh -> Global
 [05:13:10] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Zlashh. Claiming: GRAVE / Robbing: INVENTORY
 [05:13:13] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Zlashh accepted server config.
+[05:15:33] [Server thread/INFO]: Pavks lost connection: Disconnected
+[05:15:33] [Server thread/INFO]: Pavks left the game
+[05:15:33] [Server thread/INFO]: remove player wand
+[05:15:33] [Server thread/INFO]: Updating all forceload tickets for e3923452-0a60-3d6f-bb90-108e6d2661ab
+[05:15:40] [Server thread/INFO]: Zlashh lost connection: Disconnected
+[05:15:40] [Server thread/INFO]: Zlashh left the game
+[05:15:40] [Server thread/INFO]: remove player wand
+[05:15:40] [Server thread/INFO]: Updating all forceload tickets for 9f1e9bcc-daec-3ebc-8364-c21c9b865916
+[05:18:07] [Server thread/INFO]: [Handshake] Sending channel query
+[05:18:07] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[05:18:07] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[05:18:08] [Server thread/INFO]: Pavks[/127.30.8.25:52599] logged in with entity id 1847 at (-684.6999999880791, 68.0, 57.36878634607082)
+[05:18:08] [Server thread/INFO]: Sending server config values to client
+[05:18:08] [Server thread/INFO]: Syncing config to Pavks (e3923452-0a60-3d6f-bb90-108e6d2661ab)
+[05:18:08] [Server thread/INFO]: Loading config from file...
+[05:18:08] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:18:08] [Server thread/INFO]: Pavks joined the game
+[05:18:08] [Server thread/INFO]: Loading Configs for Sortilege
+[05:18:08] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[05:18:08] [Server thread/INFO]: Updating all forceload tickets for e3923452-0a60-3d6f-bb90-108e6d2661ab
+[05:18:08] [Server thread/INFO]: PLAYER_JOIN
+[05:18:08] [Server thread/INFO]: add_player wand
+[05:18:08] [Server thread/INFO]: config sent
+[05:18:09] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[05:18:12] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: Pavks -> Global
+[05:18:12] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Pavks. Claiming: GRAVE / Robbing: INVENTORY
+[05:18:15] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Pavks accepted server config.
+[05:18:59] [Server thread/INFO]: [Handshake] Sending channel query
+[05:19:00] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[05:19:00] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[05:19:00] [Server thread/INFO]: Zlashh[/127.206.177.213:58967] logged in with entity id 1908 at (-679.3815356311411, 67.0, 52.795647392685176)
+[05:19:00] [Server thread/INFO]: Sending server config values to client
+[05:19:00] [Server thread/INFO]: Syncing config to Zlashh (9f1e9bcc-daec-3ebc-8364-c21c9b865916)
+[05:19:00] [Server thread/INFO]: Loading config from file...
+[05:19:00] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:19:00] [Server thread/INFO]: Zlashh joined the game
+[05:19:00] [Server thread/INFO]: Loading Configs for Sortilege
+[05:19:00] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[05:19:00] [Server thread/INFO]: Updating all forceload tickets for 9f1e9bcc-daec-3ebc-8364-c21c9b865916
+[05:19:00] [Server thread/INFO]: PLAYER_JOIN
+[05:19:00] [Server thread/INFO]: add_player wand
+[05:19:00] [Server thread/INFO]: config sent
+[05:19:02] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[05:19:04] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: Zlashh -> Global
+[05:19:04] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Zlashh. Claiming: GRAVE / Robbing: INVENTORY
+[05:19:06] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Zlashh accepted server config.
