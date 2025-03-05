@@ -3093,6 +3093,7 @@
       "minecraft:cave_spider": "2025-03-04 02:58:35 +0000",
       "minecraft:silverfish": "2025-03-04 03:03:28 +0000",
       "minecraft:stray": "2025-03-04 07:03:25 +0000",
+      "minecraft:enderman": "2025-03-05 05:53:37 +0000",
       "minecraft:zombie": "2025-03-04 02:33:12 +0000"
     },
     "done": false
@@ -14706,9 +14707,57 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-05 05:53:39 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-05 05:53:39 +0000"
+    },
+    "done": true
+  },
   "simplyswords:emberblade": {
     "criteria": {
       "requirement": "2025-03-05 05:26:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2025-03-05 05:54:50 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-03-05 05:53:38 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
+    "criteria": {
+      "has_snow_block": "2025-03-05 05:57:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/digital_display": {
+    "criteria": {
+      "has_advanced_circuit": "2025-03-05 05:56:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/industrial_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_circuit": "2025-03-05 05:56:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-05 05:54:28 +0000"
     },
     "done": true
   },
@@ -14730,9 +14779,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-05 05:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-03-05 05:54:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-03-05 05:54:50 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/white_coffin": {
     "criteria": {
       "has_item": "2025-03-05 05:26:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/chemical_reactor": {
+    "criteria": {
+      "has_advanced_circuit": "2025-03-05 05:56:18 +0000"
     },
     "done": true
   },
@@ -14742,9 +14815,63 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-03-05 05:53:39 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2025-03-05 05:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-05 05:56:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-03-05 05:56:17 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-05 05:53:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-03-05 05:56:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-03-05 05:56:17 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/mashed_potatoes": {
     "criteria": {
       "has_milk": "2025-03-05 05:27:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-03-05 05:54:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-05 05:56:17 +0000"
     },
     "done": true
   },
@@ -14754,9 +14881,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-05 05:56:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/player_detector": {
+    "criteria": {
+      "has_advanced_circuit": "2025-03-05 05:56:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2025-03-05 05:54:50 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/void_fragment": {
+    "criteria": {
+      "has_item": "2025-03-05 05:53:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lapotronic_su": {
+    "criteria": {
+      "has_advanced_circuit": "2025-03-05 05:56:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-03-05 05:27:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/rolling_machine": {
+    "criteria": {
+      "has_advanced_circuit": "2025-03-05 05:56:18 +0000"
     },
     "done": true
   },
@@ -14766,9 +14929,33 @@
     },
     "done": true
   },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2025-03-05 05:53:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-05 05:56:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-03-05 05:56:17 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "forge:milk": "2025-03-05 05:27:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/auto_crafting_table": {
+    "criteria": {
+      "has_advanced_circuit": "2025-03-05 05:56:18 +0000"
     },
     "done": true
   },
@@ -14778,9 +14965,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-03-05 05:54:28 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_block": {
+    "criteria": {
+      "has_snow_block": "2025-03-05 05:57:22 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/butter": {
     "criteria": {
       "has_milk": "2025-03-05 05:27:08 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/waystone": {
+    "criteria": {
+      "has_item": "2025-03-05 05:53:39 +0000"
     },
     "done": true
   },
@@ -14790,11 +14995,107 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-05 05:56:30 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-03-05 05:53:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/ender_eye": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-05 05:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-03-05 05:54:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-03-05 05:56:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/grass_block": {
+    "criteria": {
+      "has_grass_block": "2025-03-05 05:53:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2025-03-05 05:27:08 +0000"
     },
     "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-03-05 05:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-03-05 05:54:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-03-05 05:54:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-03-05 05:54:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-05 05:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-03-05 05:56:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/black_bed_from_wool": {
+    "criteria": {
+      "has_black_wool": "2025-03-05 05:54:50 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/ice_skate_upgrade_template": {
+    "criteria": {
+      "has_ice_skate_upgrade_template": "2025-03-05 05:56:22 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/transmogrification_table": {
+    "criteria": {
+      "has_item": "2025-03-05 05:53:39 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
+    "criteria": {
+      "has_snowball": "2025-03-05 05:56:30 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

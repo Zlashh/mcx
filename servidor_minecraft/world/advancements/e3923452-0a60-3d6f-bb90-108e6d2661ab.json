@@ -9532,6 +9532,12 @@
     },
     "done": true
   },
+  "minecells:cell_crafter": {
+    "criteria": {
+      "use_cell_crafter": "2025-03-05 06:01:03 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/kill_a_leaping_zombie": {
     "criteria": {
       "leaping_zombie_killed": "2025-03-05 05:42:01 +0000"
@@ -9592,6 +9598,18 @@
     },
     "done": true
   },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2025-03-05 05:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-05 05:54:15 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
     "criteria": {
       "has_log": "2025-03-05 05:35:57 +0000"
@@ -9604,15 +9622,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-03-05 05:54:15 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_small_dust_from_sword_with_water": {
     "criteria": {
       "has_diamond_sword": "2025-03-05 05:37:35 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-03-05 05:54:15 +0000"
+    },
+    "done": true
+  },
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-03-05 05:49:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-03-05 05:54:15 +0000"
     },
     "done": true
   },
@@ -9631,6 +9667,12 @@
   "minecells:book/mobs/shieldbearer": {
     "criteria": {
       "requirement": "2025-03-05 05:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-05 05:54:15 +0000"
     },
     "done": true
   },
@@ -9673,6 +9715,12 @@
   "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
     "criteria": {
       "has_phantom_bones": "2025-03-05 05:31:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-03-05 05:54:15 +0000"
     },
     "done": true
   },
@@ -9721,6 +9769,18 @@
   "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
     "criteria": {
       "has_log": "2025-03-05 05:35:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-03-05 05:54:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-03-05 05:54:15 +0000"
     },
     "done": true
   },
