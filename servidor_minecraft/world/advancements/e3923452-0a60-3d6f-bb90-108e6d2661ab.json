@@ -9520,6 +9520,18 @@
     },
     "done": true
   },
+  "vinery:recipes/stackable_log": {
+    "criteria": {
+      "has_oak_log": "2025-03-05 05:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/undead_archer": {
+    "criteria": {
+      "requirement": "2025-03-05 05:41:13 +0000"
+    },
+    "done": true
+  },
   "beachparty:palm_tall_torch": {
     "criteria": {
       "has_coal": "2025-03-05 05:24:05 +0000"
@@ -9535,6 +9547,24 @@
   "mcda:recipes/upgrade_cores/upgrade_core_archer": {
     "criteria": {
       "has_core_specification_item": "2025-03-05 05:26:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
+    "criteria": {
+      "has_diamond_boots": "2025-03-05 05:37:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
+    "criteria": {
+      "has_diamond_boots": "2025-03-05 05:37:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/paper_from_enchanted_book": {
+    "criteria": {
+      "has_enchanted_book": "2025-03-05 05:39:23 +0000"
     },
     "done": true
   },
@@ -9556,9 +9586,39 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
+    "criteria": {
+      "has_log": "2025-03-05 05:35:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-03-05 05:20:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_sword_with_water": {
+    "criteria": {
+      "has_diamond_sword": "2025-03-05 05:37:35 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_stem": {
+    "criteria": {
+      "has_oak_log": "2025-03-05 05:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/grenadier": {
+    "criteria": {
+      "requirement": "2025-03-05 05:39:18 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/shieldbearer": {
+    "criteria": {
+      "requirement": "2025-03-05 05:40:48 +0000"
     },
     "done": true
   },
@@ -9568,9 +9628,21 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-03-05 05:37:21 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/double_axes/double_axe_whirlwind": {
     "criteria": {
       "has_phantom_membrane": "2025-03-05 05:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-03-05 05:35:57 +0000"
     },
     "done": true
   },
@@ -9598,9 +9670,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_sword_with_mercury": {
+    "criteria": {
+      "has_diamond_sword": "2025-03-05 05:37:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2025-03-05 05:35:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/phantom_trophy": {
     "criteria": {
       "has_phantom_trophy": "2025-03-05 05:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-05 05:35:57 +0000"
     },
     "done": true
   },
