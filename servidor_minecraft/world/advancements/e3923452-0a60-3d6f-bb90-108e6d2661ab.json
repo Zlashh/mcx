@@ -967,9 +967,11 @@
       "minecraft:vindicator": "2025-03-05 04:45:22 +0000",
       "minecraft:spider": "2025-03-04 03:52:35 +0000",
       "minecraft:phantom": "2025-03-05 05:31:34 +0000",
+      "minecraft:witch": "2025-03-06 23:06:05 +0000",
       "minecraft:silverfish": "2025-03-04 04:19:12 +0000",
       "minecraft:zombie": "2025-03-04 04:26:00 +0000",
-      "minecraft:drowned": "2025-03-05 04:46:25 +0000"
+      "minecraft:drowned": "2025-03-05 04:46:25 +0000",
+      "minecraft:zombie_villager": "2025-03-06 22:48:42 +0000"
     },
     "done": false
   },
@@ -1472,6 +1474,7 @@
       "bread": "2025-03-04 03:53:50 +0000",
       "golden_apple": "2025-03-06 17:21:07 +0000",
       "suspicious_stew": "2025-03-04 04:37:40 +0000",
+      "golden_carrot": "2025-03-06 23:06:24 +0000",
       "mushroom_stew": "2025-03-04 04:45:44 +0000"
     },
     "done": false
@@ -11936,51 +11939,9 @@
     },
     "done": true
   },
-  "advancednetherite:recipes/misc/lodestone": {
-    "criteria": {
-      "has_chiseled_stone_bricks": "2025-03-06 22:23:01 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-03-06 22:20:12 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/campfire_molasses": {
-    "criteria": {
-      "has_sugar_cane": "2025-03-06 22:31:15 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
-    "criteria": {
-      "has_quartz_block": "2025-03-06 22:20:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-03-06 22:31:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-03-06 22:31:16 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
     "criteria": {
       "press": "2025-03-06 22:19:57 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-03-06 22:31:16 +0000"
     },
     "done": true
   },
@@ -11990,6 +11951,18 @@
       "silicon": "2025-03-06 22:20:06 +0000",
       "engineering": "2025-03-06 22:19:57 +0000",
       "logic": "2025-03-06 22:20:02 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-03-06 22:20:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-03-06 22:20:12 +0000"
     },
     "done": true
   },
@@ -12005,57 +11978,15 @@
     },
     "done": true
   },
-  "croptopia:recipes/food/molasses_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-03-06 22:31:15 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/decorative/cut_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-03-06 22:20:12 +0000"
     },
     "done": true
   },
-  "soulsweapons:recipes/misc/paper": {
-    "criteria": {
-      "has_the_recipe": "2025-03-06 22:31:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/snow_block": {
-    "criteria": {
-      "has_snowball": "2025-03-06 22:27:30 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-03-06 22:31:15 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-03-06 22:20:12 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/snow": {
-    "criteria": {
-      "has_snowball": "2025-03-06 22:27:30 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/plantball_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-03-06 22:31:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-03-06 22:27:30 +0000"
     },
     "done": true
   },
@@ -12077,11 +12008,779 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-03-06 22:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-06 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-06 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-06 22:27:30 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
     "criteria": {
       "has_snowball": "2025-03-06 22:27:30 +0000"
     },
     "done": false
+  },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-06 22:31:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-06 22:31:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-06 22:31:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-06 22:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-06 22:31:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-06 22:31:16 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/paper": {
+    "criteria": {
+      "has_the_recipe": "2025-03-06 22:31:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-06 22:31:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_water": {
+    "criteria": {
+      "has_diamond_horse_armor": "2025-03-06 22:42:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_mercury": {
+    "criteria": {
+      "has_diamond_horse_armor": "2025-03-06 22:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-03-06 22:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-06 22:51:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-06 22:51:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-03-06 22:51:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/rolling_machine/cupronickel_heating_coil": {
+    "criteria": {
+      "has_nickel_ingot": "2025-03-06 22:51:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/nickel_nugget": {
+    "criteria": {
+      "has_nickel_ingot": "2025-03-06 22:51:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/nickel_storage_block": {
+    "criteria": {
+      "has_nickel_ingot": "2025-03-06 22:51:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/nickel_dust": {
+    "criteria": {
+      "has_tag_c_nickel_ingots": "2025-03-06 22:51:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/nickel_plate": {
+    "criteria": {
+      "has_tag_c_nickel_ingots": "2025-03-06 22:51:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/aluminum_dust": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2025-03-06 22:51:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/aluminum_nugget": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-03-06 22:51:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/aluminum_plate": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2025-03-06 22:51:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/aluminum_storage_block": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-03-06 22:51:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/zinc_plate": {
+    "criteria": {
+      "has_tag_c_zinc_ingots": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_iron_trapdoor": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_slab": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_trapdoor": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_byte": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_stairs": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_layer": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_slope": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_slope_layer": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_light_weighted_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_stone_button": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/zinc_dust": {
+    "criteria": {
+      "has_tag_c_zinc_ingots": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_ladder": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_board": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_fence": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_beam": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_half_panel": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_block": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_vertical_stairs": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_vertical_slice": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_slice": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_wall": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/zinc_nugget": {
+    "criteria": {
+      "has_zinc_ingot": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_door": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_fence_gate": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_shaft": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_vertical_step": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_vertical_slope": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_wooden_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_wooden_button": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_stone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_ghost_block": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/zinc_storage_block": {
+    "criteria": {
+      "has_zinc_ingot": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_half_layer": {
+    "criteria": {
+      "has_item": "2025-03-06 22:52:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_crossbow": {
+    "criteria": {
+      "has_crossbow": "2025-03-06 22:52:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/invar_dust": {
+    "criteria": {
+      "has_tag_c_invar_ingots": "2025-03-06 22:53:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/invar_nugget": {
+    "criteria": {
+      "has_invar_ingot": "2025-03-06 22:53:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/invar_plate": {
+    "criteria": {
+      "has_tag_c_invar_ingots": "2025-03-06 22:53:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/invar_storage_block": {
+    "criteria": {
+      "has_invar_ingot": "2025-03-06 22:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-03-06 22:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-06 22:53:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/glistering_melon_slice": {
+    "criteria": {
+      "has_glistering_melon_slice": "2025-03-06 23:06:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
+    "criteria": {
+      "has_item": "2025-03-06 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-03-06 23:06:22 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_big": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-03-06 23:12:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_support": {
+    "criteria": {
+      "has_plank": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-03-06 23:05:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-06 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-03-06 23:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-06 23:05:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/golden_carrot": {
+    "criteria": {
+      "has_golden_carrot": "2025-03-06 23:06:22 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_small": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2025-03-06 23:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-03-06 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-03-06 23:05:29 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_the_starless_night": {
+    "criteria": {
+      "has_crying_obsidian": "2025-03-06 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-03-06 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
+    "criteria": {
+      "has_moss_block": "2025-03-06 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2025-03-06 23:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
+    "criteria": {
+      "has_item": "2025-03-06 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-03-06 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-03-06 23:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-03-06 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_seat": {
+    "criteria": {
+      "has_plank": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_eternal_knife": {
+    "criteria": {
+      "has_crying_obsidian": "2025-03-06 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-06 23:05:29 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/dark_oak_table": {
+    "criteria": {
+      "has_bamboo": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-03-06 23:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-03-06 23:05:59 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -581,12 +581,14 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-03-04 05:21:22 +0000",
+      "prismachasm": "2025-03-06 23:03:51 +0000",
       "willow_forest": "2025-03-06 17:06:25 +0000",
       "grassy_beach": "2025-03-04 02:20:55 +0000",
       "rocky_meadow": "2025-03-04 02:25:09 +0000",
       "flower_fields": "2025-03-04 02:29:16 +0000",
       "highland_fields": "2025-03-06 17:03:43 +0000",
       "magnolia_highlands": "2025-03-04 06:17:18 +0000",
+      "mountains": "2025-03-06 22:50:15 +0000",
       "glistering_meadow": "2025-03-05 06:26:02 +0000",
       "temperate_grove": "2025-03-04 05:22:33 +0000",
       "pine_slopes": "2025-03-06 17:06:05 +0000",
@@ -603,6 +605,7 @@
       "flower_fields": "2025-03-04 02:29:16 +0000",
       "highland_fields": "2025-03-06 17:03:43 +0000",
       "magnolia_highlands": "2025-03-04 06:17:18 +0000",
+      "mountains": "2025-03-06 22:50:15 +0000",
       "temperate_grove": "2025-03-04 05:22:33 +0000",
       "pine_slopes": "2025-03-06 17:06:05 +0000",
       "lupine_plains": "2025-03-06 17:13:58 +0000"
@@ -3131,6 +3134,7 @@
       "bread": "2025-03-04 02:33:19 +0000",
       "golden_apple": "2025-03-04 21:45:13 +0000",
       "rotten_flesh": "2025-03-04 20:50:22 +0000",
+      "suspicious_stew": "2025-03-06 23:12:29 +0000",
       "enchanted_golden_apple": "2025-03-04 07:09:03 +0000",
       "carrot": "2025-03-04 20:00:07 +0000"
     },
@@ -16548,27 +16552,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_counter": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "has_spruce_counter": "2025-03-06 16:46:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2025-03-06 17:25:49 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
-    "criteria": {
-      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-03-06 17:24:03 +0000"
+      "has_the_recipe": "2025-03-06 16:29:49 +0000"
     },
     "done": true
   },
@@ -16578,9 +16564,153 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-06 16:29:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/spark": {
+    "criteria": {
+      "has_item": "2025-03-06 16:29:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/blaze_powder": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-06 16:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-06 16:29:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/blaze_rod": {
+    "criteria": {
+      "has_blaze_powder": "2025-03-06 16:29:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-03-06 16:29:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-03-06 16:29:53 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_boots": {
+    "criteria": {
+      "has_ender_eye": "2025-03-06 16:29:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2025-03-06 16:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-03-06 16:29:53 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/handbook_recipe": {
+    "criteria": {
+      "got_the_ender_eye": "2025-03-06 16:29:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/itemfinder": {
+    "criteria": {
+      "has_item": "2025-03-06 16:29:53 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_leggings": {
+    "criteria": {
+      "has_ender_eye": "2025-03-06 16:29:53 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_helmet": {
+    "criteria": {
+      "has_ender_eye": "2025-03-06 16:29:53 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-03-06 16:29:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/ender_eye_block": {
+    "criteria": {
+      "has_item": "2025-03-06 16:29:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/ender_chest_with_water": {
+    "criteria": {
+      "has_ender_chest": "2025-03-06 16:30:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_nugget_from_sword": {
+    "criteria": {
+      "has_golden_sword": "2025-03-06 16:32:26 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-03-06 16:46:27 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
+    "criteria": {
+      "has_log": "2025-03-06 16:46:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-03-06 16:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-03-06 16:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-06 16:46:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2025-03-06 16:46:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-03-06 16:46:58 +0000"
     },
     "done": true
   },
@@ -16596,93 +16726,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine/grinder": {
-    "criteria": {
-      "has_basic_machine_frame": "2025-03-06 17:28:33 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_nightstand": {
-    "criteria": {
-      "has_birch_nightstand": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_dining_bench": {
     "criteria": {
       "has_spruce_dining_bench": "2025-03-06 16:46:58 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/birch_wine_rack_small": {
-    "criteria": {
-      "has_birch_planks": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/birch_shrub": {
-    "criteria": {
-      "has_birch_sapling": "2025-03-06 17:22:20 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt": {
-    "criteria": {
-      "has_basic_machine_frame": "2025-03-06 17:28:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_quartz_pillar": "2025-03-06 17:26:05 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_cupboard": {
-    "criteria": {
-      "has_birch_cupboard": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_banner": {
-    "criteria": {
-      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-03-06 17:23:04 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_counter": {
-    "criteria": {
-      "has_birch_counter": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_desk": {
-    "criteria": {
-      "has_birch_desk": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
-    "criteria": {
-      "has_log": "2025-03-06 17:08:39 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/birch_wine_rack_big": {
-    "criteria": {
-      "has_birch_planks": "2025-03-06 17:24:03 +0000"
     },
     "done": true
   },
@@ -16692,51 +16738,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/birch_fancy_bed": {
-    "criteria": {
-      "has_birch_fancy_bed": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/end": {
-    "criteria": {
-      "has_ender_eye": "2025-03-06 16:29:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
-    "criteria": {
-      "has_quartz_pillar": "2025-03-06 17:26:05 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/birch_palisade": {
-    "criteria": {
-      "has_log": "2025-03-06 17:23:04 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/willow_shrub": {
-    "criteria": {
-      "has_willow_sapling": "2025-03-06 17:08:12 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/explorer_pottery_sherd": {
-    "criteria": {
-      "has_map": "2025-03-06 17:40:50 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_drawer": {
     "criteria": {
       "has_spruce_drawer": "2025-03-06 16:46:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-03-06 17:24:03 +0000"
     },
     "done": true
   },
@@ -16758,57 +16762,15 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/machine/compressor": {
-    "criteria": {
-      "has_basic_machine_frame": "2025-03-06 17:28:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab": {
-    "criteria": {
-      "has_quartz_pillar": "2025-03-06 17:26:05 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/teleportation_robe_boots": {
-    "criteria": {
-      "has_ender_eye": "2025-03-06 16:29:53 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/pink_magnolia_sapling_from_pink_magnolia_shrub": {
-    "criteria": {
-      "has_pink_magnolia_shrub": "2025-03-06 17:08:18 +0000"
-    },
-    "done": true
-  },
   "vinery:recipes/spruce_wine_rack_big": {
     "criteria": {
       "has_spruce_planks": "2025-03-06 16:46:58 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
-    "criteria": {
-      "has_logs": "2025-03-06 17:08:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-03-06 17:40:51 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_shelf": {
     "criteria": {
       "has_spruce_shelf": "2025-03-06 16:46:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-03-06 17:23:04 +0000"
     },
     "done": true
   },
@@ -16836,24 +16798,6 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
-    "criteria": {
-      "has_log": "2025-03-06 16:46:52 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/ender_hand": {
-    "criteria": {
-      "has_alt_item": "2025-03-06 16:29:53 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/cyan_sheet": {
-    "criteria": {
-      "has_cyan_sheet": "2025-03-06 17:19:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-06 16:46:58 +0000"
@@ -16866,75 +16810,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
-    "criteria": {
-      "has_log": "2025-03-06 16:46:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-03-06 16:29:50 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/gold_nugget_from_sword": {
-    "criteria": {
-      "has_golden_sword": "2025-03-06 16:32:26 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/canning_machine": {
-    "criteria": {
-      "has_basic_machine_frame": "2025-03-06 17:28:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-03-06 16:29:53 +0000"
-    },
-    "done": true
-  },
-  "adventurez:recipes/handbook_recipe": {
-    "criteria": {
-      "got_the_ender_eye": "2025-03-06 16:29:53 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/ender_chest_with_water": {
-    "criteria": {
-      "has_ender_chest": "2025-03-06 16:30:33 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/decorative_blocks.general/spruce_support": {
     "criteria": {
       "has_plank": "2025-03-06 16:46:58 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/quartz_pedestal": {
-    "criteria": {
-      "has_quartz_pillar": "2025-03-06 17:26:05 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/white_magnolia_shrub": {
-    "criteria": {
-      "has_white_magnolia_sapling": "2025-03-06 17:08:39 +0000"
-    },
-    "done": true
-  },
-  "zenith:enchanting/bookshelf": {
-    "criteria": {
-      "bookshelf": "2025-03-06 16:46:27 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_pillar_trim": {
-    "criteria": {
-      "has_birch_pillar_trim": "2025-03-06 17:24:03 +0000"
     },
     "done": true
   },
@@ -16944,165 +16822,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_carpet": {
-    "criteria": {
-      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/cyan_cushion": {
-    "criteria": {
-      "has_cyan_cushion": "2025-03-06 17:19:14 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/willow_planks": {
-    "criteria": {
-      "has_logs": "2025-03-06 17:08:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-03-06 16:46:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_pillar": "2025-03-06 17:26:05 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
-    "criteria": {
-      "has_log": "2025-03-06 17:23:04 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_merchant_campsite": {
-    "criteria": {
-      "location0": "2025-03-06 17:15:46 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/emerald_plate_from_block": {
-    "criteria": {
-      "has_emerald_block": "2025-03-06 17:25:49 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_bench": {
-    "criteria": {
-      "has_birch_bench": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2025-03-06 16:46:58 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
-    "criteria": {
-      "has_log": "2025-03-06 17:08:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/item_vault": {
-    "criteria": {
-      "has_item": "2025-03-06 17:31:29 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/brown_coffin": {
-    "criteria": {
-      "has_item": "2025-03-06 17:19:20 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/itemfinder": {
-    "criteria": {
-      "has_item": "2025-03-06 16:29:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_shelf": {
-    "criteria": {
-      "has_birch_shelf": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flax_block_uncrafting": {
-    "criteria": {
-      "has_flax_block": "2025-03-06 17:33:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/fermentation_barrel": {
-    "criteria": {
-      "has_barrel": "2025-03-06 17:31:29 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/rubber_from_log": {
-    "criteria": {
-      "has_rubber_log": "2025-03-06 17:22:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_bed": {
-    "criteria": {
-      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-03-06 16:46:58 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/teleportation_robe_leggings": {
-    "criteria": {
-      "has_ender_eye": "2025-03-06 16:29:53 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/extractor": {
-    "criteria": {
-      "has_basic_machine_frame": "2025-03-06 17:28:33 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/birch_support": {
-    "criteria": {
-      "has_plank": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/misc_block/rubber_wood": {
-    "criteria": {
-      "has_rubber_log": "2025-03-06 17:22:20 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing": {
-    "criteria": {
-      "has_basic_machine_frame": "2025-03-06 17:28:33 +0000"
     },
     "done": true
   },
@@ -17118,177 +16846,9 @@
     },
     "done": true
   },
-  "simplyswords:arcanethyst": {
-    "criteria": {
-      "requirement": "2025-03-06 17:03:09 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/advanced_alloy_storage_block": {
-    "criteria": {
-      "has_advanced_alloy_ingot": "2025-03-06 17:28:32 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-03-06 17:20:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-03-06 16:46:52 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/spark": {
-    "criteria": {
-      "has_item": "2025-03-06 16:29:50 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/decorations/sign_post_spruce": {
     "criteria": {
       "has_planks": "2025-03-06 16:46:58 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/willow_branch_from_willow_log": {
-    "criteria": {
-      "has_log": "2025-03-06 17:08:11 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/teleportation_robe_helmet": {
-    "criteria": {
-      "has_ender_eye": "2025-03-06 16:29:53 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/rubber_logs": {
-    "criteria": {
-      "has_rubber_logs": "2025-03-06 17:22:20 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/slice_map": {
-    "criteria": {
-      "has_map": "2025-03-06 17:40:50 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_drawer": {
-    "criteria": {
-      "has_birch_drawer": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/strings": {
-    "criteria": {
-      "has_flax": "2025-03-06 17:33:24 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_electrolyzer/blaze_powder": {
-    "criteria": {
-      "has_blaze_powder": "2025-03-06 16:29:50 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/eyes_recipe": {
-    "criteria": {
-      "eyes": "2025-03-06 16:29:53 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/birch_seat": {
-    "criteria": {
-      "has_plank": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/birch_window": {
-    "criteria": {
-      "has_ingredient": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap/map": {
-    "criteria": {
-      "has_filled_map": "2025-03-06 17:18:50 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine_block/advanced_machine_frame": {
-    "criteria": {
-      "has_basic_machine_frame": "2025-03-06 17:28:33 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/speed_up_belt": {
-    "criteria": {
-      "has_item": "2025-03-06 17:40:50 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_cyan": {
-    "criteria": {
-      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/spruce_shrub": {
-    "criteria": {
-      "has_spruce_sapling": "2025-03-06 16:46:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-03-06 17:20:03 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/magnolia_shrub": {
-    "criteria": {
-      "has_magnolia_sapling": "2025-03-06 17:08:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_table": {
-    "criteria": {
-      "has_birch_table": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/misc_block/rubber_planks": {
-    "criteria": {
-      "has_rubber_log": "2025-03-06 17:22:20 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/solar_panel/advanced_solar_panel_alt": {
-    "criteria": {
-      "has_basic_machine_frame": "2025-03-06 17:28:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-03-06 16:29:50 +0000"
     },
     "done": true
   },
@@ -17298,117 +16858,15 @@
     },
     "done": true
   },
-  "botania:recipes/redstone/ender_eye_block": {
-    "criteria": {
-      "has_item": "2025-03-06 16:29:53 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_birch": {
-    "criteria": {
-      "has_planks": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/sign_post_spruce": {
     "criteria": {
       "has_the_recipe": "2025-03-06 16:46:58 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/flax_block": {
-    "criteria": {
-      "has_flax": "2025-03-06 17:33:24 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_side_table": {
-    "criteria": {
-      "has_birch_side_table": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
-    "criteria": {
-      "has_barrel": "2025-03-06 17:31:29 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_corner_trim": {
-    "criteria": {
-      "has_birch_corner_trim": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/corruption": {
-    "criteria": {
-      "corruption": "2025-03-06 17:37:55 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/advanced_alloy_plate": {
-    "criteria": {
-      "has_tag_c_advanced_alloy_ingots": "2025-03-06 17:28:32 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_couch": {
-    "criteria": {
-      "has_birch_couch": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_birch": {
-    "criteria": {
-      "has_the_recipe": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "techreborn:machineblock": {
-    "criteria": {
-      "crit_0": "2025-03-06 17:28:33 +0000"
-    },
-    "done": true
-  },
-  "brewery:recipes/barrel_main": {
-    "criteria": {
-      "has_barrel": "2025-03-06 17:31:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-03-06 16:46:58 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_dining_bench": {
-    "criteria": {
-      "has_birch_dining_bench": "2025-03-06 17:24:03 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/blaze_rod": {
-    "criteria": {
-      "has_blaze_powder": "2025-03-06 16:29:50 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/willow_wood": {
-    "criteria": {
-      "has_log": "2025-03-06 17:08:11 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_chair": {
-    "criteria": {
-      "has_birch_chair": "2025-03-06 17:24:03 +0000"
     },
     "done": true
   },
@@ -17424,27 +16882,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/fluid_tank": {
-    "criteria": {
-      "has_item": "2025-03-06 17:31:29 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/decorative_blocks.general/spruce_seat": {
     "criteria": {
       "has_plank": "2025-03-06 16:46:58 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_cyan": {
-    "criteria": {
-      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/assembling_machine/cyan_bed_from_wool": {
-    "criteria": {
-      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
     },
     "done": true
   },
@@ -17460,9 +16900,399 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
-      "has_the_recipe": "2025-03-06 16:29:49 +0000"
+      "has_planks": "2025-03-06 16:46:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-03-06 16:46:58 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:arcanethyst": {
+    "criteria": {
+      "requirement": "2025-03-06 17:03:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_planks": {
+    "criteria": {
+      "has_logs": "2025-03-06 17:08:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_branch_from_willow_log": {
+    "criteria": {
+      "has_log": "2025-03-06 17:08:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_wood": {
+    "criteria": {
+      "has_log": "2025-03-06 17:08:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_shrub": {
+    "criteria": {
+      "has_willow_sapling": "2025-03-06 17:08:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pink_magnolia_sapling_from_pink_magnolia_shrub": {
+    "criteria": {
+      "has_pink_magnolia_shrub": "2025-03-06 17:08:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+    "criteria": {
+      "has_log": "2025-03-06 17:08:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
+    "criteria": {
+      "has_logs": "2025-03-06 17:08:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/white_magnolia_shrub": {
+    "criteria": {
+      "has_white_magnolia_sapling": "2025-03-06 17:08:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+    "criteria": {
+      "has_log": "2025-03-06 17:08:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_shrub": {
+    "criteria": {
+      "has_magnolia_sapling": "2025-03-06 17:08:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-03-06 17:15:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-03-06 17:18:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_sheet": {
+    "criteria": {
+      "has_cyan_sheet": "2025-03-06 17:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_cushion": {
+    "criteria": {
+      "has_cyan_cushion": "2025-03-06 17:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/cyan_bed_from_wool": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/brown_coffin": {
+    "criteria": {
+      "has_item": "2025-03-06 17:19:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-03-06 17:20:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-03-06 17:20:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2025-03-06 17:22:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/rubber_from_log": {
+    "criteria": {
+      "has_rubber_log": "2025-03-06 17:22:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_wood": {
+    "criteria": {
+      "has_rubber_log": "2025-03-06 17:22:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/rubber_logs": {
+    "criteria": {
+      "has_rubber_logs": "2025-03-06 17:22:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_planks": {
+    "criteria": {
+      "has_rubber_log": "2025-03-06 17:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-03-06 17:23:04 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_palisade": {
+    "criteria": {
+      "has_log": "2025-03-06 17:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-03-06 17:23:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2025-03-06 17:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/birch_wine_rack_small": {
+    "criteria": {
+      "has_birch_planks": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/birch_wine_rack_big": {
+    "criteria": {
+      "has_birch_planks": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_bench": {
+    "criteria": {
+      "has_birch_bench": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_birch_shelf": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_support": {
+    "criteria": {
+      "has_plank": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_birch_drawer": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_seat": {
+    "criteria": {
+      "has_plank": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_birch_table": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_planks": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_birch_side_table": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_birch_corner_trim": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_couch": {
+    "criteria": {
+      "has_birch_couch": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_the_recipe": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_birch_dining_bench": "2025-03-06 17:24:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_birch_chair": "2025-03-06 17:24:03 +0000"
     },
     "done": true
   },
@@ -17478,15 +17308,345 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "has_planks": "2025-03-06 16:46:58 +0000"
+      "has_emerald_block": "2025-03-06 17:25:49 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_side_table": {
+  "techreborn:recipes/compressor/emerald_plate_from_block": {
     "criteria": {
-      "has_spruce_side_table": "2025-03-06 16:46:58 +0000"
+      "has_emerald_block": "2025-03-06 17:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_pillar": "2025-03-06 17:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_pillar": "2025-03-06 17:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_pillar": "2025-03-06 17:26:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/quartz_pedestal": {
+    "criteria": {
+      "has_quartz_pillar": "2025-03-06 17:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_pillar": "2025-03-06 17:26:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/advanced_alloy_storage_block": {
+    "criteria": {
+      "has_advanced_alloy_ingot": "2025-03-06 17:28:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/advanced_alloy_plate": {
+    "criteria": {
+      "has_tag_c_advanced_alloy_ingots": "2025-03-06 17:28:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/grinder": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-03-06 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-03-06 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/compressor": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-03-06 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/canning_machine": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-03-06 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/extractor": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-03-06 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-03-06 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_frame": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-03-06 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/advanced_solar_panel_alt": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-03-06 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:machineblock": {
+    "criteria": {
+      "crit_0": "2025-03-06 17:28:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-03-06 17:31:29 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2025-03-06 17:31:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
+    "criteria": {
+      "has_barrel": "2025-03-06 17:31:29 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2025-03-06 17:31:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-03-06 17:31:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flax_block_uncrafting": {
+    "criteria": {
+      "has_flax_block": "2025-03-06 17:33:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/strings": {
+    "criteria": {
+      "has_flax": "2025-03-06 17:33:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flax_block": {
+    "criteria": {
+      "has_flax": "2025-03-06 17:33:24 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-03-06 17:37:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/explorer_pottery_sherd": {
+    "criteria": {
+      "has_map": "2025-03-06 17:40:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-03-06 17:40:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2025-03-06 17:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-03-06 17:40:51 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-03-06 22:50:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_blue_dye_from_felicia_daisy": {
+    "criteria": {
+      "has_felicia_daisy": "2025-03-06 22:52:18 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_boots": {
+    "criteria": {
+      "has_goat_pelt": "2025-03-06 23:06:21 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2025-03-06 23:12:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-06 23:15:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
+    "criteria": {
+      "has_skeleton_skull": "2025-03-06 23:01:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/large_prismarite_cluster": {
+    "criteria": {
+      "has_prismarite": "2025-03-06 23:04:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-06 23:12:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-03-06 23:01:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2025-03-06 23:15:58 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/wood": {
+    "criteria": {
+      "has_log": "2025-03-06 23:15:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-06 23:12:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/hanging_prismarite": {
+    "criteria": {
+      "has_prismarite": "2025-03-06 23:04:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-06 23:15:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pear_sapling": {
+    "criteria": {
+      "has_pear": "2025-03-06 23:09:47 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/planks": {
+    "criteria": {
+      "has_logs": "2025-03-06 23:15:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "prismachasm": "2025-03-06 23:03:51 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-06 23:15:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_bowl": {
+    "criteria": {
+      "has_bowl": "2025-03-06 23:12:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/sus_stew": {
+    "criteria": {
+      "stew": "2025-03-06 23:12:29 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-03-06 23:01:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-06 23:15:58 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grotesque_stew": {
+    "criteria": {
+      "has_item": "2025-03-06 23:12:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2025-03-06 23:12:29 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-06 23:12:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-03-06 23:13:47 +0000"
     },
     "done": true
   },
