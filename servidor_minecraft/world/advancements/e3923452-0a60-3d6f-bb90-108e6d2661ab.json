@@ -11948,15 +11948,39 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-06 22:31:15 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-03-06 22:20:12 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-06 22:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-06 22:31:16 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
     "criteria": {
       "press": "2025-03-06 22:19:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-06 22:31:16 +0000"
     },
     "done": true
   },
@@ -11981,15 +12005,33 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-06 22:31:15 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/cut_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-03-06 22:20:12 +0000"
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/paper": {
+    "criteria": {
+      "has_the_recipe": "2025-03-06 22:31:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-03-06 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-06 22:31:15 +0000"
     },
     "done": true
   },
@@ -12002,6 +12044,12 @@
   "travelersbackpack:recipes/misc/snow": {
     "criteria": {
       "has_snowball": "2025-03-06 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-06 22:31:16 +0000"
     },
     "done": true
   },
