@@ -581,23 +581,29 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2025-03-04 05:21:22 +0000",
+      "willow_forest": "2025-03-06 17:06:25 +0000",
       "grassy_beach": "2025-03-04 02:20:55 +0000",
       "rocky_meadow": "2025-03-04 02:25:09 +0000",
       "flower_fields": "2025-03-04 02:29:16 +0000",
+      "highland_fields": "2025-03-06 17:03:43 +0000",
       "magnolia_highlands": "2025-03-04 06:17:18 +0000",
       "glistering_meadow": "2025-03-05 06:26:02 +0000",
-      "temperate_grove": "2025-03-04 05:22:33 +0000"
+      "temperate_grove": "2025-03-04 05:22:33 +0000",
+      "pine_slopes": "2025-03-06 17:06:05 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2025-03-04 05:21:22 +0000",
+      "willow_forest": "2025-03-06 17:06:25 +0000",
       "grassy_beach": "2025-03-04 02:20:55 +0000",
       "rocky_meadow": "2025-03-04 02:25:09 +0000",
       "flower_fields": "2025-03-04 02:29:16 +0000",
+      "highland_fields": "2025-03-06 17:03:43 +0000",
       "magnolia_highlands": "2025-03-04 06:17:18 +0000",
-      "temperate_grove": "2025-03-04 05:22:33 +0000"
+      "temperate_grove": "2025-03-04 05:22:33 +0000",
+      "pine_slopes": "2025-03-06 17:06:05 +0000"
     },
     "done": false
   },
@@ -1057,6 +1063,7 @@
       "minecraft:river": "2025-03-04 02:56:41 +0000",
       "minecraft:dripstone_caves": "2025-03-04 20:35:07 +0000",
       "minecraft:ocean": "2025-03-04 02:29:59 +0000",
+      "minecraft:meadow": "2025-03-06 17:03:37 +0000",
       "minecraft:plains": "2025-03-04 02:35:27 +0000"
     },
     "done": false
@@ -1171,6 +1178,8 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "magnolia_log": "2025-03-06 17:08:39 +0000",
+      "willow_log": "2025-03-06 17:08:11 +0000",
       "mauve_log": "2025-03-04 02:31:10 +0000"
     },
     "done": false
@@ -16567,6 +16576,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+    "criteria": {
+      "has_log": "2025-03-06 17:08:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-03-06 16:46:58 +0000"
@@ -16576,6 +16591,12 @@
   "travelersbackpack:recipes/misc/end": {
     "criteria": {
       "has_ender_eye": "2025-03-06 16:29:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_shrub": {
+    "criteria": {
+      "has_willow_sapling": "2025-03-06 17:08:12 +0000"
     },
     "done": true
   },
@@ -16609,9 +16630,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/pink_magnolia_sapling_from_pink_magnolia_shrub": {
+    "criteria": {
+      "has_pink_magnolia_shrub": "2025-03-06 17:08:18 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/spruce_wine_rack_big": {
     "criteria": {
       "has_spruce_planks": "2025-03-06 16:46:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
+    "criteria": {
+      "has_logs": "2025-03-06 17:08:39 +0000"
     },
     "done": true
   },
@@ -16711,6 +16744,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/white_magnolia_shrub": {
+    "criteria": {
+      "has_white_magnolia_sapling": "2025-03-06 17:08:39 +0000"
+    },
+    "done": true
+  },
   "zenith:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2025-03-06 16:46:27 +0000"
@@ -16723,6 +16762,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/willow_planks": {
+    "criteria": {
+      "has_logs": "2025-03-06 17:08:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-03-06 16:46:52 +0000"
@@ -16732,6 +16777,12 @@
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2025-03-06 16:46:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+    "criteria": {
+      "has_log": "2025-03-06 17:08:39 +0000"
     },
     "done": true
   },
@@ -16765,6 +16816,12 @@
     },
     "done": true
   },
+  "simplyswords:arcanethyst": {
+    "criteria": {
+      "requirement": "2025-03-06 17:03:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-03-06 16:46:52 +0000"
@@ -16780,6 +16837,12 @@
   "supplementaries:recipes/decorations/sign_post_spruce": {
     "criteria": {
       "has_planks": "2025-03-06 16:46:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/willow_branch_from_willow_log": {
+    "criteria": {
+      "has_log": "2025-03-06 17:08:11 +0000"
     },
     "done": true
   },
@@ -16804,6 +16867,12 @@
   "regions_unexplored:recipes/decorations/spruce_shrub": {
     "criteria": {
       "has_spruce_sapling": "2025-03-06 16:46:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_shrub": {
+    "criteria": {
+      "has_magnolia_sapling": "2025-03-06 17:08:54 +0000"
     },
     "done": true
   },
@@ -16840,6 +16909,12 @@
   "techreborn:recipes/compressor/blaze_rod": {
     "criteria": {
       "has_blaze_powder": "2025-03-06 16:29:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/willow_wood": {
+    "criteria": {
+      "has_log": "2025-03-06 17:08:11 +0000"
     },
     "done": true
   },

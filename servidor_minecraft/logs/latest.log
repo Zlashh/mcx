@@ -3102,3 +3102,32 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [17:03:09] [Server thread/INFO]: Joapapiriko has made the advancement [Arcane Empowerment]
 [17:03:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
 [17:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17:04:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17:05:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3141ms or 62 ticks behind
+[17:05:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[17:05:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17:06:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17:07:02] [Server thread/INFO]: skull has made the advancement [Stay dead]
+[17:07:02] [Server thread/INFO]: skull has made the advancement [Walking Dead]
+[17:07:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17:07:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[17:09:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[17:10:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17:11:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[17:11:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2490ms or 49 ticks behind
+[17:12:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[17:12:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[17:13:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[17:13:12] [Server thread/INFO]: skull lost connection: Disconnected
+[17:13:12] [Server thread/INFO]: skull left the game
+[17:13:12] [Server thread/INFO]: remove player wand
+[17:13:12] [Server thread/INFO]: Updating all forceload tickets for c77f79dc-e58b-3c88-9393-3ba6d3834b9c
+[17:13:16] [Server thread/INFO]: Pavks has made the advancement [Create: Estrogen]
+[17:13:23] [Server thread/INFO]: Pavks has made the advancement [Arghh, Where be Me Ship?]
+[17:13:23] [Server thread/INFO]: Pavks has made the advancement [The Beginning of An Adventure]
+[17:13:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[17:14:03] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=71, y=267, z=-1111}
+[17:14:03] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=71, y=267, z=-1111}
+[17:14:16] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[17:14:44] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:small/village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mushroom]] from pos class_2338{x=75, y=90, z=-907}
+[17:15:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
