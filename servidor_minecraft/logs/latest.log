@@ -3093,3 +3093,12 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [16:52:46] [Server thread/INFO]: skull has made the advancement [Stone Age]
 [16:54:16] [Server thread/INFO]: <Pavks> como te surro
 [16:54:22] [Server thread/INFO]: <skull> ./msg
+[16:56:59] [Server thread/INFO]: skull has made the advancement [Getting an Upgrade]
+[16:58:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17:00:27] [Server thread/INFO]: Pavks has made the advancement [False Water]
+[17:02:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[17:02:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17:03:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17:03:09] [Server thread/INFO]: Joapapiriko has made the advancement [Arcane Empowerment]
+[17:03:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[17:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind

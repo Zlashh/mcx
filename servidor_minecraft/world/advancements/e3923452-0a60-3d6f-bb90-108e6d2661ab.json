@@ -1068,6 +1068,7 @@
       "minecraft:cherry_grove": "2025-03-04 05:13:04 +0000",
       "minecraft:sunflower_plains": "2025-03-04 03:54:48 +0000",
       "minecraft:birch_forest": "2025-03-04 06:13:58 +0000",
+      "minecraft:beach": "2025-03-06 16:52:34 +0000",
       "minecraft:dark_forest": "2025-03-04 06:13:39 +0000",
       "minecraft:river": "2025-03-04 03:53:46 +0000",
       "minecraft:stony_shore": "2025-03-04 04:07:23 +0000",
@@ -9844,9 +9845,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-06 16:39:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-06 16:54:51 +0000"
     },
     "done": true
   },
@@ -9856,9 +9875,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-06 16:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-06 16:39:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_shingles_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
     },
     "done": true
   },
@@ -9886,9 +9935,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-06 16:39:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-06 16:55:01 +0000"
     },
     "done": true
   },
@@ -9898,9 +9959,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-06 16:54:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tuff/tuff_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-03-06 16:49:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_tiles_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-06 16:55:01 +0000"
     },
     "done": true
   },
@@ -9910,9 +9995,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_tile_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-06 16:39:52 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tuff/tuff_wall": {
+    "criteria": {
+      "has_item": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-06 16:54:51 +0000"
     },
     "done": true
   },
@@ -9922,15 +10025,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-03-06 16:45:57 +0000"
     },
     "done": true
   },
+  "twigs:recipes/tuff/polished_tuff": {
+    "criteria": {
+      "has_item": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-03-06 16:49:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_brick_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
     },
     "done": true
   },
@@ -9955,6 +10082,12 @@
   "stoneworks:recipes/building_blocks/diorite_brick_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-06 16:39:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_tile_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
     },
     "done": true
   },
@@ -9988,6 +10121,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_shingle_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/basic_display": {
     "criteria": {
       "has_electronic_circuit": "2025-03-06 16:49:42 +0000"
@@ -10006,9 +10151,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-03-06 16:39:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-06 16:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_plates_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
     },
     "done": true
   },
@@ -10024,9 +10199,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-03-06 16:39:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_plate_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_paver_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-06 16:54:51 +0000"
     },
     "done": true
   },
@@ -10048,6 +10253,24 @@
     },
     "done": true
   },
+  "twigs:recipes/tuff/polished_tuff_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_plate_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_plate_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-06 16:39:52 +0000"
@@ -10057,6 +10280,18 @@
   "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-06 16:39:52 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tuff/tuff_stairs": {
+    "criteria": {
+      "has_item": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-06 16:54:51 +0000"
     },
     "done": true
   },
@@ -10084,6 +10319,24 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_tile_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-03-06 16:49:44 +0000"
@@ -10093,6 +10346,12 @@
   "stoneworks:recipes/building_blocks/diorite_pavers_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-06 16:39:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_sandstone_brick_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
     },
     "done": true
   },
@@ -10108,9 +10367,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_sandstone_bricks_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-06 16:39:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_paver_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
     },
     "done": true
   },
@@ -10126,6 +10397,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-03-06 16:49:44 +0000"
@@ -10135,6 +10412,12 @@
   "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
     "criteria": {
       "has_lead_ingot": "2025-03-06 16:48:06 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tuff/tuff_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-06 16:55:01 +0000"
     },
     "done": true
   },
@@ -10150,15 +10433,33 @@
     },
     "done": true
   },
+  "twigs:recipes/tuff/tuff_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-03-06 16:49:44 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-06 16:54:51 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bamboo_thatch/bamboo_thatch": {
     "criteria": {
       "has_bamboo_leaves": "2025-03-06 16:36:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_bricks_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
     },
     "done": true
   },
@@ -10192,15 +10493,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-06 16:54:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-03-06 16:49:44 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_lead": {
+    "criteria": {
+      "has_raw_lead_ores": "2025-03-06 16:55:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-03-06 16:39:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
     },
     "done": true
   },
@@ -10219,6 +10544,12 @@
   "travelersbackpack:recipes/misc/void_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-03-06 16:45:57 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_shingle_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
     },
     "done": true
   },
@@ -10246,6 +10577,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_plate_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "alloy_forgery:recipes/alloy_forgery/copper_block": {
     "criteria": {
       "has_the_recipe": "2025-03-06 16:49:44 +0000"
@@ -10270,9 +10607,69 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_shingle_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_tile_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_sandstone_tiles_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_paver_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-06 16:39:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_sandstone_brick_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/verglas": {
+    "criteria": {
+      "has_item": "2025-03-06 17:00:27 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_paver_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_paver_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
     },
     "done": true
   },
@@ -10300,9 +10697,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_shingles_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-03-06 16:49:44 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tuff/polished_tuff_bricks_from_bloodstone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-06 16:55:01 +0000"
     },
     "done": true
   },
@@ -10312,9 +10721,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_tiles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_plates_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-06 16:39:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_sandstone_brick_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
     },
     "done": true
   },
@@ -10324,9 +10757,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_shingles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_shingles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-06 16:39:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-06 16:55:01 +0000"
     },
     "done": true
   },
@@ -10336,9 +10781,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
   "archon:learn_spell": {
     "criteria": {
       "spell": "2025-03-06 16:45:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_shingle_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
     },
     "done": true
   },
@@ -10348,9 +10811,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-03-06 16:49:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
     },
     "done": true
   },
@@ -10372,6 +10847,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-06 16:54:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/lead_plate": {
     "criteria": {
       "has_tag_c_lead_ingots": "2025-03-06 16:48:06 +0000"
@@ -10384,15 +10865,45 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/moai": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-03-06 16:49:44 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_tiles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-06 16:39:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-03-06 16:55:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_tile_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_shingle_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
     },
     "done": true
   },
@@ -10408,9 +10919,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/verglas_block": {
+    "criteria": {
+      "has_item": "2025-03-06 17:00:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flute": {
     "criteria": {
       "has_bamboo": "2025-03-06 16:36:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_sandstone_bricks_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
     },
     "done": true
   },
@@ -10420,9 +10943,51 @@
     },
     "done": true
   },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "verglas": "2025-03-06 17:00:27 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/upgrade/muffler_upgrade": {
     "criteria": {
       "has_electronic_circuit": "2025-03-06 16:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
     },
     "done": true
   },
@@ -10432,9 +10997,33 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/sting": {
+    "criteria": {
+      "has_item": "2025-03-06 17:00:27 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_plate_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-06 16:39:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-06 16:54:51 +0000"
     },
     "done": true
   },
@@ -10444,15 +11033,51 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-06 16:39:52 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tuff/tuff_slab": {
+    "criteria": {
+      "has_item": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-03-06 16:55:31 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/copper_nugget": {
     "criteria": {
       "has_copper_ingot": "2025-03-06 16:49:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_tile_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_paver_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
     },
     "done": true
   },
@@ -10468,6 +11093,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/storage_block/copper_wall_stonecutting": {
     "criteria": {
       "has_copper": "2025-03-06 16:49:44 +0000"
@@ -10480,6 +11111,24 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_paver_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_pillar_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/tanks_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-03-06 16:45:57 +0000"
@@ -10489,6 +11138,24 @@
   "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-06 16:39:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_pavers_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
     },
     "done": true
   },
@@ -10510,6 +11177,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/smelting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2025-03-06 16:55:02 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/altimeter": {
     "criteria": {
       "has_copper_ingot": "2025-03-06 16:49:44 +0000"
@@ -10519,6 +11192,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-03-06 16:40:26 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
     },
     "done": true
   },
@@ -10540,9 +11219,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-06 16:54:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-03-06 16:36:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-03-06 16:55:31 +0000"
     },
     "done": true
   },
@@ -10552,9 +11243,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-03-06 16:51:54 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_pillar_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bamboo_mat": {
     "criteria": {
       "has_bamboo": "2025-03-06 16:36:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_plate_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
     },
     "done": true
   },
@@ -10588,6 +11297,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-06 16:39:52 +0000"
@@ -10606,9 +11321,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_shingle_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-06 16:39:52 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_tile_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
     },
     "done": true
   },
@@ -10618,9 +11345,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-06 16:54:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/advanced_circuit": {
     "criteria": {
       "has_electronic_circuit": "2025-03-06 16:49:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-06 16:54:51 +0000"
     },
     "done": true
   },
@@ -10654,15 +11399,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/lsu_storage": {
     "criteria": {
       "has_electronic_circuit": "2025-03-06 16:49:42 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2025-03-06 16:55:02 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-03-06 16:45:57 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/skofnung_stone": {
+    "criteria": {
+      "has_item": "2025-03-06 17:00:27 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_tuff_tiles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_brick_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
     },
     "done": true
   },
@@ -10690,6 +11471,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_diorite_brick_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-06 16:39:52 +0000"
@@ -10714,6 +11507,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-06 16:54:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/gravel": {
     "criteria": {
       "has_flint": "2025-03-06 16:40:26 +0000"
@@ -10726,15 +11525,63 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-06 16:54:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_glass_smelting": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-03-06 16:49:44 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-06 16:54:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-06 16:54:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-03-06 16:54:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_scaffolding_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-03-06 16:49:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2025-03-06 16:54:04 +0000"
     },
     "done": true
   },
@@ -10774,9 +11621,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sand_from_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/data_storage_core": {
     "criteria": {
       "has_electronic_circuit": "2025-03-06 16:49:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_lead_storage_block": {
+    "criteria": {
+      "has_raw_lead": "2025-03-06 16:55:02 +0000"
     },
     "done": true
   },
@@ -10804,9 +11675,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_brick_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_pavers_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-06 16:54:04 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:recipes/redstone/copper_button": {
     "criteria": {
       "has_copper_ingot": "2025-03-06 16:49:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-03-06 16:55:01 +0000"
     },
     "done": true
   },
@@ -10816,9 +11717,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
   "ae2:main/root": {
     "criteria": {
       "copper": "2025-03-06 16:49:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-03-06 16:55:01 +0000"
     },
     "done": true
   },
