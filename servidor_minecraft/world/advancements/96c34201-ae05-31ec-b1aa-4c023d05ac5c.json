@@ -1067,6 +1067,7 @@
     "criteria": {
       "minecraft:sunflower_plains": "2025-03-06 23:17:21 +0000",
       "minecraft:birch_forest": "2025-03-06 17:15:09 +0000",
+      "minecraft:dark_forest": "2025-03-06 23:41:56 +0000",
       "minecraft:river": "2025-03-04 02:56:41 +0000",
       "minecraft:dripstone_caves": "2025-03-04 20:35:07 +0000",
       "minecraft:grove": "2025-03-06 17:15:30 +0000",
@@ -3128,6 +3129,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-04 04:34:09 +0000",
       "cooked_mutton": "2025-03-05 04:45:12 +0000",
+      "sweet_berries": "2025-03-06 23:27:53 +0000",
       "cooked_beef": "2025-03-04 05:18:56 +0000",
       "baked_potato": "2025-03-04 03:52:35 +0000",
       "apple": "2025-03-04 07:05:55 +0000",
@@ -17670,9 +17672,75 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/blue_magnolia_sapling_from_blue_magnolia_shrub": {
+    "criteria": {
+      "has_blue_magnolia_shrub": "2025-03-06 23:39:38 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-03-06 23:43:40 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/undead_archer": {
     "criteria": {
       "requirement": "2025-03-06 23:25:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-03-06 23:42:19 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_a_leaping_zombie": {
+    "criteria": {
+      "leaping_zombie_killed": "2025-03-06 23:26:51 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-03-06 23:42:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/gold_plate_from_block": {
+    "criteria": {
+      "has_gold_block": "2025-03-06 23:42:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-03-06 23:42:19 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_suns_grace": {
+    "criteria": {
+      "has_gold_block": "2025-03-06 23:42:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-03-06 23:42:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/enchanted_golden_apple": {
+    "criteria": {
+      "has_gold_block": "2025-03-06 23:42:19 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/axes/axe_encrusted_anchor": {
+    "criteria": {
+      "has_gold_block": "2025-03-06 23:42:19 +0000"
     },
     "done": true
   },
@@ -17685,6 +17753,54 @@
   "minecells:book/mobs/shieldbearer": {
     "criteria": {
       "requirement": "2025-03-06 23:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-03-06 23:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-03-06 23:42:19 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-03-06 23:42:19 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-03-06 23:42:19 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-03-06 23:42:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-03-06 23:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/leaping_zombie": {
+    "criteria": {
+      "requirement": "2025-03-06 23:26:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-03-06 23:42:19 +0000"
     },
     "done": true
   },

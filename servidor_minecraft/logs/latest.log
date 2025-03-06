@@ -2526,3 +2526,5 @@ BCLib - Nether BiomeSource (1b3c0fac)
 [23:23:22] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: Joapapiriko -> Global
 [23:23:22] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Joapapiriko. Claiming: GRAVE / Robbing: INVENTORY
 [23:23:26] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Joapapiriko accepted server config.
+[23:36:14] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Joapapiriko accepted server config.
+[23:43:40] [Server thread/INFO]: Joapapiriko has made the advancement [Guns and Roses]
