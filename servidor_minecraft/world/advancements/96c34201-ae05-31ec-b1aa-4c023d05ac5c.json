@@ -589,7 +589,8 @@
       "magnolia_highlands": "2025-03-04 06:17:18 +0000",
       "glistering_meadow": "2025-03-05 06:26:02 +0000",
       "temperate_grove": "2025-03-04 05:22:33 +0000",
-      "pine_slopes": "2025-03-06 17:06:05 +0000"
+      "pine_slopes": "2025-03-06 17:06:05 +0000",
+      "lupine_plains": "2025-03-06 17:13:58 +0000"
     },
     "done": false
   },
@@ -603,7 +604,8 @@
       "highland_fields": "2025-03-06 17:03:43 +0000",
       "magnolia_highlands": "2025-03-04 06:17:18 +0000",
       "temperate_grove": "2025-03-04 05:22:33 +0000",
-      "pine_slopes": "2025-03-06 17:06:05 +0000"
+      "pine_slopes": "2025-03-06 17:06:05 +0000",
+      "lupine_plains": "2025-03-06 17:13:58 +0000"
     },
     "done": false
   },
@@ -1060,9 +1062,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-03-06 17:15:09 +0000",
       "minecraft:river": "2025-03-04 02:56:41 +0000",
       "minecraft:dripstone_caves": "2025-03-04 20:35:07 +0000",
+      "minecraft:grove": "2025-03-06 17:15:30 +0000",
+      "minecraft:forest": "2025-03-06 17:17:54 +0000",
       "minecraft:ocean": "2025-03-04 02:29:59 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-06 17:15:04 +0000",
       "minecraft:meadow": "2025-03-06 17:03:37 +0000",
       "minecraft:plains": "2025-03-04 02:35:27 +0000"
     },
@@ -3108,7 +3114,8 @@
       "minecraft:silverfish": "2025-03-04 03:03:28 +0000",
       "minecraft:stray": "2025-03-04 07:03:25 +0000",
       "minecraft:enderman": "2025-03-05 05:53:37 +0000",
-      "minecraft:zombie": "2025-03-04 02:33:12 +0000"
+      "minecraft:zombie": "2025-03-04 02:33:12 +0000",
+      "minecraft:zombie_villager": "2025-03-06 17:18:32 +0000"
     },
     "done": false
   },
@@ -10445,6 +10452,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "potato": "2025-03-04 05:04:44 +0000",
+      "red_mushroom": "2025-03-06 17:17:00 +0000",
       "nether_wart": "2025-03-06 16:40:46 +0000",
       "wheat": "2025-03-04 04:42:59 +0000",
       "carrot": "2025-03-04 05:14:47 +0000"
@@ -16546,6 +16554,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-03-06 16:29:50 +0000"
@@ -16573,6 +16587,18 @@
   "handcrafted:recipes/misc/spruce_dining_bench": {
     "criteria": {
       "has_spruce_dining_bench": "2025-03-06 16:46:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2025-03-06 17:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
     },
     "done": true
   },
@@ -16690,6 +16716,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/cyan_sheet": {
+    "criteria": {
+      "has_cyan_sheet": "2025-03-06 17:19:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-06 16:46:58 +0000"
@@ -16762,6 +16794,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_cushion": {
+    "criteria": {
+      "has_cyan_cushion": "2025-03-06 17:19:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/willow_planks": {
     "criteria": {
       "has_logs": "2025-03-06 17:08:11 +0000"
@@ -16771,6 +16815,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-03-06 16:46:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-03-06 17:15:46 +0000"
     },
     "done": true
   },
@@ -16786,9 +16836,27 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/brown_coffin": {
+    "criteria": {
+      "has_item": "2025-03-06 17:19:20 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/itemfinder": {
     "criteria": {
       "has_item": "2025-03-06 16:29:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/rubber_from_log": {
+    "criteria": {
+      "has_rubber_log": "2025-03-06 17:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
     },
     "done": true
   },
@@ -16801,6 +16869,12 @@
   "mcda:recipes/base_armors/teleportation_robe_leggings": {
     "criteria": {
       "has_ender_eye": "2025-03-06 16:29:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_wood": {
+    "criteria": {
+      "has_rubber_log": "2025-03-06 17:22:20 +0000"
     },
     "done": true
   },
@@ -16819,6 +16893,12 @@
   "simplyswords:arcanethyst": {
     "criteria": {
       "requirement": "2025-03-06 17:03:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-03-06 17:20:03 +0000"
     },
     "done": true
   },
@@ -16852,6 +16932,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/rubber_logs": {
+    "criteria": {
+      "has_rubber_logs": "2025-03-06 17:22:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_electrolyzer/blaze_powder": {
     "criteria": {
       "has_blaze_powder": "2025-03-06 16:29:50 +0000"
@@ -16864,15 +16950,39 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-03-06 17:18:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/spruce_shrub": {
     "criteria": {
       "has_spruce_sapling": "2025-03-06 16:46:52 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-03-06 17:20:03 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/magnolia_shrub": {
     "criteria": {
       "has_magnolia_sapling": "2025-03-06 17:08:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_planks": {
+    "criteria": {
+      "has_rubber_log": "2025-03-06 17:22:20 +0000"
     },
     "done": true
   },
@@ -16933,6 +17043,18 @@
   "decorative_blocks:recipes/decorative_blocks.general/spruce_seat": {
     "criteria": {
       "has_plank": "2025-03-06 16:46:58 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/cyan_bed_from_wool": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-06 17:19:14 +0000"
     },
     "done": true
   },

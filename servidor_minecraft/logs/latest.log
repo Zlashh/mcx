@@ -3131,3 +3131,18 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [17:14:16] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [17:14:44] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:small/village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mushroom]] from pos class_2338{x=75, y=90, z=-907}
 [17:15:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[17:15:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3855ms or 77 ticks behind
+[17:15:34] [Server thread/INFO]: Villager class_1646['Kip'/24677, l='ServerLevel[world]', x=-0.90, y=89.00, z=-1181.77] died, message: 'Kip was slain by Zombie'
+[17:15:34] [Server thread/INFO]: Named entity class_1646['Kip'/24677, l='ServerLevel[world]', x=-0.90, y=89.00, z=-1181.77] died: Kip was slain by Zombie
+[17:17:03] [Server thread/INFO]: <Joapapiriko> e
+[17:17:59] [Server thread/INFO]: Villager class_1646['Charles'/25065, l='ServerLevel[world]', x=23.86, y=112.00, z=-1224.36] died, message: 'Charles was slain by Zombie'
+[17:17:59] [Server thread/INFO]: Named entity class_1646['Charles'/25065, l='ServerLevel[world]', x=23.86, y=112.00, z=-1224.36] died: Charles was slain by Zombie
+[17:18:23] [Server thread/INFO]: <Pavks> zzzzzzzzzzzzzzz
+[17:18:32] [Server thread/INFO]: Named entity class_1641['Charles'/27368, l='ServerLevel[world]', x=30.69, y=112.00, z=-1216.55] died: Charles was slain by Joapapiriko
+[17:18:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2882ms or 57 ticks behind
+[17:18:52] [Server thread/INFO]: Villager class_1646['Esteban'/25064, l='ServerLevel[world]', x=38.70, y=124.00, z=-1223.47] died, message: 'Esteban was slain by Zombie'
+[17:18:52] [Server thread/INFO]: Named entity class_1646['Esteban'/25064, l='ServerLevel[world]', x=38.70, y=124.00, z=-1223.47] died: Esteban was slain by Zombie
+[17:19:28] [Server thread/INFO]: Villager class_1646['Lucretia'/25070, l='ServerLevel[world]', x=51.64, y=134.00, z=-1235.18] died, message: 'Lucretia was slain by Zombie'
+[17:19:28] [Server thread/INFO]: Named entity class_1646['Lucretia'/25070, l='ServerLevel[world]', x=51.64, y=134.00, z=-1235.18] died: Lucretia was slain by Zombie
+[17:19:43] [Server thread/INFO]: Villager class_1646['Skye'/25069, l='ServerLevel[world]', x=63.52, y=142.00, z=-1215.44] died, message: 'Skye was slain by Zombie'
+[17:19:43] [Server thread/INFO]: Named entity class_1646['Skye'/25069, l='ServerLevel[world]', x=63.52, y=142.00, z=-1215.44] died: Skye was slain by Zombie

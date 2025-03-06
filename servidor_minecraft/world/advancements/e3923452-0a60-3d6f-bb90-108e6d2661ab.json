@@ -1468,6 +1468,7 @@
       "apple": "2025-03-04 04:37:56 +0000",
       "mutton": "2025-03-04 05:19:53 +0000",
       "bread": "2025-03-04 03:53:50 +0000",
+      "golden_apple": "2025-03-06 17:21:07 +0000",
       "suspicious_stew": "2025-03-04 04:37:40 +0000",
       "mushroom_stew": "2025-03-04 04:45:44 +0000"
     },
@@ -10163,6 +10164,12 @@
     },
     "done": true
   },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2025-03-06 17:13:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-03-06 16:39:52 +0000"
@@ -10202,6 +10209,12 @@
   "techreborn:recipes/compressor/obsidian_plate_from_block": {
     "criteria": {
       "has_obsidian": "2025-03-06 16:49:44 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2025-03-06 17:21:20 +0000"
     },
     "done": true
   },
@@ -10334,6 +10347,12 @@
   "stoneworks:recipes/building_blocks/cobbled_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/heart_pottery_sherd": {
+    "criteria": {
+      "has_heart_of_the_sea": "2025-03-06 17:13:21 +0000"
     },
     "done": true
   },
@@ -10787,9 +10806,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/heart_of_the_sea_with_water": {
+    "criteria": {
+      "has_heart_of_the_sea": "2025-03-06 17:13:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_shingles_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "estrogen:root": {
+    "criteria": {
+      "root": "2025-03-06 17:13:16 +0000"
     },
     "done": true
   },
@@ -10844,6 +10875,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-06 16:39:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/water_ring": {
+    "criteria": {
+      "has_item": "2025-03-06 17:13:21 +0000"
     },
     "done": true
   },
@@ -11429,6 +11466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-03-06 17:13:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/chiseled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-06 16:39:52 +0000"
@@ -11681,9 +11724,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2025-03-06 17:21:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-03-06 17:21:20 +0000"
     },
     "done": true
   },
@@ -11768,6 +11823,12 @@
   "stoneworks:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-06 16:55:01 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "black_eye": "2025-03-06 17:13:23 +0000"
     },
     "done": true
   },
