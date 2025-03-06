@@ -3027,3 +3027,69 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[16:34:52] [Server thread/INFO]: [Handshake] Sending channel query
+[16:34:52] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[16:34:52] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[16:34:53] [Server thread/INFO]: Pavks[/127.7.0.192:57017] logged in with entity id 1976 at (-678.5716259281352, 67.0, 55.650084454854166)
+[16:34:53] [Server thread/INFO]: Sending server config values to client
+[16:34:53] [Server thread/INFO]: Syncing config to Pavks (e3923452-0a60-3d6f-bb90-108e6d2661ab)
+[16:34:53] [Server thread/INFO]: Loading config from file...
+[16:34:53] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16:34:53] [Server thread/INFO]: Pavks joined the game
+[16:34:53] [Server thread/INFO]: Loading Configs for Sortilege
+[16:34:53] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[16:34:53] [Server thread/INFO]: Updating all forceload tickets for e3923452-0a60-3d6f-bb90-108e6d2661ab
+[16:34:53] [Server thread/INFO]: PLAYER_JOIN
+[16:34:53] [Server thread/INFO]: add_player wand
+[16:34:53] [Server thread/INFO]: config sent
+[16:34:55] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[16:34:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[16:34:57] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: Pavks -> Global
+[16:34:57] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Pavks. Claiming: GRAVE / Robbing: INVENTORY
+[16:35:01] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Pavks accepted server config.
+[16:35:25] [Server thread/INFO]: No player was found
+[16:35:52] [Server thread/INFO]: Unknown game mode: extreme
+[16:35:52] [Server thread/INFO]: ...de extreme pavks<--[HERE]
+[16:36:21] [Server thread/INFO]: Unknown game mode: hardcore
+[16:36:21] [Server thread/INFO]: ...e hardcore pavks<--[HERE]
+[16:37:43] [Server thread/INFO]: Set Joapapiriko's game mode to Spectator Mode
+[16:38:05] [Server thread/INFO]: Set Pavks's game mode to Spectator Mode
+[16:39:06] [Server thread/INFO]: Set Joapapiriko's game mode to Survival Mode
+[16:39:11] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Joapapiriko accepted server config.
+[16:39:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:39:24] [Server thread/INFO]: /gamemode survival pavks<--[HERE]
+[16:39:35] [Server thread/INFO]: Set Pavks's game mode to Survival Mode
+[16:45:14] [Server thread/INFO]: Villager class_1646['Moises'/3490, l='ServerLevel[world]', x=-1077.97, y=248.00, z=56.58] died, message: 'Moises went up in flames'
+[16:45:14] [Server thread/INFO]: Named entity class_1646['Moises'/3490, l='ServerLevel[world]', x=-1077.97, y=248.00, z=56.58] died: Moises went up in flames
+[16:45:41] [Server thread/INFO]: Pavks has made the advancement [Novice Spellcaster]
+[16:46:27] [Server thread/INFO]: Joapapiriko has made the advancement [Local Librarian]
+[16:46:47] [Server thread/INFO]: Villager class_1646['Domonique'/3484, l='ServerLevel[world]', x=-1065.65, y=236.00, z=81.71] died, message: 'Domonique hit the ground too hard'
+[16:46:47] [Server thread/INFO]: Named entity class_1646['Domonique'/3484, l='ServerLevel[world]', x=-1065.65, y=236.00, z=81.71] died: Domonique fell from a high place
+[16:48:48] [Server thread/INFO]: [Handshake] Sending channel query
+[16:48:48] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[16:48:48] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[16:48:48] [Server thread/INFO]: skull[/127.62.5.236:59349] logged in with entity id 8155 at (-638.0770653037674, 65.0, 291.8674481599575)
+[16:48:48] [Server thread/INFO]: Sending server config values to client
+[16:48:48] [Server thread/INFO]: Syncing config to skull (c77f79dc-e58b-3c88-9393-3ba6d3834b9c)
+[16:48:48] [Server thread/INFO]: Loading config from file...
+[16:48:49] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16:48:49] [Server thread/INFO]: skull joined the game
+[16:48:49] [Server thread/INFO]: Loading Configs for Sortilege
+[16:48:49] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[16:48:49] [Server thread/INFO]: Updating all forceload tickets for c77f79dc-e58b-3c88-9393-3ba6d3834b9c
+[16:48:49] [Server thread/INFO]: PLAYER_JOIN
+[16:48:49] [Server thread/INFO]: add_player wand
+[16:48:49] [Server thread/INFO]: config sent
+[16:48:50] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[16:48:52] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: skull -> Global
+[16:48:52] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player skull. Claiming: GRAVE / Robbing: INVENTORY
+[16:48:54] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of skull accepted server config.
+[16:49:44] [Server thread/INFO]: Pavks has made the advancement [Ice Bucket Challenge]
+[16:51:36] [Server thread/INFO]: Villager class_1646['Ervin'/3524, l='ServerLevel[world]', x=-1085.70, y=236.00, z=41.45] died, message: 'Ervin hit the ground too hard'
+[16:51:36] [Server thread/INFO]: Named entity class_1646['Ervin'/3524, l='ServerLevel[world]', x=-1085.70, y=236.00, z=41.45] died: Ervin fell from a high place
+[16:51:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[16:52:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16:52:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[16:52:46] [Server thread/INFO]: skull has made the advancement [Stone Age]
+[16:54:16] [Server thread/INFO]: <Pavks> como te surro
+[16:54:22] [Server thread/INFO]: <skull> ./msg
