@@ -1065,12 +1065,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-03-06 23:17:21 +0000",
       "minecraft:birch_forest": "2025-03-06 17:15:09 +0000",
       "minecraft:river": "2025-03-04 02:56:41 +0000",
       "minecraft:dripstone_caves": "2025-03-04 20:35:07 +0000",
       "minecraft:grove": "2025-03-06 17:15:30 +0000",
       "minecraft:forest": "2025-03-06 17:17:54 +0000",
       "minecraft:ocean": "2025-03-04 02:29:59 +0000",
+      "minecraft:flower_forest": "2025-03-06 23:18:39 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-06 17:15:04 +0000",
       "minecraft:meadow": "2025-03-06 17:03:37 +0000",
       "minecraft:plains": "2025-03-04 02:35:27 +0000"
@@ -17506,39 +17508,9 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/goat_gear_boots": {
-    "criteria": {
-      "has_goat_pelt": "2025-03-06 23:06:21 +0000"
-    },
-    "done": true
-  },
-  "betterarcheology:loot_vase_broken": {
-    "criteria": {
-      "criteria": "2025-03-06 23:12:24 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/fox": {
-    "criteria": {
-      "has_sweet_berries": "2025-03-06 23:15:58 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
     "criteria": {
       "has_skeleton_skull": "2025-03-06 23:01:06 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/large_prismarite_cluster": {
-    "criteria": {
-      "has_prismarite": "2025-03-06 23:04:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mixed_salad": {
-    "criteria": {
-      "has_bowl": "2025-03-06 23:12:29 +0000"
     },
     "done": true
   },
@@ -17548,45 +17520,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/berry_jam_jar": {
+  "mcda:recipes/base_armors/ghostly_helmet": {
     "criteria": {
-      "has_berry_jam_jar": "2025-03-06 23:15:58 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/maple/wood": {
-    "criteria": {
-      "has_log": "2025-03-06 23:15:06 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-03-06 23:12:29 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/hanging_prismarite": {
-    "criteria": {
-      "has_prismarite": "2025-03-06 23:04:39 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/red_dye_from_sweet_berries": {
-    "criteria": {
-      "has_sweet_berries": "2025-03-06 23:15:58 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/pear_sapling": {
-    "criteria": {
-      "has_pear": "2025-03-06 23:09:47 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/maple/planks": {
-    "criteria": {
-      "has_logs": "2025-03-06 23:15:06 +0000"
+      "has_skeleton_skull": "2025-03-06 23:01:06 +0000"
     },
     "done": true
   },
@@ -17596,9 +17532,45 @@
     },
     "done": false
   },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
+  "regions_unexplored:recipes/decorations/large_prismarite_cluster": {
     "criteria": {
-      "has_sweet_berries": "2025-03-06 23:15:58 +0000"
+      "has_prismarite": "2025-03-06 23:04:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/hanging_prismarite": {
+    "criteria": {
+      "has_prismarite": "2025-03-06 23:04:39 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_boots": {
+    "criteria": {
+      "has_goat_pelt": "2025-03-06 23:06:21 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pear_sapling": {
+    "criteria": {
+      "has_pear": "2025-03-06 23:09:47 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2025-03-06 23:12:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-06 23:12:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-03-06 23:12:29 +0000"
     },
     "done": true
   },
@@ -17611,18 +17583,6 @@
   "supplementaries:husbandry/sus_stew": {
     "criteria": {
       "stew": "2025-03-06 23:12:29 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/ghostly_helmet": {
-    "criteria": {
-      "has_skeleton_skull": "2025-03-06 23:01:06 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/sweet_berries": {
-    "criteria": {
-      "has_sweet_berries": "2025-03-06 23:15:58 +0000"
     },
     "done": true
   },
@@ -17647,6 +17607,84 @@
   "techreborn:recipes/centrifuge/soul_soil": {
     "criteria": {
       "has_soul_soil": "2025-03-06 23:13:47 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/wood": {
+    "criteria": {
+      "has_log": "2025-03-06 23:15:06 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/planks": {
+    "criteria": {
+      "has_logs": "2025-03-06 23:15:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-06 23:15:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2025-03-06 23:15:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-06 23:15:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-06 23:15:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-03-06 23:15:58 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/white_grape_bag": {
+    "criteria": {
+      "has_white_grape": "2025-03-06 23:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-03-06 23:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecells:prison": {
+    "criteria": {
+      "requirement": "2025-03-06 23:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/undead_archer": {
+    "criteria": {
+      "requirement": "2025-03-06 23:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/grenadier": {
+    "criteria": {
+      "requirement": "2025-03-06 23:25:06 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/shieldbearer": {
+    "criteria": {
+      "requirement": "2025-03-06 23:24:20 +0000"
     },
     "done": true
   },

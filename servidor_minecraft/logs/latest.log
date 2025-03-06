@@ -2501,3 +2501,28 @@ BCLib - Nether BiomeSource (1b3c0fac)
 [23:14:36] [Server thread/INFO]: Updating all forceload tickets for e3923452-0a60-3d6f-bb90-108e6d2661ab
 [23:18:36] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
 [23:18:46] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[23:22:26] [Server thread/INFO]: Joapapiriko has made the advancement [Behind bars]
+[23:22:26] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Joapapiriko accepted server config.
+[23:23:16] [Server thread/INFO]: Joapapiriko lost connection: Disconnected
+[23:23:16] [Server thread/INFO]: Joapapiriko left the game
+[23:23:16] [Server thread/INFO]: remove player wand
+[23:23:16] [Server thread/INFO]: Updating all forceload tickets for 96c34201-ae05-31ec-b1aa-4c023d05ac5c
+[23:23:20] [Server thread/INFO]: [Handshake] Sending channel query
+[23:23:20] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[23:23:20] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[23:23:20] [Server thread/INFO]: Joapapiriko[/127.184.148.242:45001] logged in with entity id 18969 at (2.6339915462019716, 42.0, -2043.1469098284438)
+[23:23:20] [Server thread/INFO]: Sending server config values to client
+[23:23:20] [Server thread/INFO]: Syncing config to Joapapiriko (96c34201-ae05-31ec-b1aa-4c023d05ac5c)
+[23:23:20] [Server thread/INFO]: Loading config from file...
+[23:23:20] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[23:23:20] [Server thread/INFO]: Joapapiriko joined the game
+[23:23:20] [Server thread/INFO]: Loading Configs for Sortilege
+[23:23:20] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[23:23:20] [Server thread/INFO]: Updating all forceload tickets for 96c34201-ae05-31ec-b1aa-4c023d05ac5c
+[23:23:20] [Server thread/INFO]: PLAYER_JOIN
+[23:23:20] [Server thread/INFO]: add_player wand
+[23:23:20] [Server thread/INFO]: config sent
+[23:23:22] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[23:23:22] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: Joapapiriko -> Global
+[23:23:22] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Joapapiriko. Claiming: GRAVE / Robbing: INVENTORY
+[23:23:26] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Joapapiriko accepted server config.
