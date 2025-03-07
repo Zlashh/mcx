@@ -3620,3 +3620,15 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [08:09:12] [Server thread/INFO]: Named entity class_3989['Erwin'/17316, l='ServerLevel[world]', x=-676.50, y=67.00, z=55.79] died: Erwin was slain by Joapapiriko
 [08:12:00] [Server thread/INFO]: Joapapiriko has made the advancement [Iron Torch]
 [08:12:00] [Server thread/INFO]: Joapapiriko has made the advancement [Hunt and Gather]
+[08:18:54] [Server thread/WARN]: Joapapiriko moved wrongly!
+[08:24:17] [Server thread/INFO]: Zlashh lost connection: Disconnected
+[08:24:17] [Server thread/INFO]: Zlashh left the game
+[08:24:17] [Server thread/INFO]: remove player wand
+[08:24:17] [Server thread/INFO]: Updating all forceload tickets for 9f1e9bcc-daec-3ebc-8364-c21c9b865916
+[08:25:45] [Server thread/INFO]: [EMI] Joapapiriko cheated in 1 light_blue_shulker_box
+[08:26:20] [Server thread/INFO]: [EMI] Joapapiriko cheated in 64 ender_chest
+[08:26:21] [Server thread/INFO]: [EMI] Joapapiriko cheated in 64 ender_chest
+[08:26:23] [Server thread/INFO]: [EMI] Joapapiriko deleted 64 ender_chest
+[08:26:24] [Server thread/INFO]: [EMI] Joapapiriko deleted 64 ender_chest
+[08:26:25] [Server thread/INFO]: [EMI] Joapapiriko cheated in 1 ender_chest
+[08:26:26] [Server thread/INFO]: [EMI] Joapapiriko cheated in 1 ender_chest
