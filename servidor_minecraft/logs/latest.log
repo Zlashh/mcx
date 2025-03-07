@@ -3297,3 +3297,22 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [06:28:43] [Server thread/INFO]: Zlashh claimed a grave belonging to Zlashh at -893, -19, 138, minecraft:overworld
 [06:28:51] [Server thread/INFO]: Joapapiriko claimed a grave belonging to Joapapiriko at -902, -28, 133, minecraft:overworld
 [06:31:37] [Server thread/INFO]: Zlashh has made the advancement [The Secrets of Enchanting]
+[06:37:00] [Server thread/INFO]: Set Joapapiriko's game mode to Spectator Mode
+[06:37:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:37:29] [Server thread/INFO]: admin zlashh<--[HERE]
+[06:37:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:37:35] [Server thread/INFO]: ad zlashh<--[HERE]
+[06:37:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:37:49] [Server thread/INFO]: god zlashh<--[HERE]
+[06:38:07] [Server thread/INFO]: Made Zlashh a server operator
+[06:38:07] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Zlashh accepted server config.
+[06:38:15] [Server thread/INFO]: Made Joapapiriko a server operator
+[06:38:15] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Joapapiriko accepted server config.
+[06:38:23] [Server thread/INFO]: [Zlashh: Set own game mode to Spectator Mode]
+[06:38:51] [Server thread/INFO]: [Zlashh: Teleported Zlashh to Joapapiriko]
+[06:39:06] [Server thread/INFO]: [Zlashh: Teleported Zlashh to Joapapiriko]
+[06:40:27] [Server thread/INFO]: [Zlashh: Teleported Zlashh to Joapapiriko]
+[06:40:32] [Server thread/INFO]: [Joapapiriko: Set own game mode to Survival Mode]
+[06:40:38] [Server thread/INFO]: [Zlashh: Set own game mode to Survival Mode]
+[06:42:37] [Server thread/INFO]: [Zlashh: Teleported Zlashh to Joapapiriko]
+[06:42:46] [Server thread/INFO]: Zlashh has made the advancement [Chest Slayer]

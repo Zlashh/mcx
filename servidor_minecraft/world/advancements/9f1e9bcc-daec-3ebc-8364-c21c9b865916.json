@@ -584,6 +584,7 @@
       "shrubland": "2025-03-03 21:34:30 +0000",
       "pine_taiga": "2025-03-07 05:09:50 +0000",
       "autumnal_maple_forest": "2025-03-04 02:18:03 +0000",
+      "ancient_delta": "2025-03-07 06:39:30 +0000",
       "willow_forest": "2025-03-07 04:57:06 +0000",
       "poppy_fields": "2025-03-07 05:48:50 +0000",
       "grassy_beach": "2025-03-03 20:06:39 +0000",
@@ -3312,6 +3313,7 @@
       "minecraft:forest": "2025-03-03 21:41:53 +0000",
       "minecraft:lush_caves": "2025-03-07 06:22:47 +0000",
       "minecraft:ocean": "2025-03-03 21:23:04 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-03-07 06:40:30 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-07 05:10:43 +0000",
       "minecraft:meadow": "2025-03-07 04:55:18 +0000",
       "minecraft:plains": "2025-03-03 21:31:15 +0000"
@@ -11875,6 +11877,12 @@
     },
     "done": true
   },
+  "zenith:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-03-07 06:31:37 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_tiles_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-07 05:39:12 +0000"
@@ -12042,6 +12050,12 @@
       "has_item": "2025-03-07 05:29:24 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "ancient_delta": "2025-03-07 06:39:30 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {

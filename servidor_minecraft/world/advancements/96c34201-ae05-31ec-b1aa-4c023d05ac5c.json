@@ -587,6 +587,7 @@
       "willow_forest": "2025-03-06 17:06:25 +0000",
       "poppy_fields": "2025-03-07 05:48:27 +0000",
       "grassy_beach": "2025-03-04 02:20:55 +0000",
+      "scorching_caves": "2025-03-07 06:39:42 +0000",
       "rocky_meadow": "2025-03-04 02:25:09 +0000",
       "flower_fields": "2025-03-04 02:29:16 +0000",
       "highland_fields": "2025-03-06 17:03:43 +0000",
@@ -1080,6 +1081,7 @@
       "minecraft:beach": "2025-03-07 06:15:02 +0000",
       "minecraft:dark_forest": "2025-03-06 23:41:56 +0000",
       "minecraft:river": "2025-03-04 02:56:41 +0000",
+      "minecraft:lukewarm_ocean": "2025-03-07 06:40:05 +0000",
       "minecraft:stony_shore": "2025-03-07 05:15:37 +0000",
       "minecraft:dripstone_caves": "2025-03-04 20:35:07 +0000",
       "minecraft:grove": "2025-03-06 17:15:30 +0000",
@@ -1087,6 +1089,7 @@
       "minecraft:forest": "2025-03-06 17:17:54 +0000",
       "minecraft:lush_caves": "2025-03-07 06:23:05 +0000",
       "minecraft:ocean": "2025-03-04 02:29:59 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-03-07 06:40:12 +0000",
       "minecraft:flower_forest": "2025-03-06 23:18:39 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-06 17:15:04 +0000",
       "minecraft:meadow": "2025-03-06 17:03:37 +0000",
@@ -17552,7 +17555,8 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
-      "prismachasm": "2025-03-06 23:03:51 +0000"
+      "prismachasm": "2025-03-06 23:03:51 +0000",
+      "scorching_caves": "2025-03-07 06:39:42 +0000"
     },
     "done": false
   },
@@ -17970,6 +17974,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-07 06:34:40 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/tuff_wall": {
     "criteria": {
       "has_item": "2025-03-07 05:39:19 +0000"
@@ -18228,6 +18238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-03-07 06:33:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-03-07 05:39:19 +0000"
@@ -18348,6 +18364,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2025-03-07 06:34:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_plate_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-07 06:17:19 +0000"
@@ -18381,6 +18403,12 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-03-07 05:31:27 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-07 06:34:40 +0000"
     },
     "done": true
   },
@@ -18576,6 +18604,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-07 06:34:40 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bricks/mixed_bricks_stonecutting": {
     "criteria": {
       "has_item": "2025-03-07 05:31:27 +0000"
@@ -18648,6 +18682,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_wall": {
+    "criteria": {
+      "has_item": "2025-03-07 06:34:40 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/veggie_salad": {
     "criteria": {
       "has_the_recipe": "2025-03-07 05:23:35 +0000"
@@ -18663,6 +18703,12 @@
   "stoneworks:recipes/building_blocks/stone_shingle_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_elder_chest": {
+    "criteria": {
+      "has_item": "2025-03-07 06:33:30 +0000"
     },
     "done": true
   },
@@ -18840,9 +18886,21 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/polished_rhyolite": {
+    "criteria": {
+      "has_item": "2025-03-07 06:34:40 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/blueberry_seed": {
     "criteria": {
       "has_blueberry": "2025-03-07 05:24:41 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs": {
+    "criteria": {
+      "has_item": "2025-03-07 06:34:40 +0000"
     },
     "done": true
   },
@@ -18897,6 +18955,12 @@
   "twigs:recipes/tables/acacia_table": {
     "criteria": {
       "has_bamboo": "2025-03-07 04:51:14 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-07 06:34:40 +0000"
     },
     "done": true
   },
@@ -19110,6 +19174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-03-07 06:34:39 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bricks/cracked_bricks": {
     "criteria": {
       "has_item": "2025-03-07 05:31:27 +0000"
@@ -19264,6 +19334,12 @@
   "betternether:recipes/decorations/rubeus_hanging_sign": {
     "criteria": {
       "has_chain": "2025-03-07 05:42:21 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_juniper_chest": {
+    "criteria": {
+      "has_item": "2025-03-07 06:33:30 +0000"
     },
     "done": true
   },
@@ -19423,6 +19499,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-07 06:34:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-03-07 05:07:03 +0000"
@@ -19534,6 +19616,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/acacia_support": {
     "criteria": {
       "has_plank": "2025-03-07 04:51:14 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_cypress_chest": {
+    "criteria": {
+      "has_item": "2025-03-07 06:33:30 +0000"
     },
     "done": true
   },
@@ -19798,6 +19886,12 @@
   "stoneworks:recipes/building_blocks/stone_shingle_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_dragons_blood_chest": {
+    "criteria": {
+      "has_item": "2025-03-07 06:33:30 +0000"
     },
     "done": true
   },
