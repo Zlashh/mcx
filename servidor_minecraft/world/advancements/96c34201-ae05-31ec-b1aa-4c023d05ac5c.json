@@ -3140,6 +3140,7 @@
       "golden_apple": "2025-03-04 21:45:13 +0000",
       "rotten_flesh": "2025-03-04 20:50:22 +0000",
       "suspicious_stew": "2025-03-06 23:12:29 +0000",
+      "golden_carrot": "2025-03-07 05:28:06 +0000",
       "enchanted_golden_apple": "2025-03-04 07:09:03 +0000",
       "carrot": "2025-03-04 20:00:07 +0000"
     },
@@ -4009,8 +4010,10 @@
     "criteria": {
       "sweetpotato_seed": "2025-03-04 05:16:02 +0000",
       "bellpepper_seed": "2025-03-04 04:21:41 +0000",
+      "tomato_seed": "2025-03-07 05:23:35 +0000",
       "pepper_seed": "2025-03-04 03:06:30 +0000",
       "kale_seed": "2025-03-04 05:22:16 +0000",
+      "blueberry_seed": "2025-03-07 05:24:41 +0000",
       "grape_seed": "2025-03-04 05:01:58 +0000",
       "broccoli_seed": "2025-03-04 02:44:19 +0000",
       "lettuce_seed": "2025-03-04 05:15:57 +0000",
@@ -11341,6 +11344,8 @@
   },
   "croptopia:gather_forest": {
     "criteria": {
+      "blueberry_seed": "2025-03-07 05:24:41 +0000",
+      "tomato_seed": "2025-03-07 05:23:35 +0000",
       "grape_seed": "2025-03-04 05:01:58 +0000"
     },
     "done": false
@@ -17890,6 +17895,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/cherry_jam": {
+    "criteria": {
+      "has_cherry": "2025-03-07 05:24:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-03-07 04:51:53 +0000"
@@ -17905,6 +17916,12 @@
   "croptopia:recipes/trail_mix": {
     "criteria": {
       "has_nuts": "2025-03-07 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/tomato_juice": {
+    "criteria": {
+      "has_tomato": "2025-03-07 05:23:35 +0000"
     },
     "done": true
   },
@@ -17929,6 +17946,18 @@
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-07 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cherry_pie": {
+    "criteria": {
+      "has_cherry": "2025-03-07 05:24:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-03-07 05:20:52 +0000"
     },
     "done": true
   },
@@ -17968,9 +17997,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/blueberry_jam": {
+    "criteria": {
+      "has_blueberry": "2025-03-07 05:24:41 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/acacia_seat": {
     "criteria": {
       "has_plank": "2025-03-07 04:51:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/lemon_sapling": {
+    "criteria": {
+      "has_lemon": "2025-03-07 05:24:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/lemonade": {
+    "criteria": {
+      "has_lemon": "2025-03-07 05:24:31 +0000"
     },
     "done": true
   },
@@ -18094,6 +18141,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-03-07 05:28:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/veggie_salad": {
+    "criteria": {
+      "has_the_recipe": "2025-03-07 05:23:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/golden_carrot": {
     "criteria": {
       "has_golden_carrot": "2025-03-07 04:38:04 +0000"
@@ -18103,6 +18162,12 @@
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2025-03-07 04:48:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/glistering_melon_slice": {
+    "criteria": {
+      "has_melon_slice": "2025-03-07 05:28:19 +0000"
     },
     "done": true
   },
@@ -18130,6 +18195,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-03-07 05:28:19 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/vinemaker_boots": {
     "criteria": {
       "has_brown_wool": "2025-03-07 05:07:03 +0000"
@@ -18139,6 +18210,12 @@
   "croptopia:recipes/roasted_smoking": {
     "criteria": {
       "has_nut": "2025-03-07 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/blueberry_seed": {
+    "criteria": {
+      "has_blueberry": "2025-03-07 05:24:41 +0000"
     },
     "done": true
   },
@@ -18172,6 +18249,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-03-07 05:28:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_shepherds_pie": {
+    "criteria": {
+      "has_corn": "2025-03-07 05:21:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-07 04:51:49 +0000"
@@ -18190,9 +18279,39 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_lemon_coconut_bar": {
+    "criteria": {
+      "has_lemon": "2025-03-07 05:24:31 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/lime_coffin": {
+    "criteria": {
+      "has_item": "2025-03-07 05:27:40 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/lemon_chicken": {
+    "criteria": {
+      "has_lemon": "2025-03-07 05:24:31 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_dining_bench": {
     "criteria": {
       "has_acacia_dining_bench": "2025-03-07 04:51:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/tomato_seed": {
+    "criteria": {
+      "has_tomato": "2025-03-07 05:23:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_popcorn": {
+    "criteria": {
+      "has_corn": "2025-03-07 05:21:16 +0000"
     },
     "done": true
   },
@@ -18205,6 +18324,18 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-07 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/corn_husk": {
+    "criteria": {
+      "has_corn": "2025-03-07 05:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-03-07 05:28:19 +0000"
     },
     "done": true
   },
@@ -18262,6 +18393,12 @@
     },
     "done": true
   },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-03-07 05:21:13 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/nutty_cookie": {
     "criteria": {
       "has_nuts": "2025-03-07 05:04:07 +0000",
@@ -18272,6 +18409,12 @@
   "supplementaries:recipes/sign_post_acacia": {
     "criteria": {
       "has_the_recipe": "2025-03-07 04:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-03-07 05:28:19 +0000"
     },
     "done": true
   },
@@ -18323,6 +18466,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-03-07 05:28:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-03-07 05:07:03 +0000"
@@ -18338,6 +18487,12 @@
   "handcrafted:recipes/misc/terracotta_cup": {
     "criteria": {
       "has_terracotta_cup": "2025-03-07 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cherry_sapling": {
+    "criteria": {
+      "has_cherry": "2025-03-07 05:24:13 +0000"
     },
     "done": true
   },
@@ -18389,6 +18544,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/melon_slice": {
+    "criteria": {
+      "has_melon_slice": "2025-03-07 05:28:19 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/dark_oak_table_slab": {
     "criteria": {
       "has_bamboo": "2025-03-07 04:48:05 +0000"
@@ -18413,6 +18574,12 @@
     },
     "done": true
   },
+  "brewery:main/crop_collector": {
+    "criteria": {
+      "brewery:corn": "2025-03-07 05:21:16 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/nougat": {
     "criteria": {
       "has_nuts": "2025-03-07 05:04:07 +0000"
@@ -18428,6 +18595,12 @@
   "twigs:recipes/tables/dark_oak_table": {
     "criteria": {
       "has_the_recipe": "2025-03-07 04:48:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/melon_juice": {
+    "criteria": {
+      "has_melon": "2025-03-07 05:28:19 +0000"
     },
     "done": true
   },
@@ -18506,6 +18679,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-03-07 05:01:17 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "corrupted_eye": "2025-03-07 05:21:13 +0000"
     },
     "done": true
   },

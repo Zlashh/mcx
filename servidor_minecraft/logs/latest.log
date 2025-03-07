@@ -2801,3 +2801,31 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [05:01:10] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mushroom]] from pos class_2338{x=379, y=97, z=-1403}
 [05:13:24] [Server thread/INFO]: Zlashh has made the advancement [Guns and Roses]
 [05:20:51] [Server thread/INFO]: Zlashh has made the advancement [Amateur Archaeologist]
+[05:21:13] [Server thread/INFO]: Joapapiriko has made the advancement [The Beginning of An Adventure]
+[05:21:13] [Server thread/INFO]: Joapapiriko has made the advancement [Cover Me In Emeralds]
+[05:25:06] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Zlashh accepted server config.
+[05:26:31] [Server thread/INFO]: Zlashh lost connection: Disconnected
+[05:26:31] [Server thread/INFO]: Zlashh left the game
+[05:26:31] [Server thread/INFO]: remove player wand
+[05:26:31] [Server thread/INFO]: Updating all forceload tickets for 9f1e9bcc-daec-3ebc-8364-c21c9b865916
+[05:26:33] [Server thread/INFO]: [Handshake] Sending channel query
+[05:26:33] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[05:26:33] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[05:26:34] [Server thread/INFO]: Zlashh[/127.206.177.213:33019] logged in with entity id 31171 at (-1021.5, 42.04286129178001, -2044.5)
+[05:26:34] [Server thread/INFO]: Sending server config values to client
+[05:26:34] [Server thread/INFO]: Syncing config to Zlashh (9f1e9bcc-daec-3ebc-8364-c21c9b865916)
+[05:26:34] [Server thread/INFO]: Loading config from file...
+[05:26:34] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:26:34] [Server thread/INFO]: Zlashh joined the game
+[05:26:34] [Server thread/INFO]: Loading Configs for Sortilege
+[05:26:34] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[05:26:34] [Server thread/INFO]: Updating all forceload tickets for 9f1e9bcc-daec-3ebc-8364-c21c9b865916
+[05:26:34] [Server thread/INFO]: PLAYER_JOIN
+[05:26:34] [Server thread/INFO]: add_player wand
+[05:26:34] [Server thread/INFO]: config sent
+[05:26:35] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[05:26:36] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: Zlashh -> Global
+[05:26:36] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Zlashh. Claiming: GRAVE / Robbing: INVENTORY
+[05:26:36] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Zlashh accepted server config.
+[05:27:14] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Zlashh accepted server config.
+[05:27:22] [Server thread/WARN]: @Redirect conflict. Skipping mixins.redirected_fabric_1.20.1.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirected->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
