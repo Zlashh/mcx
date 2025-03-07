@@ -1146,6 +1146,7 @@
       "bread": "2025-03-03 20:31:55 +0000",
       "golden_apple": "2025-03-07 06:29:01 +0000",
       "cookie": "2025-03-07 05:54:31 +0000",
+      "rotten_flesh": "2025-03-07 07:24:56 +0000",
       "enchanted_golden_apple": "2025-03-07 06:42:52 +0000",
       "carrot": "2025-03-07 04:48:33 +0000"
     },
@@ -13049,6 +13050,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-03-07 07:01:02 +0000"
+    },
+    "done": true
+  },
+  "herbalbrews:main/find_tea_blossom": {
+    "criteria": {
+      "tea_blossom": "2025-03-07 07:23:01 +0000"
     },
     "done": true
   },
