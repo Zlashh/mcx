@@ -10474,6 +10474,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "onion": "2025-03-07 06:01:28 +0000",
       "brown_mushroom": "2025-03-07 05:08:37 +0000",
       "potato": "2025-03-04 05:04:44 +0000",
       "red_mushroom": "2025-03-06 17:17:00 +0000",
