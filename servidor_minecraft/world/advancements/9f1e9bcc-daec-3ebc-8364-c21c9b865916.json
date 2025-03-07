@@ -13173,6 +13173,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_freezing_foil": {
+    "criteria": {
+      "has_base": "2025-03-07 07:58:03 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/computer_normal": {
     "criteria": {
       "has_redstone": "2025-03-07 06:55:05 +0000"
