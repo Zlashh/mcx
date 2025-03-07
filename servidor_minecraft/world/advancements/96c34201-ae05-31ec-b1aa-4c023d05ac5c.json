@@ -1069,6 +1069,7 @@
       "minecraft:birch_forest": "2025-03-06 17:15:09 +0000",
       "minecraft:dark_forest": "2025-03-06 23:41:56 +0000",
       "minecraft:river": "2025-03-04 02:56:41 +0000",
+      "minecraft:stony_shore": "2025-03-07 05:15:37 +0000",
       "minecraft:dripstone_caves": "2025-03-04 20:35:07 +0000",
       "minecraft:grove": "2025-03-06 17:15:30 +0000",
       "minecraft:forest": "2025-03-06 17:17:54 +0000",
@@ -10459,6 +10460,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "brown_mushroom": "2025-03-07 05:08:37 +0000",
       "potato": "2025-03-04 05:04:44 +0000",
       "red_mushroom": "2025-03-06 17:17:00 +0000",
       "nether_wart": "2025-03-06 16:40:46 +0000",
@@ -17846,6 +17848,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-03-07 05:07:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-07 04:51:49 +0000"
@@ -17978,6 +17986,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/brown_cushion": {
+    "criteria": {
+      "has_brown_cushion": "2025-03-07 05:07:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-07 04:51:49 +0000"
@@ -17987,6 +18001,12 @@
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-03-07 04:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-03-07 05:07:03 +0000"
     },
     "done": true
   },
@@ -18044,6 +18064,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/cashew_sapling": {
+    "criteria": {
+      "has_cashew": "2025-03-07 05:06:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_sheet": {
+    "criteria": {
+      "has_brown_sheet": "2025-03-07 05:07:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_couch": {
     "criteria": {
       "has_acacia_couch": "2025-03-07 04:51:14 +0000"
@@ -18074,6 +18106,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/brown_bed_from_wool": {
+    "criteria": {
+      "has_brown_wool": "2025-03-07 05:07:03 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/decorations/chungus_monolith": {
     "criteria": {
       "has_item": "2025-03-07 04:38:04 +0000"
@@ -18089,6 +18127,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-03-07 05:01:17 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_boots": {
+    "criteria": {
+      "has_brown_wool": "2025-03-07 05:07:03 +0000"
     },
     "done": true
   },
@@ -18279,6 +18323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-03-07 05:07:03 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/acacia_wine_rack_small": {
     "criteria": {
       "has_acacia_planks": "2025-03-07 04:51:14 +0000"
@@ -18300,6 +18350,12 @@
   "croptopia:recipes/misc/almond_sapling": {
     "criteria": {
       "has_almond": "2025-03-07 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-03-07 05:07:03 +0000"
     },
     "done": true
   },
@@ -18345,6 +18401,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cashew": "2025-03-07 05:06:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
+    "criteria": {
+      "has_brown_wool": "2025-03-07 05:07:03 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/nougat": {
     "criteria": {
       "has_nuts": "2025-03-07 05:04:07 +0000"
@@ -18372,6 +18440,12 @@
   "croptopia:recipes/almond_brittle": {
     "criteria": {
       "has_almond": "2025-03-07 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-03-07 05:07:03 +0000"
     },
     "done": true
   },
