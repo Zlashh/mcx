@@ -583,13 +583,17 @@
       "silver_birch_forest": "2025-03-04 02:18:40 +0000",
       "shrubland": "2025-03-03 21:34:30 +0000",
       "autumnal_maple_forest": "2025-03-04 02:18:03 +0000",
+      "willow_forest": "2025-03-07 04:57:06 +0000",
       "grassy_beach": "2025-03-03 20:06:39 +0000",
       "rocky_meadow": "2025-03-03 20:07:24 +0000",
       "ochard": "2025-03-03 21:24:14 +0000",
       "flower_fields": "2025-03-03 20:18:28 +0000",
       "highland_fields": "2025-03-04 20:33:36 +0000",
+      "magnolia_highlands": "2025-03-07 04:57:08 +0000",
+      "mountains": "2025-03-07 04:56:13 +0000",
       "temperate_grove": "2025-03-03 21:33:20 +0000",
-      "pine_slopes": "2025-03-04 21:51:00 +0000"
+      "pine_slopes": "2025-03-04 21:51:00 +0000",
+      "lupine_plains": "2025-03-07 04:59:12 +0000"
     },
     "done": false
   },
@@ -598,13 +602,17 @@
       "silver_birch_forest": "2025-03-04 02:18:40 +0000",
       "shrubland": "2025-03-03 21:34:30 +0000",
       "autumnal_maple_forest": "2025-03-04 02:18:03 +0000",
+      "willow_forest": "2025-03-07 04:57:06 +0000",
       "grassy_beach": "2025-03-03 20:06:39 +0000",
       "rocky_meadow": "2025-03-03 20:07:24 +0000",
       "ochard": "2025-03-03 21:24:14 +0000",
       "flower_fields": "2025-03-03 20:18:28 +0000",
       "highland_fields": "2025-03-04 20:33:36 +0000",
+      "magnolia_highlands": "2025-03-07 04:57:08 +0000",
+      "mountains": "2025-03-07 04:56:13 +0000",
       "temperate_grove": "2025-03-03 21:33:20 +0000",
-      "pine_slopes": "2025-03-04 21:51:00 +0000"
+      "pine_slopes": "2025-03-04 21:51:00 +0000",
+      "lupine_plains": "2025-03-07 04:59:12 +0000"
     },
     "done": false
   },
@@ -1121,9 +1129,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-03-07 04:57:45 +0000",
       "beef": "2025-03-05 06:50:32 +0000",
       "apple": "2025-03-03 21:02:46 +0000",
-      "bread": "2025-03-03 20:31:55 +0000"
+      "bread": "2025-03-03 20:31:55 +0000",
+      "carrot": "2025-03-07 04:48:33 +0000"
     },
     "done": false
   },
@@ -1159,6 +1169,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "magnolia_log": "2025-03-07 04:57:16 +0000",
       "mauve_log": "2025-03-03 20:32:41 +0000"
     },
     "done": false
@@ -3280,12 +3291,15 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-03-03 21:40:48 +0000",
       "minecraft:cherry_grove": "2025-03-04 20:29:20 +0000",
+      "minecraft:birch_forest": "2025-03-07 04:59:40 +0000",
       "minecraft:beach": "2025-03-03 21:39:35 +0000",
       "minecraft:river": "2025-03-03 21:05:21 +0000",
       "minecraft:stony_shore": "2025-03-03 21:22:00 +0000",
       "minecraft:dripstone_caves": "2025-03-04 21:01:57 +0000",
+      "minecraft:grove": "2025-03-07 05:00:08 +0000",
       "minecraft:forest": "2025-03-03 21:41:53 +0000",
       "minecraft:ocean": "2025-03-03 21:23:04 +0000",
+      "minecraft:meadow": "2025-03-07 04:55:18 +0000",
       "minecraft:plains": "2025-03-03 21:31:15 +0000"
     },
     "done": false
@@ -9598,7 +9612,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "wheat": "2025-03-04 20:49:26 +0000"
+      "wheat": "2025-03-04 20:49:26 +0000",
+      "carrot": "2025-03-07 04:43:22 +0000"
     },
     "done": false
   },
@@ -9629,6 +9644,8 @@
   "croptopia:gather_all": {
     "criteria": {
       "bellpepper_seed": "2025-03-04 20:49:39 +0000",
+      "grape_seed": "2025-03-07 04:43:12 +0000",
+      "broccoli_seed": "2025-03-07 04:43:55 +0000",
       "oat_seed": "2025-03-04 20:49:38 +0000"
     },
     "done": false
@@ -9636,7 +9653,8 @@
   "croptopia:gather_plains": {
     "criteria": {
       "bellpepper_seed": "2025-03-04 20:49:39 +0000",
-      "oat_seed": "2025-03-04 20:49:38 +0000"
+      "oat_seed": "2025-03-04 20:49:38 +0000",
+      "broccoli_seed": "2025-03-07 04:43:55 +0000"
     },
     "done": false
   },
@@ -10667,15 +10685,123 @@
     },
     "done": true
   },
+  "minecells:elite": {
+    "criteria": {
+      "obelisk_activated": "2025-03-05 06:45:50 +0000"
+    },
+    "done": true
+  },
   "minecells:vine_rune": {
     "criteria": {
       "vine_rune": "2025-03-05 06:48:01 +0000"
     },
     "done": true
   },
-  "minecells:elite": {
+  "croptopia:recipes/food/raisins_from_grape": {
     "criteria": {
-      "obelisk_activated": "2025-03-05 06:45:50 +0000"
+      "has_grape": "2025-03-07 04:43:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_steamed_broccoli": {
+    "criteria": {
+      "has_broccoli": "2025-03-07 04:43:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+    "criteria": {
+      "has_log": "2025-03-07 04:57:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_stir_fry": {
+    "criteria": {
+      "has_broccoli": "2025-03-07 04:43:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/grape_seed": {
+    "criteria": {
+      "has_grape": "2025-03-07 04:43:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/broccoli_seed": {
+    "criteria": {
+      "has_broccoli": "2025-03-07 04:43:54 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/book_of_shadows": {
+    "criteria": {
+      "has_item": "2025-03-07 04:43:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
+    "criteria": {
+      "has_logs": "2025-03-07 04:57:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/cooked_meat": {
+    "criteria": {
+      "has_cooked_meat": "2025-03-07 04:46:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/white_magnolia_shrub": {
+    "criteria": {
+      "has_white_magnolia_sapling": "2025-03-07 04:57:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stir_fry": {
+    "criteria": {
+      "has_broccoli": "2025-03-07 04:43:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-03-07 05:00:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+    "criteria": {
+      "has_log": "2025-03-07 04:57:16 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/sausage": {
+    "criteria": {
+      "has_cooked_beef": "2025-03-07 04:46:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_the_recipe": "2025-03-07 04:43:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/raisins_from_smoking_grape": {
+    "criteria": {
+      "has_grape": "2025-03-07 04:43:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "grape_seed": "2025-03-07 04:43:12 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_grape": "2025-03-07 04:43:12 +0000"
     },
     "done": true
   },
