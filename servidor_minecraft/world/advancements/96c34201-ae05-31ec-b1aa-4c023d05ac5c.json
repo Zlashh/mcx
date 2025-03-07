@@ -1077,6 +1077,7 @@
       "minecraft:sunflower_plains": "2025-03-06 23:17:21 +0000",
       "minecraft:cherry_grove": "2025-03-07 05:57:23 +0000",
       "minecraft:birch_forest": "2025-03-06 17:15:09 +0000",
+      "minecraft:beach": "2025-03-07 06:15:02 +0000",
       "minecraft:dark_forest": "2025-03-06 23:41:56 +0000",
       "minecraft:river": "2025-03-04 02:56:41 +0000",
       "minecraft:stony_shore": "2025-03-07 05:15:37 +0000",
@@ -3127,6 +3128,7 @@
       "minecraft:creeper": "2025-03-04 05:20:12 +0000",
       "minecraft:phantom": "2025-03-04 03:14:31 +0000",
       "minecraft:zombified_piglin": "2025-03-06 16:32:26 +0000",
+      "minecraft:witch": "2025-03-07 06:16:21 +0000",
       "minecraft:wither_skeleton": "2025-03-05 06:38:09 +0000",
       "minecraft:cave_spider": "2025-03-04 02:58:35 +0000",
       "minecraft:silverfish": "2025-03-04 03:03:28 +0000",
@@ -17877,6 +17879,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/horchata": {
     "criteria": {
       "has_almond": "2025-03-07 05:04:07 +0000"
@@ -17931,6 +17945,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-07 06:19:21 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_fancy_bed": {
     "criteria": {
       "has_acacia_fancy_bed": "2025-03-07 04:51:14 +0000"
@@ -17976,6 +17996,18 @@
   "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-03-07 05:39:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-07 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tile_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -18039,6 +18071,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_skeleton_trophy": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lacugrove_hanging_sign": {
     "criteria": {
       "has_chain": "2025-03-07 05:42:21 +0000"
@@ -18063,6 +18101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_shingle_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-07 05:39:19 +0000"
@@ -18075,9 +18119,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-07 06:19:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-07 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-07 06:19:21 +0000"
     },
     "done": true
   },
@@ -18096,6 +18152,12 @@
   "croptopia:recipes/candy_corn": {
     "criteria": {
       "has_the_recipe": "2025-03-07 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/stone_witch_altar": {
+    "criteria": {
+      "has_item": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -18159,9 +18221,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_paver_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-03-07 05:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -18180,6 +18254,12 @@
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2025-03-07 05:56:45 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_pillar_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -18207,15 +18287,33 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/stone_pillar": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/dragon_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2025-03-07 05:42:21 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-07 06:19:21 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
     "criteria": {
       "has_chain": "2025-03-07 05:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -18231,6 +18329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/polished_tuff_stonecutting": {
     "criteria": {
       "has_item": "2025-03-07 05:39:19 +0000"
@@ -18240,6 +18344,12 @@
   "stoneworks:recipes/building_blocks/tuff_plate_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-07 05:39:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plate_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -18261,6 +18371,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_plate_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-03-07 05:31:27 +0000"
@@ -18273,9 +18389,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_plate_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/phantom_armor_boots": {
     "criteria": {
       "has_phantom_skin": "2025-03-07 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -18321,6 +18449,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-07 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-07 06:19:21 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_shelf": {
     "criteria": {
       "has_acacia_shelf": "2025-03-07 04:51:14 +0000"
@@ -18339,9 +18479,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-07 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tile_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -18354,6 +18506,18 @@
   "twigs:recipes/tuff/tuff_stairs_stonecutting": {
     "criteria": {
       "has_item": "2025-03-07 05:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_paver_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -18384,6 +18548,12 @@
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-03-07 04:51:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-07 06:19:21 +0000"
     },
     "done": true
   },
@@ -18423,15 +18593,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-07 06:19:21 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_couch": {
     "criteria": {
       "has_acacia_couch": "2025-03-07 04:51:14 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_pillager_trophy": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_plate_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-07 05:39:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -18462,6 +18650,18 @@
   "croptopia:recipes/veggie_salad": {
     "criteria": {
       "has_the_recipe": "2025-03-07 05:23:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plates_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_shingle_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -18507,6 +18707,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-07 06:19:21 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/brown_bed_from_wool": {
     "criteria": {
       "has_brown_wool": "2025-03-07 05:07:03 +0000"
@@ -18531,6 +18737,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-07 06:19:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_tiles_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-07 05:39:19 +0000"
@@ -18549,6 +18761,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-07 06:19:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-03-07 05:01:17 +0000"
@@ -18564,6 +18782,12 @@
   "stoneworks:recipes/building_blocks/tuff_shingles_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-07 05:39:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_stone_tiles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -18594,6 +18818,18 @@
   "croptopia:recipes/roasted_smoking": {
     "criteria": {
       "has_nut": "2025-03-07 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tiles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_stone_pillar_trim": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -18645,6 +18881,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/prismoss": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_table": {
     "criteria": {
       "has_acacia_table": "2025-03-07 04:51:14 +0000"
@@ -18666,6 +18908,12 @@
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-03-07 05:28:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-07 06:19:21 +0000"
     },
     "done": true
   },
@@ -18693,6 +18941,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-07 06:19:21 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_cupboard": {
     "criteria": {
       "has_acacia_cupboard": "2025-03-07 04:51:14 +0000"
@@ -18717,9 +18971,21 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/stone_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_lemon_coconut_bar": {
     "criteria": {
       "has_lemon": "2025-03-07 05:24:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_shingle_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -18753,6 +19019,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/stone_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/acacia_window": {
     "criteria": {
       "has_ingredient": "2025-03-07 04:51:14 +0000"
@@ -18768,6 +19040,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2025-03-07 05:31:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_vindicator_trophy": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -18867,6 +19145,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-07 06:19:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-07 04:51:14 +0000"
@@ -18885,6 +19169,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-07 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/crafting/copycat_iron_door": {
+    "criteria": {
+      "has_item": "2025-03-07 06:18:24 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/tuff_slab": {
     "criteria": {
       "has_item": "2025-03-07 05:39:19 +0000"
@@ -18894,6 +19190,12 @@
   "stoneworks:recipes/building_blocks/tuff_tile_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-07 05:39:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/stone_column": {
+    "criteria": {
+      "has_item": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -18934,6 +19236,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/stone_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-07 05:39:19 +0000"
@@ -18958,6 +19266,12 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/stone_column_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2025-03-07 05:42:21 +0000"
@@ -18970,15 +19284,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_acacia": {
     "criteria": {
       "has_the_recipe": "2025-03-07 04:51:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-03-07 05:28:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-07 06:19:21 +0000"
     },
     "done": true
   },
@@ -18994,9 +19326,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-07 06:19:21 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/beetroot_salad": {
     "criteria": {
       "has_beetroot": "2025-03-07 04:56:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/shelter_pottery_sherd": {
+    "criteria": {
+      "has_iron_door": "2025-03-07 06:18:24 +0000"
     },
     "done": true
   },
@@ -19009,6 +19353,18 @@
   "twigs:recipes/paper_lanterns/allium_paper_lantern": {
     "criteria": {
       "has_item": "2025-03-07 05:56:45 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -19036,6 +19392,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_pavers_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-03-07 05:28:19 +0000"
@@ -19057,6 +19425,24 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-03-07 05:07:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-07 06:19:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stone_grass_block": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -19111,6 +19497,12 @@
   "croptopia:recipes/misc/almond_sapling": {
     "criteria": {
       "has_almond": "2025-03-07 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -19174,6 +19566,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_tile_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/wart_hanging_sign": {
     "criteria": {
       "has_chain": "2025-03-07 05:42:21 +0000"
@@ -19198,9 +19596,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_paver_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/cashew_chicken": {
     "criteria": {
       "has_cashew": "2025-03-07 05:06:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_evoker_trophy": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -19255,6 +19665,12 @@
   "handcrafted:recipes/misc/acacia_bench": {
     "criteria": {
       "has_acacia_bench": "2025-03-07 04:51:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_stone_corner_trim": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -19318,6 +19734,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_shingles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-03-07 05:39:19 +0000"
@@ -19348,6 +19770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_nightstand": {
     "criteria": {
       "has_acacia_nightstand": "2025-03-07 04:51:14 +0000"
@@ -19366,9 +19794,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_shingle_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_hammer": {
+    "criteria": {
+      "has_material": "2025-03-07 06:17:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-03-07 05:01:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_witch_trophy": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },
@@ -19387,6 +19833,12 @@
   "endrem:main/root": {
     "criteria": {
       "corrupted_eye": "2025-03-07 05:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-07 06:17:19 +0000"
     },
     "done": true
   },

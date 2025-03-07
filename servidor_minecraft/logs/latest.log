@@ -3268,3 +3268,13 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [05:52:25] [Server thread/INFO]: Zlashh has made the advancement [Stay dead]
 [05:52:33] [pool-12-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp]] from pos class_2338{x=-1515, y=90, z=-811}
 [05:56:45] [Server thread/INFO]: Joapapiriko has made the advancement [Crops of the Wild]
+[06:14:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:14:04] [Server thread/INFO]: GAMEMODE SPECTATOR Joapapiriko<--[HERE]
+[06:14:13] [Server thread/INFO]: Set Zlashh's game mode to Spectator Mode
+[06:14:28] [Server thread/INFO]: Set Joapapiriko's game mode to Spectator Mode
+[06:15:17] [Server thread/INFO]: Teleported Zlashh to Joapapiriko
+[06:15:34] [Server thread/INFO]: Set Joapapiriko's game mode to Survival Mode
+[06:15:40] [Server thread/INFO]: Set Zlashh's game mode to Survival Mode
+[06:15:53] [Server thread/INFO]: Villager class_1646['Marcelino'/53571, l='ServerLevel[world]', x=-897.99, y=72.00, z=78.73] died, message: 'Marcelino was slain by Zombie'
+[06:15:53] [Server thread/INFO]: Named entity class_1646['Marcelino'/53571, l='ServerLevel[world]', x=-897.99, y=72.00, z=78.73] died: Marcelino was slain by Zombie
+[06:16:36] [Server thread/INFO]: Zlashh has made the advancement [World of illusion]
