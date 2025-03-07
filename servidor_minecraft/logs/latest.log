@@ -3278,3 +3278,22 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [06:15:53] [Server thread/INFO]: Villager class_1646['Marcelino'/53571, l='ServerLevel[world]', x=-897.99, y=72.00, z=78.73] died, message: 'Marcelino was slain by Zombie'
 [06:15:53] [Server thread/INFO]: Named entity class_1646['Marcelino'/53571, l='ServerLevel[world]', x=-897.99, y=72.00, z=78.73] died: Marcelino was slain by Zombie
 [06:16:36] [Server thread/INFO]: Zlashh has made the advancement [World of illusion]
+[06:26:11] [Server thread/INFO]: Zlashh was killed by Witch using magic
+[06:26:11] [Server thread/INFO]: Created new backpack backup file for Zlashh with unique ID travelersbackpack.pig_07.03.2025-06.26.11.dat
+[06:26:16] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Zlashh accepted server config.
+[06:26:23] [Server thread/INFO]: Joapapiriko was killed by magic
+[06:26:23] [Server thread/INFO]: Created new backpack backup file for Joapapiriko with unique ID travelersbackpack.blaze_07.03.2025-06.26.23.dat
+[06:26:25] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Joapapiriko accepted server config.
+[06:26:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2546ms or 50 ticks behind
+[06:26:50] [Server thread/INFO]: Unknown game mode: 
+[06:26:50] [Server thread/INFO]: gamemode /tp Joapapiriko zlashh<--[HERE]
+[06:27:16] [Server thread/INFO]: Teleported Joapapiriko to Zlashh
+[06:27:31] [Server thread/INFO]: Set Zlashh's game mode to Spectator Mode
+[06:27:39] [Server thread/INFO]: Set Joapapiriko's game mode to Spectator Mode
+[06:28:18] [Server thread/INFO]: Unknown game mode: survivial
+[06:28:18] [Server thread/INFO]: ... survivial Joapapiriko<--[HERE]
+[06:28:27] [Server thread/INFO]: Set Zlashh's game mode to Survival Mode
+[06:28:40] [Server thread/INFO]: Set Joapapiriko's game mode to Survival Mode
+[06:28:43] [Server thread/INFO]: Zlashh claimed a grave belonging to Zlashh at -893, -19, 138, minecraft:overworld
+[06:28:51] [Server thread/INFO]: Joapapiriko claimed a grave belonging to Joapapiriko at -902, -28, 133, minecraft:overworld
+[06:31:37] [Server thread/INFO]: Zlashh has made the advancement [The Secrets of Enchanting]
