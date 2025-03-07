@@ -12621,6 +12621,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-03-07 07:52:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_shingles_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-03-07 07:01:02 +0000"
@@ -12708,6 +12714,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-03-07 06:55:05 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/allium": {
+    "criteria": {
+      "has_flower": "2025-03-07 07:52:03 +0000"
     },
     "done": true
   },
@@ -12933,6 +12945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-03-07 07:52:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_basalt_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-03-07 07:01:02 +0000"
@@ -12969,6 +12987,12 @@
     },
     "done": true
   },
+  "twigs:recipes/paper_lanterns/allium_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-03-07 07:52:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_basalt_brick_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-03-07 07:01:02 +0000"
@@ -12996,6 +13020,12 @@
   "techreborn:recipes/crafting_table/machine/industrial_blast_furnace": {
     "criteria": {
       "has_advanced_machine_frame": "2025-03-07 07:45:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:advancedmachineblock": {
+    "criteria": {
+      "crit_0": "2025-03-07 07:45:42 +0000"
     },
     "done": true
   },

@@ -3040,3 +3040,8 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [07:02:11] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Zlashh accepted server config.
 [07:23:01] [Server thread/INFO]: Zlashh has made the advancement [Blossoming Discoveries]
 [07:45:42] [Server thread/INFO]: Zlashh has made the advancement [Now We're Evolving]
+[07:49:09] [Server thread/INFO]: Named entity class_3989['Dannie'/15140, l='ServerLevel[world]', x=-675.92, y=67.00, z=49.46] died: Dannie was slain by Joapapiriko
+[07:52:08] [Server thread/INFO]: Joapapiriko has made the advancement [Is this thing alive?]
+[07:52:15] [Server thread/INFO]: Joapapiriko has made the advancement [Keeper of Souls]
+[07:53:10] [Server thread/INFO]: Joapapiriko has made the advancement [Unknown Technology]
+[07:54:49] [Server thread/INFO]: Joapapiriko has made the advancement [NOT THE BEES!]

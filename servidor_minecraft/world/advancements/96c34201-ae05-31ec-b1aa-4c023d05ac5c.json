@@ -19969,9 +19969,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/steel_dust": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-03-07 07:47:45 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
     "criteria": {
       "has_sky_stone_block": "2025-03-07 07:41:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/steel_plate": {
+    "criteria": {
+      "has_tag_c_steel_ingots": "2025-03-07 07:47:45 +0000"
     },
     "done": true
   },
@@ -19981,15 +19993,48 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-03-07 07:53:10 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
     "criteria": {
       "has_sky_stone_block": "2025-03-07 07:41:54 +0000"
     },
     "done": true
   },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-03-07 07:53:10 +0000",
+      "silicon": "2025-03-07 07:53:10 +0000",
+      "engineering": "2025-03-07 07:53:10 +0000",
+      "logic": "2025-03-07 07:53:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_grinding_head": {
+    "criteria": {
+      "has_steel_ingot": "2025-03-07 07:47:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_storage_block": {
+    "criteria": {
+      "has_steel_ingot": "2025-03-07 07:47:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/oak_pressure_plate_from_slab": {
     "criteria": {
       "has_oak_slab": "2025-03-07 07:42:01 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/deer_venison": {
+    "criteria": {
+      "got_the_venison": "2025-03-07 07:53:31 +0000"
     },
     "done": true
   },
@@ -20005,9 +20050,51 @@
     },
     "done": true
   },
+  "simplyswords:soulkeeper": {
+    "criteria": {
+      "requirement": "2025-03-07 07:52:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
+    "criteria": {
+      "has_steel_ingot": "2025-03-07 07:47:45 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-03-07 07:41:54 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:hiveheart": {
+    "criteria": {
+      "requirement": "2025-03-07 07:54:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_helmet": {
+    "criteria": {
+      "has_steel_ingot": "2025-03-07 07:47:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/steel_nugget": {
+    "criteria": {
+      "has_steel_ingot": "2025-03-07 07:47:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/steel_leggings": {
+    "criteria": {
+      "has_steel_ingot": "2025-03-07 07:47:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
+    "criteria": {
+      "has_steel_ingot": "2025-03-07 07:47:45 +0000"
     },
     "done": true
   },
@@ -20023,9 +20110,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/steel_chestplate": {
+    "criteria": {
+      "has_steel_ingot": "2025-03-07 07:47:45 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/shaped/walls/sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-03-07 07:41:54 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:flamewind": {
+    "criteria": {
+      "requirement": "2025-03-07 07:52:08 +0000"
     },
     "done": true
   },
