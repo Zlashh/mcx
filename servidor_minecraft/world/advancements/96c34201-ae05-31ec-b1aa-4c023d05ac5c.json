@@ -19975,6 +19975,12 @@
     },
     "done": true
   },
+  "zenith:enchanting/80ench": {
+    "criteria": {
+      "enchanted_item": "2025-03-07 08:32:11 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
     "criteria": {
       "has_sky_stone_block": "2025-03-07 07:41:54 +0000"
@@ -19984,6 +19990,12 @@
   "techreborn:recipes/compressor/steel_plate": {
     "criteria": {
       "has_tag_c_steel_ingots": "2025-03-07 07:47:45 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/100ench": {
+    "criteria": {
+      "enchanted_item": "2025-03-07 08:32:11 +0000"
     },
     "done": true
   },
@@ -20023,6 +20035,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2025-03-07 08:12:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "minecraft:shulker_boxes": "2025-03-07 08:25:45 +0000"
     },
     "done": true
   },
@@ -20134,6 +20152,12 @@
     },
     "done": true
   },
+  "zenith:enchanting/upgrade_endshelf": {
+    "criteria": {
+      "draconic": "2025-03-07 08:29:58 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/steel_chestplate": {
     "criteria": {
       "has_steel_ingot": "2025-03-07 07:47:45 +0000"
@@ -20146,9 +20170,21 @@
     },
     "done": true
   },
+  "zenith:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-03-07 08:32:11 +0000"
+    },
+    "done": true
+  },
   "simplyswords:flamewind": {
     "criteria": {
       "requirement": "2025-03-07 07:52:08 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/60ench": {
+    "criteria": {
+      "enchanted_item": "2025-03-07 08:32:11 +0000"
     },
     "done": true
   },
