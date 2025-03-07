@@ -2528,3 +2528,7 @@ BCLib - Nether BiomeSource (1b3c0fac)
 [23:23:26] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Joapapiriko accepted server config.
 [23:36:14] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Joapapiriko accepted server config.
 [23:43:40] [Server thread/INFO]: Joapapiriko has made the advancement [Guns and Roses]
+[23:54:43] [Server thread/INFO]: Joapapiriko lost connection: Disconnected
+[23:54:43] [Server thread/INFO]: Joapapiriko left the game
+[23:54:43] [Server thread/INFO]: remove player wand
+[23:54:43] [Server thread/INFO]: Updating all forceload tickets for 96c34201-ae05-31ec-b1aa-4c023d05ac5c
