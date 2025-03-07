@@ -580,9 +580,12 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-03-07 05:47:37 +0000",
       "shrubland": "2025-03-04 05:21:22 +0000",
+      "autumnal_maple_forest": "2025-03-07 05:53:34 +0000",
       "prismachasm": "2025-03-06 23:03:51 +0000",
       "willow_forest": "2025-03-06 17:06:25 +0000",
+      "poppy_fields": "2025-03-07 05:48:27 +0000",
       "grassy_beach": "2025-03-04 02:20:55 +0000",
       "rocky_meadow": "2025-03-04 02:25:09 +0000",
       "flower_fields": "2025-03-04 02:29:16 +0000",
@@ -591,6 +594,7 @@
       "mountains": "2025-03-06 22:50:15 +0000",
       "glistering_meadow": "2025-03-05 06:26:02 +0000",
       "temperate_grove": "2025-03-04 05:22:33 +0000",
+      "cold_river": "2025-03-07 05:50:31 +0000",
       "pine_slopes": "2025-03-06 17:06:05 +0000",
       "lupine_plains": "2025-03-06 17:13:58 +0000"
     },
@@ -598,8 +602,11 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-03-07 05:47:37 +0000",
       "shrubland": "2025-03-04 05:21:22 +0000",
+      "autumnal_maple_forest": "2025-03-07 05:53:34 +0000",
       "willow_forest": "2025-03-06 17:06:25 +0000",
+      "poppy_fields": "2025-03-07 05:48:27 +0000",
       "grassy_beach": "2025-03-04 02:20:55 +0000",
       "rocky_meadow": "2025-03-04 02:25:09 +0000",
       "flower_fields": "2025-03-04 02:29:16 +0000",
@@ -607,6 +614,7 @@
       "magnolia_highlands": "2025-03-04 06:17:18 +0000",
       "mountains": "2025-03-06 22:50:15 +0000",
       "temperate_grove": "2025-03-04 05:22:33 +0000",
+      "cold_river": "2025-03-07 05:50:31 +0000",
       "pine_slopes": "2025-03-06 17:06:05 +0000",
       "lupine_plains": "2025-03-06 17:13:58 +0000"
     },
@@ -1067,12 +1075,14 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-03-07 05:34:26 +0000",
       "minecraft:sunflower_plains": "2025-03-06 23:17:21 +0000",
+      "minecraft:cherry_grove": "2025-03-07 05:57:23 +0000",
       "minecraft:birch_forest": "2025-03-06 17:15:09 +0000",
       "minecraft:dark_forest": "2025-03-06 23:41:56 +0000",
       "minecraft:river": "2025-03-04 02:56:41 +0000",
       "minecraft:stony_shore": "2025-03-07 05:15:37 +0000",
       "minecraft:dripstone_caves": "2025-03-04 20:35:07 +0000",
       "minecraft:grove": "2025-03-06 17:15:30 +0000",
+      "minecraft:jagged_peaks": "2025-03-07 05:44:27 +0000",
       "minecraft:forest": "2025-03-06 17:17:54 +0000",
       "minecraft:ocean": "2025-03-04 02:29:59 +0000",
       "minecraft:flower_forest": "2025-03-06 23:18:39 +0000",
@@ -17884,6 +17894,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lucernia_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-03-07 04:51:14 +0000"
@@ -17899,6 +17915,12 @@
   "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-03-07 05:39:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
     },
     "done": true
   },
@@ -17920,6 +17942,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/willow_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/tuff_wall": {
     "criteria": {
       "has_item": "2025-03-07 05:39:19 +0000"
@@ -17929,6 +17957,18 @@
   "croptopia:recipes/roasted_nuts_from_campfire": {
     "criteria": {
       "has_nut": "2025-03-07 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-03-07 05:56:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
     },
     "done": true
   },
@@ -17953,6 +17993,12 @@
   "twigs:recipes/tuff/polished_tuff": {
     "criteria": {
       "has_item": "2025-03-07 05:39:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/onion_rings": {
+    "criteria": {
+      "has_onions": "2025-03-07 05:56:45 +0000"
     },
     "done": true
   },
@@ -17992,9 +18038,21 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lacugrove_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_pillar_trim": {
     "criteria": {
       "has_acacia_pillar_trim": "2025-03-07 04:51:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
     },
     "done": true
   },
@@ -18037,6 +18095,12 @@
   "croptopia:recipes/candy_corn": {
     "criteria": {
       "has_the_recipe": "2025-03-07 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/cornflower": {
+    "criteria": {
+      "has_flower": "2025-03-07 05:56:49 +0000"
     },
     "done": true
   },
@@ -18112,9 +18176,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-03-07 05:56:45 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/lemon_sapling": {
     "criteria": {
       "has_lemon": "2025-03-07 05:24:31 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/allium": {
+    "criteria": {
+      "has_flower": "2025-03-07 05:56:45 +0000"
     },
     "done": true
   },
@@ -18127,6 +18203,18 @@
   "stoneworks:recipes/building_blocks/tuff_paver_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-07 05:39:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
     },
     "done": true
   },
@@ -18160,6 +18248,12 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/end_lotus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/tuff_stairs": {
     "criteria": {
       "has_item": "2025-03-07 05:39:19 +0000"
@@ -18169,6 +18263,12 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-03-07 05:31:27 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_flail": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
     },
     "done": true
   },
@@ -18268,6 +18368,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/host_armor_trim_smithing_template": {
     "criteria": {
       "has_terracotta": "2025-03-07 04:51:49 +0000"
@@ -18283,6 +18389,12 @@
   "techreborn:recipes/extractor/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-03-07 04:56:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-07 05:56:45 +0000"
     },
     "done": true
   },
@@ -18481,6 +18593,12 @@
   "croptopia:recipes/roasted_smoking": {
     "criteria": {
       "has_nut": "2025-03-07 05:04:07 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
     },
     "done": true
   },
@@ -18700,6 +18818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-03-07 05:56:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-03-07 04:56:03 +0000"
@@ -18745,6 +18869,12 @@
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-07 04:51:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
     },
     "done": true
   },
@@ -18821,6 +18951,24 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/rubeus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-03-07 05:56:45 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_acacia": {
     "criteria": {
       "has_the_recipe": "2025-03-07 04:51:14 +0000"
@@ -18854,6 +19002,12 @@
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-03-07 04:56:03 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/allium_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-03-07 05:56:45 +0000"
     },
     "done": true
   },
@@ -18905,9 +19059,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-03-07 05:56:45 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-07 05:39:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-03-07 05:56:49 +0000"
     },
     "done": true
   },
@@ -19007,6 +19173,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/wart_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/dark_oak_table_slab": {
     "criteria": {
       "has_bamboo": "2025-03-07 04:48:05 +0000"
@@ -19049,6 +19221,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/nether_sakura_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/nougat": {
     "criteria": {
       "has_nuts": "2025-03-07 05:04:07 +0000"
@@ -19076,6 +19254,12 @@
   "handcrafted:recipes/misc/acacia_bench": {
     "criteria": {
       "has_acacia_bench": "2025-03-07 04:51:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-07 05:56:45 +0000"
     },
     "done": true
   },
@@ -19112,6 +19296,18 @@
   "handcrafted:recipes/misc/acacia_drawer": {
     "criteria": {
       "has_acacia_drawer": "2025-03-07 04:51:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
     },
     "done": true
   },
@@ -19196,6 +19392,24 @@
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-03-07 05:39:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-03-07 05:56:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-03-07 05:42:21 +0000"
     },
     "done": true
   },

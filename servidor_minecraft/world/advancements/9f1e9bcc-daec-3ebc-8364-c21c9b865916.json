@@ -585,6 +585,7 @@
       "pine_taiga": "2025-03-07 05:09:50 +0000",
       "autumnal_maple_forest": "2025-03-04 02:18:03 +0000",
       "willow_forest": "2025-03-07 04:57:06 +0000",
+      "poppy_fields": "2025-03-07 05:48:50 +0000",
       "grassy_beach": "2025-03-03 20:06:39 +0000",
       "rocky_meadow": "2025-03-03 20:07:24 +0000",
       "ochard": "2025-03-03 21:24:14 +0000",
@@ -593,6 +594,7 @@
       "magnolia_highlands": "2025-03-07 04:57:08 +0000",
       "mountains": "2025-03-07 04:56:13 +0000",
       "temperate_grove": "2025-03-03 21:33:20 +0000",
+      "cold_river": "2025-03-07 05:47:52 +0000",
       "pine_slopes": "2025-03-04 21:51:00 +0000",
       "lupine_plains": "2025-03-07 04:59:12 +0000"
     },
@@ -605,6 +607,7 @@
       "pine_taiga": "2025-03-07 05:09:50 +0000",
       "autumnal_maple_forest": "2025-03-04 02:18:03 +0000",
       "willow_forest": "2025-03-07 04:57:06 +0000",
+      "poppy_fields": "2025-03-07 05:48:50 +0000",
       "grassy_beach": "2025-03-03 20:06:39 +0000",
       "rocky_meadow": "2025-03-03 20:07:24 +0000",
       "ochard": "2025-03-03 21:24:14 +0000",
@@ -613,6 +616,7 @@
       "magnolia_highlands": "2025-03-07 04:57:08 +0000",
       "mountains": "2025-03-07 04:56:13 +0000",
       "temperate_grove": "2025-03-03 21:33:20 +0000",
+      "cold_river": "2025-03-07 05:47:52 +0000",
       "pine_slopes": "2025-03-04 21:51:00 +0000",
       "lupine_plains": "2025-03-07 04:59:12 +0000"
     },
@@ -1136,6 +1140,7 @@
       "beef": "2025-03-05 06:50:32 +0000",
       "apple": "2025-03-03 21:02:46 +0000",
       "bread": "2025-03-03 20:31:55 +0000",
+      "cookie": "2025-03-07 05:54:31 +0000",
       "carrot": "2025-03-07 04:48:33 +0000"
     },
     "done": false
@@ -3292,6 +3297,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-03-07 05:44:24 +0000",
       "minecraft:deep_ocean": "2025-03-03 21:40:48 +0000",
       "minecraft:cherry_grove": "2025-03-04 20:29:20 +0000",
       "minecraft:birch_forest": "2025-03-07 04:59:40 +0000",
@@ -11746,6 +11752,12 @@
     },
     "done": true
   },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2025-03-07 05:41:48 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/vinemaker_boots": {
     "criteria": {
       "has_brown_wool": "2025-03-07 05:33:00 +0000"
@@ -11779,6 +11791,12 @@
   "handcrafted:recipes/misc/bricks_pillar_trim": {
     "criteria": {
       "has_bricks_pillar_trim": "2025-03-07 05:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-07 05:45:03 +0000"
     },
     "done": true
   },
@@ -11896,6 +11914,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-07 05:45:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_paver_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-07 05:39:12 +0000"
@@ -11986,6 +12010,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-07 05:45:03 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-07 05:39:12 +0000"
@@ -12043,6 +12073,12 @@
   "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
     "criteria": {
       "has_brown_wool": "2025-03-07 05:33:00 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "revenant": "2025-03-07 05:52:25 +0000"
     },
     "done": true
   },
@@ -12130,6 +12166,12 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "cold_eye": "2025-03-07 05:41:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-03-07 05:39:12 +0000"
@@ -12141,6 +12183,12 @@
       "has_white_wool": "2025-03-07 05:38:08 +0000"
     },
     "done": true
+  },
+  "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
+    "criteria": {
+      "has_snowball": "2025-03-07 05:45:03 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
