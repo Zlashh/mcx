@@ -20194,5 +20194,11 @@
     },
     "done": true
   },
+  "rpg_series:spell_novice_fire": {
+    "criteria": {
+      "bind": "2025-03-10 05:44:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

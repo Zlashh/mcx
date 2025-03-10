@@ -2475,3 +2475,10 @@ BCLib - Nether BiomeSource (1b3c0fac)
 [05:34:03] [Server thread/INFO]: [EMI] Joapapiriko cheated in 1 iron_chest_upgrade
 [05:34:03] [Server thread/INFO]: [EMI] Joapapiriko cheated in 1 iron_chest_upgrade
 [05:34:07] [Server thread/INFO]: [EMI] Joapapiriko deleted 50 copper_chest_upgrade
+[05:40:57] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[05:41:15] [Server thread/INFO]: [EMI] Joapapiriko cheated in 1 enchanted_book
+[05:41:58] [Server thread/INFO]: [EMI] Joapapiriko cheated in 64 lapis_lazuli
+[05:44:05] [Server thread/INFO]: [EMI] Joapapiriko cheated in 1 darkball_tome
+[05:44:32] [Server thread/INFO]: [EMI] Joapapiriko cheated in 1 fire_spell_book
+[05:44:38] [Server thread/INFO]: Joapapiriko has made the advancement [Playing with fire]
+[05:44:38] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: wizards:fire isComplete: false
