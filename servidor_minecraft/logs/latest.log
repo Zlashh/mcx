@@ -2492,3 +2492,59 @@ BCLib - Nether BiomeSource (1b3c0fac)
 [05:55:08] [Server thread/INFO]: [EMI] Joapapiriko cheated in 1 grimoire
 [05:55:09] [Server thread/INFO]: [EMI] Joapapiriko cheated in 1 guide_book
 [05:58:35] [Server thread/INFO]: [Joapapiriko: Added 1000 mana to Joapapiriko]
+[05:59:58] [Server thread/INFO]: [Joapapiriko: Added 1000 mana to Joapapiriko]
+[06:00:27] [Server thread/INFO]: [Joapapiriko: Added 1000 mana to Joapapiriko]
+[06:04:24] [Server thread/INFO]: [EMI] Joapapiriko cheated in 64 fire_stone
+[06:09:00] [Server thread/INFO]: Joapapiriko has reached the goal [Maximum Strength]
+[06:09:00] [Server thread/INFO]: Joapapiriko has completed the challenge [Only the Best]
+[06:09:00] [Server thread/INFO]: [Joapapiriko: Granted 2 advancements to Joapapiriko]
+[06:09:05] [Server thread/INFO]: [Handshake] Sending channel query
+[06:09:05] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[06:09:05] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[06:09:06] [Server thread/INFO]: Zlashh[/127.238.225.249:35913] logged in with entity id 5440 at (-665.233119456249, 71.0, 70.89180387601193)
+[06:09:06] [Server thread/INFO]: Sending server config values to client
+[06:09:06] [Server thread/INFO]: Syncing config to Zlashh (9f1e9bcc-daec-3ebc-8364-c21c9b865916)
+[06:09:06] [Server thread/INFO]: Loading config from file...
+[06:09:06] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[06:09:06] [Server thread/INFO]: Zlashh joined the game
+[06:09:06] [Server thread/INFO]: Loading Configs for Sortilege
+[06:09:06] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[06:09:06] [Server thread/INFO]: PLAYER_JOIN
+[06:09:06] [Server thread/INFO]: add_player wand
+[06:09:06] [Server thread/INFO]: config sent
+[06:09:06] [Server thread/INFO]: Updating all forceload tickets for 9f1e9bcc-daec-3ebc-8364-c21c9b865916
+[06:09:07] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[06:09:10] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: Zlashh -> Global
+[06:09:10] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Zlashh. Claiming: GRAVE / Robbing: INVENTORY
+[06:09:12] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Zlashh accepted server config.
+[06:09:49] [Server thread/INFO]: <Joapapiriko> ya estaba por irme XD
+[06:10:00] [Server thread/INFO]: <Zlashh> me odias
+[06:10:10] [Server thread/INFO]: <Joapapiriko> Estuve jugando solito, pendejow
+[06:10:10] [Server thread/INFO]: Zlashh has reached the goal [Choose your path]
+[06:10:15] [Server thread/INFO]: <Zlashh> que esta mrd
+[06:10:24] [Server thread/INFO]: <Zlashh> hay una mesa morada
+[06:10:25] [Server thread/INFO]: <Joapapiriko> es la huevada para hacer magia, pero no entiendo como funciona
+[06:10:55] [Server thread/INFO]: <Zlashh> cachamos?
+[06:11:00] [Server thread/INFO]: <Joapapiriko> ya pe
+[06:11:04] [Server thread/INFO]: <Joapapiriko> ven, quiero probar algo
+[06:11:15] [Server thread/INFO]: [Zlashh: Teleported Zlashh to Joapapiriko]
+[06:11:16] [Server thread/INFO]: [EMI] Joapapiriko cheated in 1 super_experience_pouch
+[06:11:38] [Server thread/INFO]: [EMI] Joapapiriko cheated in 64 experience_bottle
+[06:11:38] [Server thread/INFO]: [EMI] Joapapiriko cheated in 1 experience_bottle
+[06:11:56] [Server thread/INFO]: <Zlashh> tas bien?
+[06:12:00] [Server thread/INFO]: <Joapapiriko> no sé cómo mierda hacer subir la xp de las stats
+[06:12:23] [Server thread/INFO]: <Zlashh> creo que matando
+[06:12:26] [Server thread/INFO]: <Zlashh> y misiones
+[06:12:40] [Server thread/INFO]: <Zlashh> dc
+[06:13:11] [Server thread/INFO]: <Zlashh> dc
+[06:13:12] [Server thread/INFO]: <Zlashh> y misiones
+[06:13:15] [Server thread/INFO]: [Zlashh: Teleported Zlashh to Joapapiriko]
+[06:15:25] [Server thread/INFO]: [Zlashh: Set own game mode to Spectator Mode]
+[06:16:06] [Server thread/INFO]: Joapapiriko lost connection: Disconnected
+[06:16:06] [Server thread/INFO]: Joapapiriko left the game
+[06:16:06] [Server thread/INFO]: remove player wand
+[06:16:06] [Server thread/INFO]: Updating all forceload tickets for 96c34201-ae05-31ec-b1aa-4c023d05ac5c
+[06:16:10] [Server thread/INFO]: Zlashh lost connection: Disconnected
+[06:16:10] [Server thread/INFO]: Zlashh left the game
+[06:16:10] [Server thread/INFO]: remove player wand
+[06:16:10] [Server thread/INFO]: Updating all forceload tickets for 9f1e9bcc-daec-3ebc-8364-c21c9b865916
