@@ -2482,3 +2482,13 @@ BCLib - Nether BiomeSource (1b3c0fac)
 [05:44:32] [Server thread/INFO]: [EMI] Joapapiriko cheated in 1 fire_spell_book
 [05:44:38] [Server thread/INFO]: Joapapiriko has made the advancement [Playing with fire]
 [05:44:38] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: wizards:fire isComplete: false
+[05:48:48] [Server thread/INFO]: [Joapapiriko: Gave 100000 experience points to Joapapiriko]
+[05:48:58] [Server thread/INFO]: [Joapapiriko: Gave 100000 experience points to Joapapiriko]
+[05:49:00] [Server thread/INFO]: [Joapapiriko: Gave 100000 experience points to Joapapiriko]
+[05:51:03] [Server thread/INFO]: [Joapapiriko: Set 10 experience levels on Joapapiriko]
+[05:51:25] [Server thread/INFO]: [Joapapiriko: Set 10 experience points on Joapapiriko]
+[05:51:29] [Server thread/INFO]: [Joapapiriko: Set 10 experience points on Joapapiriko]
+[05:51:42] [Server thread/INFO]: [Joapapiriko: Gave 100000 experience points to Joapapiriko]
+[05:55:08] [Server thread/INFO]: [EMI] Joapapiriko cheated in 1 grimoire
+[05:55:09] [Server thread/INFO]: [EMI] Joapapiriko cheated in 1 guide_book
+[05:58:35] [Server thread/INFO]: [Joapapiriko: Added 1000 mana to Joapapiriko]
